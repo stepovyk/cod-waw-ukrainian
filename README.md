@@ -1,36 +1,69 @@
-# Українська локалізація Call of Duty: World at War (PC, v1.7)
+<p align="center"><img src="docs/images/cover.jpg" alt="Call of Duty: World at War українською" width="100%"></p>
 
-Повний переклад тексту гри: меню, кампанія (субтитри, завдання, підказки, цитати після смерті, вступи до місій), зомбі, кооператив, мультиплеєр, титри, системні вікна Windows. Шрифти гри перемальовано наново гарнітурою Fira Sans Condensed (консоль – Fira Mono) з повною кирилицею й подвійною чіткістю.
+# Call of Duty: World at War українською
 
-Голос і відеоролики лишаються англійськими (з українськими субтитрами). Написи, намальовані прямо на текстурах (заставки завантаження, мапи на стінах, компас), – теж оригінальні.
+Повна українська локалізація Call of Duty: World at War для ПК.
 
-## Встановлення й видалення
+**Версія:** 1.0 · **Гра:** 1.7 · **Автор:** Stepovyk
 
-Потрібен Python 3 і бібліотеки з `.deps/` (capstone, pefile, pillow, numpy, fonttools).
+**[⬇ Завантажити інсталятор](../../releases/latest)**
+
+[English below](#english)
+
+## Що перекладено
+
+- **Увесь текст гри.** Меню й налаштування, кампанія (субтитри, завдання, підказки, вступи до місій, цитати після загибелі), зомбі, кооператив, мультиплеєр, випробування, титри й системні вікна Windows. Понад 9 600 рядків.
+- **Нові шрифти.** Усі шрифти гри перемальовано з повною кирилицею (і, ї, є, ґ, апостроф, «лапки»), рівні й чіткі навіть на великих екранах.
+- **Жива мова.** Переклад пройшов окрему редактуру: військова лексика, звертання в кличному відмінку, природні репліки, а не дослівщина.
+
+Голос і відеоролики лишаються англійськими, з українськими субтитрами.
+
+## Як це виглядає
+
+<p>
+<img src="docs/images/screen-01.jpg" width="49%" alt="Головне меню">
+<img src="docs/images/screen-02.jpg" width="49%" alt="Субтитри в кампанії">
+<img src="docs/images/screen-04.jpg" width="49%" alt="Вибір місії">
+<img src="docs/images/screen-05.jpg" width="49%" alt="Налаштування">
+<img src="docs/images/screen-07.jpg" width="49%" alt="Мультиплеєр">
+<img src="docs/images/screen-08.jpg" width="49%" alt="Вибір класу">
+</p>
+
+## Встановлення
+
+1. Завантажте `WaW-Ukrainian-1.0.zip` з [Releases](../../releases/latest) і розпакуйте.
+2. Закрийте гру й запустіть `WaW-Ukrainian-Setup.exe`.
+3. Перевірте теку гри (ту, де лежить `CoDWaW.exe`) і натисніть **«Встановити»**.
+
+Щоб повернути англійську, запустіть інсталятор ще раз і натисніть **«Видалити»**.
+
+Потрібна гра версії 1.7 з англійською мовою (диск або Steam). Інсталятор не містить файлів гри: він акуратно змінює лише ваші власні файли, перевіряє версію перед змінами й уміє все повернути назад.
+
+## Підтримати
+
+Переклад безкоштовний. Якщо хочете, щоб українською заговорили й інші частини Call of Duty, підтримайте роботу:
+
+- **Monobank:** https://send.monobank.ua/jar/8aeC9dGFrn
+- **Приват24:** https://www.privat24.ua/send/kkyqm
+
+Помилку в перекладі чи ідею можна надіслати через [Issues](../../issues).
+
+## Для розробників
 
 ```
-python tools/build.py              # зібрати все в work/out з оригінальних файлів гри
-python tools/install.py            # встановити (оригінали спершу зберігаються в backup/)
-python tools/install.py --remove   # повернути оригінальну англійську версію
+python tools/build.py          # зібрати локалізацію з оригінальних файлів гри
+python tools/install.py        # поставити в гру (оригінали зберігаються в backup/)
+python tools/make_release.py   # зібрати інсталятор для гравців
 ```
 
-Гру перед встановленням треба закрити. Шлях до гри – у `tools/paths.py`.
+Переклад лежить у `data/uk/*.json`, правила перекладу й глосарій – у `docs/guide.md` і `data/glossary.json`. Шрифти будує `tools/build_fonts.py`, латки exe – `tools/exepatch.py`.
 
-## Як це влаштовано
+---
 
-- **Рядки** (`data/uk/*.json`, 9 666 ключів) збираються в окремі зони `localized_common.ff` (кампанія, зомбі) і `localized_ukrainian_mp.ff` (мультиплеєр), які перекривають англійські. Рядки, що в зомбі-картах конфліктують із загальними, правляться прямо в зонах карт.
-- **Exe** (`tools/exepatch.py`): пріоритет завантаження української зони, збільшений пул локалізованих рядків (10 240 → 24 576) і черга копіювання ресурсів (3 072 → 16 384) – інакше гра не вміщує повний переклад.
-- **Шрифти** (`tools/build_fonts.py`): нові гліфи для всіх 7 ігрових шрифтів, метрики й базова лінія як в оригіналі, товщина штриха підібрана автоматично; атлас 2048×1024 у `main/localized_english_iw07.iwd`.
-- **Буквальні тексти меню** (`tools/build_menus.py`): кілька написів, які розробники вписали в меню без ключа локалізації, перекладено на місці.
-- **Системні вікна** – `localization.txt`.
-- Профіль гравця: стандартні назви своїх класів («Custom 1…») встановлювач міняє на «Свій клас 1…».
+## English
 
-## Робота з перекладом
+A complete Ukrainian localization of Call of Duty: World at War (PC, v1.7): menus, campaign subtitles and objectives, Nazi Zombies, co-op, multiplayer, credits and Windows dialogs, with redrawn game fonts that include full Cyrillic. Voice-over stays English with Ukrainian subtitles.
 
-- Правила й глосарій: `docs/guide.md`, `data/glossary.json`.
-- Перевірка партії: `python tools/check_batch.py NN` (теги `^N`, `&&N`, `[{…}]`, `%s`, переноси, символи).
-- Точкова правка: `python tools/setstr.py КЛЮЧ "текст"`.
-- Ширина напису порівняно з оригіналом: `python tools/textwidth.py fonts/normalFont "English" "Українською"`.
-- Узгодженість однакових фраз: `python tools/consistency.py`, мовні огріхи: `python tools/lint_uk.py`.
+**Install:** download `WaW-Ukrainian-1.0.zip` from [Releases](../../releases/latest), close the game, run `WaW-Ukrainian-Setup.exe`, pick the game folder and press «Встановити» (Install). Press «Видалити» (Remove) to restore English. The installer ships no game files: it patches your own copy in place, verifies the game version first and can revert every change.
 
-Шрифти Fira – SIL Open Font License (`fonts/OFL.txt`).
+Unofficial fan project, not affiliated with Activision or Treyarch. Code and translation – MIT, see [LICENSE](LICENSE).
