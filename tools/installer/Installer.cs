@@ -29,7 +29,7 @@ namespace WawUkrainian
     {
         public const string Donate = "https://send.monobank.ua/jar/8aeC9dGFrn";
         public const string Repo = "https://github.com/stepovyk/cod-waw-ukrainian";
-        public const string Telegram = "";
+        public const string Telegram = "https://t.me/stepovyk_ua";
     }
 
     static class Payload

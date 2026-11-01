@@ -46,7 +46,7 @@
 - **Monobank:** https://send.monobank.ua/jar/8aeC9dGFrn
 - **Приват24:** https://www.privat24.ua/send/kkyqm
 
-Помилку в перекладі чи ідею можна надіслати через [Issues](../../issues).
+Новини, питання й нові переклади – у Telegram: [t.me/stepovyk_ua](https://t.me/stepovyk_ua). Помилку в перекладі можна надіслати і через [Issues](../../issues).
 
 ## Для розробників
 
