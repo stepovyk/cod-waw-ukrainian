@@ -4,7 +4,7 @@
 
 Повна українська локалізація Call of Duty: World at War для ПК.
 
-**Версія:** 1.0 · **Гра:** 1.7 · **Автор:** Stepovyk
+**Версія:** 1.0.2 · **Гра:** 1.7 · **Автор:** Stepovyk
 
 **[Завантажити інсталятор](../../releases/latest)**
 
@@ -31,13 +31,13 @@
 
 ## Встановлення
 
-1. Завантажте `WaW-Ukrainian-1.0.zip` з [Releases](../../releases/latest) і розпакуйте.
-2. Закрийте гру й запустіть `WaW-Ukrainian-Setup.exe`.
+1. Завантажте `WaW-Ukrainian-1.0.2.zip` з [Releases](../../releases/latest) і розпакуйте.
+2. Закрийте гру й запустіть `WaW-Ukrainian-Setup.cmd`. Якщо Windows спитає, чи запускати файл, натисніть «Запустити».
 3. Перевірте теку гри (ту, де лежить `CoDWaW.exe`) і натисніть **«Встановити»**.
 
 Щоб повернути англійську, запустіть інсталятор ще раз і натисніть **«Видалити»**.
 
-Потрібна гра версії 1.7 з англійською мовою (диск або Steam). Інсталятор не містить файлів гри: він акуратно змінює лише ваші власні файли, перевіряє версію перед змінами й уміє все повернути назад.
+Потрібна гра версії 1.7 з англійською мовою (диск або Steam). Інсталятор не містить файлів гри: він акуратно змінює лише ваші власні файли, перевіряє версію перед змінами й уміє все повернути назад. Це звичайний відкритий скрипт PowerShell (`WaW-Ukrainian.ps1`), його можна прочитати будь-яким редактором.
 
 ## Підтримати
 
@@ -64,6 +64,6 @@ python tools/make_release.py   # зібрати інсталятор для гр
 
 A complete Ukrainian localization of Call of Duty: World at War (PC, v1.7): menus, campaign subtitles and objectives, Nazi Zombies, co-op, multiplayer, credits and Windows dialogs, with redrawn game fonts that include full Cyrillic. Voice-over stays English with Ukrainian subtitles.
 
-**Install:** download `WaW-Ukrainian-1.0.zip` from [Releases](../../releases/latest), close the game, run `WaW-Ukrainian-Setup.exe`, pick the game folder and press «Встановити» (Install). Press «Видалити» (Remove) to restore English. The installer ships no game files: it patches your own copy in place, verifies the game version first and can revert every change.
+**Install:** download `WaW-Ukrainian-1.0.2.zip` from [Releases](../../releases/latest), unpack it, close the game, run `WaW-Ukrainian-Setup.cmd`, pick the game folder and press «Встановити» (Install). Press «Видалити» (Remove) to restore English. The installer is a plain, readable PowerShell script that ships no game files: it patches your own copy in place, verifies the game version first and can revert every change.
 
 Unofficial fan project, not affiliated with Activision or Treyarch. Code and translation – MIT, see [LICENSE](LICENSE).

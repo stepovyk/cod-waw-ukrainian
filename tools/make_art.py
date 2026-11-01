@@ -92,7 +92,9 @@ def main():
     title_card((1920, 1080), 'beach', 140, 190, 150, tag).save(ART / 'cover-1920x1080.jpg', quality=92)
     title_card((1280, 640), 'beach', 96, 118, 94, tag).save(ART / 'social-1280x640.png')
     title_card((1280, 720), 'castle', 96, 128, 100, tag).save(ART / 'cover-1280x720.jpg', quality=92)
-    emblem(256).save(INST / 'icon.ico', sizes=[(16, 16), (24, 24), (32, 32), (48, 48), (64, 64), (128, 128), (256, 256)])
+    title_card((1600, 1200), 'beach', 130, 180, 140, tag).save(ART / 'logo-1600x1200.jpg', quality=92)  # ModDB
+    backdrop('beach', (1900, 300), darken=1.25, blur=0).save(ART / 'header-1900x300.jpg', quality=92)  # ModDB, без тексту
+    emblem(64).save(INST / 'icon.png')
     emblem(512).save(ART / 'emblem-512.png')
     avatar(640).save(ART / 'telegram-avatar.png')
     shots = ['01-menu', 'mission-44', 'mission-52', '04-missions', '02-settings', '05-zombies', '06-mp-team', '07-mp-class']
