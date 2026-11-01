@@ -1,0 +1,3326 @@
+{
+ "SUBTITLE_PBY1_IGD_545A_LAND": {
+  "en": "^1LANDRY: ^7Damage to the right wing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_546A_LAND": {
+  "en": "^1LANDRY: ^7Left wing's smoking!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_547A_LAND": {
+  "en": "^1LANDRY: ^7Number two engine's barely holding!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_548A_LAND": {
+  "en": "^1LANDRY: ^7Much more of this and we'll lose that engine!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_549A_LAND": {
+  "en": "^1LANDRY: ^7We have a hull breach right above me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_550A_BOOT": {
+  "en": "^1BOOTH: ^7High!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_551A_BOOT": {
+  "en": "^1BOOTH: ^7Low!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_552A_LAUG": {
+  "en": "^1LAUGHLIN: ^712 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_553A_LAUG": {
+  "en": "^1LAUGHLIN: ^71 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_554A_LAUG": {
+  "en": "^1LAUGHLIN: ^72 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_555A_LAUG": {
+  "en": "^1LAUGHLIN: ^73 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_556A_LAUG": {
+  "en": "^1LAUGHLIN: ^74 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_557A_LAUG": {
+  "en": "^1LAUGHLIN: ^75 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_558A_LAUG": {
+  "en": "^1LAUGHLIN: ^76 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_559A_LAUG": {
+  "en": "^1LAUGHLIN: ^77 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_560A_LAUG": {
+  "en": "^1LAUGHLIN: ^78 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_561A_LAUG": {
+  "en": "^1LAUGHLIN: ^79 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_562A_LAUG": {
+  "en": "^1LAUGHLIN: ^710 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_563A_LAUG": {
+  "en": "^1LAUGHLIN: ^711 o'clock!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_564A_LAUG": {
+  "en": "^1LAUGHLIN: ^7High!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_565A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Low!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_566A_BOOT": {
+  "en": "^1BOOTH: ^7That was close!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_567A_BOOT": {
+  "en": "^1BOOTH: ^7Close one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_568A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Whoooahh!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_569A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Too fucking close!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_569A_LAUG_SAFE": {
+  "en": "^1LAUGHLIN: ^7Too close!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_570A_USR3": {
+  "en": "^1US SEAMAN: ^7Get me outta here!\nPlease god, get me out of here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_571A_USR1": {
+  "en": "^1US SEAMAN: ^7Help, please, over here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_572A_USR2": {
+  "en": "^1US SEAMAN: ^7Oh god, god, (cry)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_573A_USR3": {
+  "en": "^1US SEAMAN: ^7(throwing up)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_574A_USR1": {
+  "en": "^1US SEAMAN: ^7(throwing up)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_575A_USR2": {
+  "en": "^1US SEAMAN: ^7(throwing up)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_576A_USR3": {
+  "en": "^1US SEAMAN: ^7(throwing up)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_577A_USR1": {
+  "en": "^1US SEAMAN: ^7There's more coming,\nget me outta the fucking water, get me out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_577A_USR1_SAFE": {
+  "en": "^1US SEAMAN: ^7There's more coming,\nget me outta the water, get me out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_578A_USR2": {
+  "en": "^1US SEAMAN: ^7(shivering, breathing heavy)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_579A_USR2": {
+  "en": "^1US SEAMAN: ^7(shivering) Oh god",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_580A_USR1": {
+  "en": "^1US SEAMAN: ^7Oh god, oh my god, oh god, (whining)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_581A_USR3": {
+  "en": "^1US SEAMAN: ^7Oh god, (heavy breathing)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_582A_USR3": {
+  "en": "^1US SEAMAN: ^7Oh god please, pleeeeaaaseeee!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_600A_BOOT": {
+  "en": "^1BOOTH: ^7PT boat Sunk.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_601A_BOOT": {
+  "en": "^1BOOTH: ^7PT boat disabled.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_602A_BOOT": {
+  "en": "^1BOOTH: ^7You put a lotta holes in that PT Boat.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_603A_LAUG": {
+  "en": "^1LAUGHLIN: ^7PT boat goin' down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_604A_LAUG": {
+  "en": "^1LAUGHLIN: ^7PT boat outta commission!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_605A_LAUG": {
+  "en": "^1LAUGHLIN: ^7You tore that PT boat to pieces!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_606A_BOOT": {
+  "en": "^1BOOTH: ^7Zero goin' down.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_607A_BOOT": {
+  "en": "^1BOOTH: ^7You nailed that plane.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_608A_BOOT": {
+  "en": "^1BOOTH: ^7Zero, down.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_609A_LAUG": {
+  "en": "^1LAUGHLIN: ^7His flyin' days are over.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_610A_LAUG": {
+  "en": "^1LAUGHLIN: ^7You clipped that bastards wings!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_610A_LAUG_SAFE": {
+  "en": "^1LAUGHLIN: ^7You clipped his wings!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_611A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Another Zero knocked out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_612A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Zero taken down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_613A_LAUG": {
+  "en": "^1LAUGHLIN: ^7I'm low on ammo!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_614A_LAUG": {
+  "en": "^1LAUGHLIN: ^7I'm almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_615A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Shit! Ammo's running low!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_615A_LAUG_SAFE": {
+  "en": "^1LAUGHLIN: ^7Ammo's running low!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_616A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Right 50 Cal.'s almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_617A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Left 50 Cal.'s almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_618A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Right 50's almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_619A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Left 50's almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_620A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Right turret's almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_621A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Left turret's almost out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_622A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Dammit! I'm out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_622A_LAUG_SAFE": {
+  "en": "^1LAUGHLIN: ^7I'm out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_623A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Out of Ammo!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_624A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Left turret's out of ammo!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_625A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Right turret's out of ammo!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_626A_LAUG": {
+  "en": "^1LAUGHLIN: ^7Shit!  We're out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_626A_LAUG_SAFE": {
+  "en": "^1LAUGHLIN: ^7We're out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_627A_LAND": {
+  "en": "^1LANDRY: ^7That ain't good!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_628A_LAND": {
+  "en": "^1LANDRY: ^7Booth we got get outta here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_629A_BOOT": {
+  "en": "^1BOOTH: ^7There's too many Zeroes!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_630A_BOOT": {
+  "en": "^1BOOTH: ^7Locke! Make those shots count!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_631A_BOOT": {
+  "en": "^1BOOTH: ^7Let's hope there's enough left on the front!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_632A_BOOT": {
+  "en": "^1BOOTH: ^7Do what you can!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_IGD_633A_BOOT": {
+  "en": "^1BOOTH: ^7Make every one count!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_000A_HARR": {
+  "en": "^1HARRINGTON: ^7Booth, Comin' up over them now...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_000B_HARR": {
+  "en": "^1HARRINGTON: ^7Hammerhead,\nwe're comin' over them now...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_001A_BOOT": {
+  "en": "^1BOOTH: ^7Yeah... I see 'em... Landry, open up comms.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_002A_BOOT": {
+  "en": "^1BOOTH: ^7Major Gordon...\nVessels are now in visual range.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_003A_BOOT": {
+  "en": "^1BOOTH: ^7Unmarked Japanese merchant fleet.\ndesignation unknown.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_004A_MAJG": {
+  "en": "^1MAJOR GORDON: ^7They're probably re-supplying\nthe enemy on Okinawa.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_005A_BOOT": {
+  "en": "^1BOOTH: ^7Legitimate targets?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_006A_MAJG": {
+  "en": "^1MAJOR GORDON: ^7Affirmative.\nThey're part of the enemy war machine.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_007A_MAJG": {
+  "en": "^1MAJOR GORDON: ^7Permission to engage.  Over and out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_008A_BOOT": {
+  "en": "^1BOOTH: ^7Roger that.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_009A_BOOT": {
+  "en": "^1BOOTH: ^7Laughlin, Locke! Get to your stations!\nStart picking targets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_010A_BOOT": {
+  "en": "^1BOOTH: ^7Locke!  Get you thumb out your ass\nand pull that damn trigger!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_INT_010A_BOOT_SAFE": {
+  "en": "^1BOOTH: ^7Locke!  Pull that trigger!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_000A_LAND": {
+  "en": "^1LANDRY: ^7There's too many of them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_001A_LAND": {
+  "en": "^1LANDRY: ^7We're almost out of ammo!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_002A_LAND": {
+  "en": "^1LANDRY: ^7Out of ammo...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_003A_LAND": {
+  "en": "^1LANDRY: ^7We're sitting ducks...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_004A_BOOT": {
+  "en": "^1BOOTH: ^7Shit...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_005A_BOOT": {
+  "en": "^1BOOTH: ^7Smoke 'em if you got 'em, guys.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_006A_CAIR": {
+  "en": "^1CORSAIR PILOT: ^7Black Cat Mantaray 54.\nHavok 26, coming over you now.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_007A_CAIR": {
+  "en": "^1CORSAIR PILOT: ^7We'll take it from here...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_008A_CAIR": {
+  "en": "^1CORSAIR PILOT: ^7Get yourselves back to base...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_009A_CAIR": {
+  "en": "^1CORSAIR PILOT: ^7Watch your fire, Mantaray!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PBY1_OUT_010A_CAIR": {
+  "en": "^1CORSAIR PILOT: ^7Hold fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_100A_ROEB": {
+  "en": "^1ROEBUCK: ^7Our Tanks are getting hammered\nby mortar fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_101A_ROEB": {
+  "en": "^1ROEBUCK: ^7We're need to clear these trenches\nand knock out each mortar pit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_102A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get ready with that flamethrower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_103A_ROEB": {
+  "en": "^1ROEBUCK: ^7Incoming!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_104A_POLO": {
+  "en": "^1POLONSKY: ^7MG up on that hill!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_105A_POLO": {
+  "en": "^1POLONSKY: ^7It's tearing up our men!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_106A_ROEB": {
+  "en": "^1ROEBUCK: ^7Throw some smoke for cover!\nOr it will rip us to shreds!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_107A_POLO": {
+  "en": "^1POLONSKY: ^7Throw smoke!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_108A_ROEB": {
+  "en": "^1ROEBUCK: ^7Go!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_109A_ROEB": {
+  "en": "^1ROEBUCK: ^7Is that MG is history?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_110A_ROEB": {
+  "en": "^1ROEBUCK: ^7All right... let's keep on 'em!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_111A_ROEB": {
+  "en": "^1ROEBUCK: ^7This way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_112A_ROEB": {
+  "en": "^1ROEBUCK: ^7Eyes open!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_113A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get up there!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_114A_ROEB": {
+  "en": "^1ROEBUCK: ^7Take the high ground!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_115A_POLO": {
+  "en": "^1POLONSKY: ^7First mortar pit up ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_116A_ROEB": {
+  "en": "^1ROEBUCK: ^7Go clear it out, Miller...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_117A_ROEB": {
+  "en": "^1ROEBUCK: ^7One down.  Move on!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_118A_POLO": {
+  "en": "^1POLONSKY: ^7There's the next mortar pit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_119A_ROEB": {
+  "en": "^1ROEBUCK: ^7Burn 'em!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_120A_ROEB": {
+  "en": "^1ROEBUCK: ^7Taken out. One more pit to clear.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_121A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep it up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_122A_ROEB": {
+  "en": "^1ROEBUCK: ^7Take cover!\nBehind the barrels, get down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_123A_POLO": {
+  "en": "^1POLONSKY: ^7Look out!  Enemies on the ridge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_124A_ROEB": {
+  "en": "^1ROEBUCK: ^7Last mortar pit's dead ahead!\nMove!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_125A_ROEB": {
+  "en": "^1ROEBUCK: ^7We're almost done here.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_126A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get in there and clear those tunnels!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_127A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear those tunnels!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_128A_ROEB": {
+  "en": "^1ROEBUCK: ^7Outstanding!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_129A_ROEB": {
+  "en": "^1ROEBUCK: ^7Radio command, tell 'em\nwe've cleared the mortar pits.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_130A_ROEB": {
+  "en": "^1ROEBUCK: ^7Good work, Marines...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_131A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Sir, mortar pits have \nbeen neutralized... Tanks are now \nen route to the point.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_132A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Sarge! ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_133A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7We have confirmed\nsightings of Japanese reinforcements on the move. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_134A_POLO": {
+  "en": "^1POLONSKY: ^7Where're they headed?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_135A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Right towards us.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_136A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Approximately 3 miles\nfrom our position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_137A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Approximately 2 miles\nfrom our position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_138A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Approximately 1 mile\nfrom our position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_139A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7They'll be right on us\nwithin six hours.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_140A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7They'll be right on us\nwithin four hours.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_141A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7They'll be right on us\nwithin two hours.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_142A_ROEB": {
+  "en": "^1ROEBUCK: ^7Shit! Okay, Marines...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_142A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Okay, Marines...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_143A_ROEB": {
+  "en": "^1ROEBUCK: ^7Tojo's on the way.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_144A_ROEB": {
+  "en": "^1ROEBUCK: ^7They recapture these trenches,\nand we're right back to square one.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_145A_ROEB": {
+  "en": "^1ROEBUCK: ^7Set up a perimeter...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_146A_ROEB": {
+  "en": "^1ROEBUCK: ^7We gotta hold this line.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_147A_POLO": {
+  "en": "^1POLONSKY: ^7Do we have enough the ammo?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_148A_ROEB": {
+  "en": "^1ROEBUCK: ^7Grab whatever you can...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_149A_ROEB": {
+  "en": "^1ROEBUCK: ^7I don't care if the emperor's\ndamn picture's on it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_149A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7I don't care if the emperor's\npicture's on it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_150A_ROEB": {
+  "en": "^1ROEBUCK: ^7Put it to use.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_151A_ROEB": {
+  "en": "^1ROEBUCK: ^7Let's do it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_152A_POLO": {
+  "en": "^1POLONSKY: ^7Here they come!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_153A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep 'em back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_154A_POLO": {
+  "en": "^1POLONSKY: ^7They're all around!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_155A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep firing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_156A_POLO": {
+  "en": "^1POLONSKY: ^7Tanks are moving up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1A_IGD_157A_ROEB": {
+  "en": "^1ROEBUCK: ^7Good work... We made it.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_000A_ROEB": {
+  "en": "^1ROEBUCK: ^7The 200mm on the point\nstill has white beach targeted.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_001A_ROEB": {
+  "en": "^1ROEBUCK: ^7We all saw first hand what that\nmeans when he hit shore.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_002A_ROEB": {
+  "en": "^1ROEBUCK: ^7Any attempt to bring in reinforcements\njust leads to the same outcome...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_003A_POLO": {
+  "en": "^1POLONSKY: ^7A fucking bloodbath...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_003A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7A bloodbath...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_004A_ROEB": {
+  "en": "^1ROEBUCK: ^7Yeah... well...  \nMajor Gordon's suspended any further landings\nuntil the guns are knocked out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_005A_ROEB": {
+  "en": "^1ROEBUCK: ^7Now listen...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_006A_ROEB": {
+  "en": "^1ROEBUCK: ^7Tojo's got a network of tunnels and caves\nrunning through the whole damn rock...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_006A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Tojo's got a network of tunnels and caves\nrunning through the whole rock...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_007A_ROEB": {
+  "en": "^1ROEBUCK: ^7We're trying to flush 'em out with the dogs...\nbut we all know how stubborn these bastards are.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_007A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7We're trying to flush 'em out with the dogs...\nbut we all know how stubborn these animals are.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_008A_ROEB": {
+  "en": "^1ROEBUCK: ^7Be prepared for close quarter fighting...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_009A_ROEB": {
+  "en": "^1ROEBUCK: ^7They'll come at us from all sides.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_010A_ROEB": {
+  "en": "^1ROEBUCK: ^7Watch each other's backs...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_011A_ROEB": {
+  "en": "^1ROEBUCK: ^7Don't get caught out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_012A_POLO": {
+  "en": "^1POLONSKY: ^7Incoming!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_013A_ROEB": {
+  "en": "^1ROEBUCK: ^7Find some cover, fast! GO GO GO!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_014A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get to cover, now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_015A_POLO": {
+  "en": "^1POLONSKY: ^7Japanese infantry!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_016A_POLO": {
+  "en": "^1POLONSKY: ^7Get behind that fallen tree!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_017A_POLO": {
+  "en": "^1POLONSKY: ^7We got artillery coming from the northeast!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_018A_ROEB": {
+  "en": "^1ROEBUCK: ^7We need to move up and knock 'em out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_019A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move along the riverbed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_020A_ROEB": {
+  "en": "^1ROEBUCK: ^7Flank them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_021A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller! Get on that triple 25!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_022A_ROEB": {
+  "en": "^1ROEBUCK: ^7Watch that bunker on the left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_023A_ROEB": {
+  "en": "^1ROEBUCK: ^7Make sure it's clear!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_024A_POLO": {
+  "en": "^1POLONSKY: ^7First position! Down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_025A_ROEB": {
+  "en": "^1ROEBUCK: ^7There's another one up ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_026A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear it out! So our tanks can move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_027A_ROEB": {
+  "en": "^1ROEBUCK: ^7Take out that damn artillery position!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_027A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Take out that artillery position!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_028A_USR1": {
+  "en": "^1US MARINE: ^7Get off me!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_029A_USR1": {
+  "en": "^1US MARINE: ^7Get your damn hands off me!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_029A_USR1_SAFE": {
+  "en": "^1US MARINE: ^7Get your hands off me!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_030A_USR1": {
+  "en": "^1US MARINE: ^7Help!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_031A_USR1": {
+  "en": "^1US MARINE: ^7Thank God you showed up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_032A_USR1": {
+  "en": "^1US MARINE: ^7Let's go!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_033A_ROEB": {
+  "en": "^1ROEBUCK: ^7So far so good, Marines!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_034A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move along the gully... ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_035A_POLO": {
+  "en": "^1POLONSKY: ^7Watch the trees.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_036A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep it tight.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_037A_ROEB": {
+  "en": "^1ROEBUCK: ^7Our tanks should be able to provide\nsome cover as we close in around the hill.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_038A_ROEB": {
+  "en": "^1ROEBUCK: ^7But it'll be up to us to clear the caves...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_039A_ROEB": {
+  "en": "^1ROEBUCK: ^7Heads down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_040A_POLO": {
+  "en": "^1POLONSKY: ^7Dammit!  Do the airforce know we're here?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_041A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay in cover till they finish their run!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_042A_POLO": {
+  "en": "^1POLONSKY: ^7Sarge! Flame tank's moving up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_043A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move with it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_044A_ROEB": {
+  "en": "^1ROEBUCK: ^7Go! Now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_045A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay with the tank!  Use it for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_046A_ROEB": {
+  "en": "^1ROEBUCK: ^7Watch the fire!... Stay behind the tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_047A_ROEB": {
+  "en": "^1ROEBUCK: ^7Polonsky, take the one on the right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_048A_ROEB": {
+  "en": "^1ROEBUCK: ^7Polonsky, take the one on the left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_049A_POLO": {
+  "en": "^1POLONSKY: ^7I hear you!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_050A_ROEB": {
+  "en": "^1ROEBUCK: ^7This is it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_051A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear out these caves!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_052A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay with me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_053A_POLO": {
+  "en": "^1POLONSKY: ^7Miller!  Over here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_100A_ROEB": {
+  "en": "^1ROEBUCK: ^7WAIT!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_101A_ROEB": {
+  "en": "^1ROEBUCK: ^7Snare!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_IGD_102A_ROEB": {
+  "en": "^1ROEBUCK: ^7Watch for traps!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_000B_ROEB": {
+  "en": "^1ROEBUCK: ^7Call it in.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_001A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7My god...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_001B_ROEB": {
+  "en": "^1ROEBUCK: ^7Damn it...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_001B_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Darn it...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_002B_POLO": {
+  "en": "^1POLONSKY: ^7How many Marines did we lose\ntaking this rock?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_003A_ROEB": {
+  "en": "^1ROEBUCK: ^7Already too many.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_003B_ROEB": {
+  "en": "^1ROEBUCK: ^7Too many.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_004A_ROOK": {
+  "en": "^1US MARINE: ^7Relay the message to Major Gordon.\nThe artillery on the point has been knocked out.\nYes sir.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_005A_PGAT": {
+  "en": "^1US MARINE: ^7Shit.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_005A_PGAT_SAFE": {
+  "en": "^1US MARINE: ^7Empty....",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_006A_PHIL": {
+  "en": "^1US MARINE: ^7Shit. Shit. All shit.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_006A_PHIL_SAFE": {
+  "en": "^1US MARINE: ^7Junk. Junk. All junk.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_007A_PGAS": {
+  "en": "^1US MARINE: ^7Food?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_008A_PHIL": {
+  "en": "^1US MARINE: ^7Would you eat that shit?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_008A_PHIL_SAFE": {
+  "en": "^1US MARINE: ^7Would you eat that stuff?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_009A_PFOR": {
+  "en": "^1US MARINE: ^7Hey, Grigson.  How you doin' on ammo?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_010A_PGRI": {
+  "en": "^1US MARINE: ^7Just swell... \nSo long as they don't expect me to shoot anyone else.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1B_OUT_011A_PFOR": {
+  "en": "^1US MARINE: ^7What good is all that ammo\ndoin' sitting back at command?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_000A_SULL": {
+  "en": "^1SULLIVAN: ^7Get off the beach the beach!\nMOVE!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_001A_POLO": {
+  "en": "^1POLONSKY: ^7Where's the fire coming from?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_002A_SULL": {
+  "en": "^1SULLIVAN: ^7All around! Just keep moving!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_003A_SULL": {
+  "en": "^1SULLIVAN: ^7Don't let 'em get a fix on you...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_004A_SULL": {
+  "en": "^1SULLIVAN: ^7Move!  Move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_005A_ROEB": {
+  "en": "^1ROEBUCK: ^7Mortar fire incoming!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_006A_ROEB": {
+  "en": "^1ROEBUCK: ^7Go!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_007A_SULL": {
+  "en": "^1SULLIVAN: ^7Okay.  We got 'em.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_008A_SULL": {
+  "en": "^1SULLIVAN: ^7Up and over!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_009A_POLO": {
+  "en": "^1POLONSKY: ^7Shit...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_010A_ROEB": {
+  "en": "^1ROEBUCK: ^7Put 'em down.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_011A_SULL": {
+  "en": "^1SULLIVAN: ^7Hit the deck!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_012A_ROEB": {
+  "en": "^1ROEBUCK: ^7MG nest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_013A_ROEB": {
+  "en": "^1ROEBUCK: ^7Flamethrower! Move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_014A_JONE": {
+  "en": "^1US MARINE: ^7Yes, Sir!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_015A_POLO": {
+  "en": "^1POLONSKY: ^7Burn 'em.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_016A_SULL": {
+  "en": "^1SULLIVAN: ^7Fix bayonets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_017A_SULL": {
+  "en": "^1SULLIVAN: ^7Use 'em if you have to!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_018A_SULL": {
+  "en": "^1SULLIVAN: ^7Pick it up...\nPush through their lines!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_019A_ROEB": {
+  "en": "^1ROEBUCK: ^7Flank left!  Around the bunker!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_020A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get to cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_021A_ROEB": {
+  "en": "^1ROEBUCK: ^7Banzai charge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_022A_ROEB": {
+  "en": "^1ROEBUCK: ^7They're not gonna hold back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_023A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay on 'em!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_024A_ROEB": {
+  "en": "^1ROEBUCK: ^7Eyes south!  Another MG!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_025A_SULL": {
+  "en": "^1SULLIVAN: ^7Miller, take it out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_026A_SULL": {
+  "en": "^1SULLIVAN: ^7Keep it tight!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_027A_ROEB": {
+  "en": "^1ROEBUCK: ^7Tojo!... On the ridge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_028A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Clear out the trenches!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_029A_SULL": {
+  "en": "^1SULLIVAN: ^7Keep pushing!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_030A_ROEB": {
+  "en": "^1ROEBUCK: ^7They're coming over the wall!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_031A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Stay with me, Miller.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_032A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7SULLIVAN!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_033A_ROEB": {
+  "en": "^1ROEBUCK: ^7The tree!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_034A_POLO": {
+  "en": "^1POLONSKY: ^7What the hell is he doing?!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_034A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7What is he doing?!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_035A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Take him down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_036A_ROEB": {
+  "en": "^1ROEBUCK: ^7Good shot, Miller.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_037A_ROEB": {
+  "en": "^1ROEBUCK: ^7In the grass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_038B_ROEB": {
+  "en": "^1ROEBUCK: ^7They're comin' out the grass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_039A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay together!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_040A_POLO": {
+  "en": "^1POLONSKY: ^7Shit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_041A_SULL": {
+  "en": "^1SULLIVAN: ^7More of 'em! ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_042A_POLO": {
+  "en": "^1POLONSKY: ^7They were hiding, just waiting for us...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_043A_SULL": {
+  "en": "^1SULLIVAN: ^7Everyone keep 'em peeled.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_044A_ROEB_B": {
+  "en": "^1ROEBUCK: ^7From here on out, watch the terrain.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_045A_ROEB": {
+  "en": "^1ROEBUCK: ^7They could be anywhere.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_046A_ROEB": {
+  "en": "^1ROEBUCK: ^7Regroup at the truck.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_047A_SULL": {
+  "en": "^1SULLIVAN: ^7Roebuck, tunnels southwest.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_048A_SULL": {
+  "en": "^1SULLIVAN: ^7Get in there...\nSee if you can get a flanking position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_049B_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller! We gotta take 'em by surprise.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_050A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Let's get the jump on these bastards.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_050A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Let's get the jump on these animals.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_051A_ROEB": {
+  "en": "^1ROEBUCK: ^7We got 'em.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_052A_ROEB": {
+  "en": "^1ROEBUCK: ^7Hit 'em hard!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_053A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep firing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_054A_SULL": {
+  "en": "^1SULLIVAN: ^7Roebuck, Miller... Good work. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_055A_ROEB": {
+  "en": "^1ROEBUCK: ^7Let's finish this.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_056A_SULL": {
+  "en": "^1SULLIVAN: ^7Move in.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_057A_ROEB": {
+  "en": "^1ROEBUCK: ^7Up the ladder.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_058A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear 'em out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_059B_ROEB": {
+  "en": "^1ROEBUCK: ^7Shit!... Mortar pit behind us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_059B_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Mortar pit behind us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_060A_ROEB": {
+  "en": "^1ROEBUCK: ^7They've got those squads\npinned down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_061A_SULL": {
+  "en": "^1SULLIVAN: ^7Get on those MG's\nand tear them up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_062A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep on it, Miller!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_063A_SULL": {
+  "en": "^1SULLIVAN: ^7Outstanding, Marines...\nOut-fucking-standing.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_063A_SULL_SAFE": {
+  "en": "^1SULLIVAN: ^7Outstanding, Marines...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_064B_ROEB": {
+  "en": "^1ROEBUCK: ^7Good work... All of you...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_100A_SULL": {
+  "en": "^1SULLIVAN: ^7We got heavy MG fire tearing up the beach!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_101A_SULL": {
+  "en": "^1SULLIVAN: ^7Call in rocket strikes\non those positions! NOW!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_102A_SULL": {
+  "en": "^1SULLIVAN: ^7Shit!  Shit!  Shit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_103A_SULL": {
+  "en": "^1SULLIVAN: ^7What are you waiting for Miller?!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_104A_SULL": {
+  "en": "^1SULLIVAN: ^7Call in those rockets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_105A_SULL": {
+  "en": "^1SULLIVAN: ^7Miller!  Get on that damn radio!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_105A_SULL_SAFE": {
+  "en": "^1SULLIVAN: ^7Miller!  Get on that radio!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_106A_SULL": {
+  "en": "^1SULLIVAN: ^7We need rockets on those MG's ASAP!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_107A_SULL": {
+  "en": "^1SULLIVAN: ^7We're gettin' torn\nto shreds here! CALL THOSE ROCKETS!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_200A_POLO": {
+  "en": "^1POLONSKY: ^7Miller! Get back here!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_201A_POLO": {
+  "en": "^1POLONSKY: ^7Where are you going?\nWe need those rockets!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_202A_POLO": {
+  "en": "^1POLONSKY: ^7Call in rockets! Onto the beach!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_203A_ROEB": {
+  "en": "^1ROEBUCK: ^7Good work, Marines...\nRegroup at the treeline!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_204A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_205A_POLO": {
+  "en": "^1POLONSKY: ^7Where are they coming from?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_206A_ROEB": {
+  "en": "^1ROEBUCK: ^7Just get moving!\nWe'll deal with it later!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_207A_POLO": {
+  "en": "^1POLONSKY: ^7Get in the tunnels!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_208A_POLO": {
+  "en": "^1POLONSKY: ^7Flank round, Miller!\nThrough the tunnels!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_209A_ROEB": {
+  "en": "^1ROEBUCK: ^7Come on, Miller!  This way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_210A_POLO": {
+  "en": "^1POLONSKY: ^7Miller!!  Call a rocket strike\non that MG nest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_211A_POLO": {
+  "en": "^1POLONSKY: ^7Get rockets on that stronghold!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_212A_POLO": {
+  "en": "^1POLONSKY: ^7Get some rockets on that position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_300A_SULL": {
+  "en": "^1SULLIVAN: ^7I got you Miller! You're still in one piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_301A_SULL": {
+  "en": "^1SULLIVAN: ^7Plan's gone to shit... Tojo's got a defensive line dug in just beyond the treeline.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_302A_SULL": {
+  "en": "^1SULLIVAN: ^7Stay where you are and get ready with that radio.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_303A_USR1": {
+  "en": "^1US MARINE: ^7What the hell went wrong?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_304A_USR1": {
+  "en": "^1US MARINE: ^7There wasn't supposed\nto be any resistance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_305A_USR2": {
+  "en": "^1US MARINE: ^7What happened to Jason?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_306A_USR3": {
+  "en": "^1US MARINE: ^7I don't know!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_307A_USR3": {
+  "en": "^1US MARINE: ^7I think his LVT got hit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_308A_USR1": {
+  "en": "^1US MARINE: ^7Stay down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_309A_USR1": {
+  "en": "^1US MARINE: ^7What do we do?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_310A_USR3": {
+  "en": "^1US MARINE: ^7Get moving... Find the Sarge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_311A_SULL": {
+  "en": "^1SULLIVAN: ^7That rocket strike should\nhave softened them up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_312A_SULL": {
+  "en": "^1SULLIVAN: ^7Everyone ready?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_313A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller! Call in a rocket strike!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_314A_SULL": {
+  "en": "^1SULLIVAN: ^7We got Japanese reinforcement\nmoving in!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_315A_SULL": {
+  "en": "^1SULLIVAN: ^7We need to wipe those\nbastards out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_316A_ROEB": {
+  "en": "^1ROEBUCK: ^7I don't think that MG's\ngonna cut it, Miller!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_317A_ROEB": {
+  "en": "^1ROEBUCK: ^7Call in another rocket strike!\nNOW!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_318A_ROEB": {
+  "en": "^1ROEBUCK: ^7Call those rockets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_319A_ROEB": {
+  "en": "^1ROEBUCK: ^7Hell, yeah!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_320A_SULL": {
+  "en": "^1SULLIVAN: ^7Everyone, on me.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_800A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Barrage -salvo H-E, \nWaco two-five, azimuth 3320, range 2200...\nFiring for effect - on the way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_801A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Target registered... \nFiring for effect!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_802A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Splash!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_803A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Salvo barrage, \nWaco two-five effective... target destroyed. \nCheck your fire.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_804A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Target miss... \nDiligent one-six adjust your fire!\nRepeat, adjust your fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_805A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Barrage-salvo H-E, \nWaco eight-one, Azimuth 35, \nRange 28... on the way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_806A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Airedale Three has your smoke\nat Bravo Lima six actual... Ironclad firing for effect... \nOn the way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_807A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Your flare spotted\nat grid Able Delta five-niner.\nH-E salvo close, in-bound now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_808A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Adjusting fire your target\nAzimuth 33, range 29... H-E salvo close... \nOn the way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_809A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Registering your target Azimuth 33, range 29... H-E salvo close... on the way!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_810A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Target Hit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_811A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Salvo on target.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_812A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Check your fire...\nTarget destroyed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_813A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Fire unavailable.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_814A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Fire mission unavailable at this time.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_815A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Aligning to target.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_816A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Plotting target.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_817A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Counting...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_818A_RADO": {
+  "en": "^1RADIO OPERATOR: ^755 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_819A_RADO": {
+  "en": "^1RADIO OPERATOR: ^750 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_820A_RADO": {
+  "en": "^1RADIO OPERATOR: ^745 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_821A_RADO": {
+  "en": "^1RADIO OPERATOR: ^740 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_822A_RADO": {
+  "en": "^1RADIO OPERATOR: ^735 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_823A_RADO": {
+  "en": "^1RADIO OPERATOR: ^730 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_824A_RADO": {
+  "en": "^1RADIO OPERATOR: ^725 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_825A_RADO": {
+  "en": "^1RADIO OPERATOR: ^720 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_826A_RADO": {
+  "en": "^1RADIO OPERATOR: ^715 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_827A_RADO": {
+  "en": "^1RADIO OPERATOR: ^710 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_828A_RADO": {
+  "en": "^1RADIO OPERATOR: ^75 seconds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_829A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Fire support ready.\nState your target.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_830A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7H-E barrage available.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_831A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Aligned...\nSay your target, over?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_832A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Rocket barrage available.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_833A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Off shore rocket\nstrike at the ready. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_834A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Rocket strike primed\nand ready to fire.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_835A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Airstrike available.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_836A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Airstrike at the ready. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_837A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Airstrike primed\nand ready to fire.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_838A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Awaiting target co-ordinates.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_839A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Relay co-ordinates.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_840A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Check.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_841A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Co-ordinates received.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_842A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Firing now.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_843A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Support unavailable.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_844A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Negative on those\nco-ordinates. Check your status.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_IGD_845A_RADO": {
+  "en": "^1RADIO OPERATOR: ^7Confirmed.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_000A_SULL": {
+  "en": "^1SULLIVAN: ^7It's time.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_001B_ROEB": {
+  "en": "^1ROEBUCK: ^7Good luck...All of you.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_002A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7This is it, Miller.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_003A_SULL": {
+  "en": "^1SULLIVAN: ^7Navy's been bombin' hell out of the island for two days straight.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_003A_SULL_SAFE": {
+  "en": "^1SULLIVAN: ^7Navy's been bombin' the island for two days straight.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_004A_SULL": {
+  "en": "^1SULLIVAN: ^7Okay... Keep it together and we'll\nget through this in three days.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_005A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Hold on.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_006A_ROEB": {
+  "en": "^1ROEBUCK: ^7There they go...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_007A_SULL": {
+  "en": "^1SULLIVAN: ^7Miller! We hit any resistance\non the beach,  you get on that radio and call\nfor immediate missile support!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_008A_SULL": {
+  "en": "^1SULLIVAN: ^7Roebuck, I want you up the beach\nand at the treeline asap. \nYou're on point as we move inland.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_009A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Got it.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_010A_PSOU": {
+  "en": "^1US MARINE: ^7What the hell?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_010A_PSOU_SAFE": {
+  "en": "^1US MARINE: ^7What the...!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_011A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7FUCK! East ridge! There's a 200mm on the point!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_011A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7East ridge!... There's a 200mm on the point!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_012A_PSOU": {
+  "en": "^1US MARINE: ^7Another LVT's been hit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_013A_SULL": {
+  "en": "^1SULLIVAN: ^7Stay with it, Marine.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_014A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Keep your heads down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_015A_LVTD": {
+  "en": "^1US MARINE: ^720 seconds!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_016A_SULL": {
+  "en": "^1SULLIVAN: ^7Hang in there, kid.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_017A_POLO": {
+  "en": "^1POLONSKY: ^7We need to get off this thing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_018A_POLO": {
+  "en": "^1POLONSKY: ^7Aww shit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_018A_POLO_SAFE_A": {
+  "en": "^1POLONSKY: ^7Aww no!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_019A_SULL": {
+  "en": "^1SULLIVAN: ^7Driver, drop the ramp!  That gun could zero in on us anytime.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_020A_PSOU": {
+  "en": "^1US MARINE: ^7It's the coral.  We're stuck on the...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_021A_ROEB": {
+  "en": "^1ROEBUCK: ^7Drop the ramp!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_021A_SULL": {
+  "en": "^1SULLIVAN: ^7Drop the ramp!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_100A_ROEB": {
+  "en": "^1ROEBUCK: ^7Don't think twice.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_101A_POLO": {
+  "en": "^1POLONSKY: ^7Was that one of ours?!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_102A_SULL": {
+  "en": "^1SULLIVAN: ^7Everyone!  Keep... your... heads... down!  You hear me?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_103A_USR2": {
+  "en": "^1US MARINE: ^7The Lord is my Shepherd; I shall not want. He maketh me to lie down in green pastures: He leadeth me beside the still waters. He restoreth my soul: He leadeth me in the paths of righteousness for His name' sake. Yea, though I walk through the valley of the shadow of death, I will fear no evil: For thou art with me; Thy rod and thy staff, they comfort me. Thou preparest a table before me in the presence of mine enemies; Thou annointest my head with oil; My cup runneth over. Surely goodness and mercy shall follow me all the days of my life, and I will dwell in the House of the Lord forever.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_104A_SULL": {
+  "en": "^1SULLIVAN: ^7EVERYONE! Over the side! NOW!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_200A_ROEB": {
+  "en": "^1ROEBUCK: ^7Bastards ain't gonna know what hit 'em.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_INT_200A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Animals ain't gonna know what hit 'em.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_000B_SULL": {
+  "en": "^1SULLIVAN: ^7Secure the surrounding area...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_001B_SULL": {
+  "en": "^1SULLIVAN: ^7Wait for the Major's orders...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_004A_POLO": {
+  "en": "^1POLONSKY: ^7When do we rest?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_006B_ROEB": {
+  "en": "^1ROEBUCK: ^7NOoo!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_007A_ROEB": {
+  "en": "^1ROEBUCK: ^7CORPSMAN!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_007B_ROEB": {
+  "en": "^1ROEBUCK: ^7MEDIC!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_008A_POLO": {
+  "en": "^1POLONSKY: ^7Awww....no....no....no.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_100A_SULL": {
+  "en": "^1SULLIVAN: ^7Soon, Polonsky... Soon.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_200A_ROEB": {
+  "en": "^1ROEBUCK: ^7What now, Sarge?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_201A_USR1": {
+  "en": "^1US MARINE: ^7AAARRRRRGH!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_202A_ROEB": {
+  "en": "^1ROEBUCK: ^7Sullivan! No... Hold on...\nYou'll be okay... CORPSMAN!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL1_OUT_202B_ROEB": {
+  "en": "^1ROEBUCK: ^7Sullivan! No... Hold on...\nYou'll be okay... MEDIC!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_000B_POLO": {
+  "en": "^1POLONSKY: ^7So, what now?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_001B_ROEB": {
+  "en": "^1ROEBUCK: ^7Direct route runs right into Japanese guns.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_003B_ROEB": {
+  "en": "^1ROEBUCK: ^7We take the flank.\nIt might get us wet, but it's not going to get us killed. \nWe regroup with the 5th when we're through this swamp.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_004B_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay sharp.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_005A_PGRI": {
+  "en": "^1US MARINE: ^7SARGE! We got a downed Corsair.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_006A_POLO_A": {
+  "en": "^1POLONSKY: ^7Poor bastard must have been\nshot down this morning.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_006A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7He must have been shot down\nthis morning.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_007A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller, fuselage is still smoking...\nCheck for survivors.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_007B_ROEB": {
+  "en": "^1ROEBUCK: ^7Fuselage is still smoking...\nCheck for survivors.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_008A_PGRI": {
+  "en": "^1US MARINE: ^7He's all snarled up on something...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_009A_PGRI": {
+  "en": "^1US MARINE: ^7Shit! Grenades!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_009A_PGRI_SAFE": {
+  "en": "^1US MARINE: ^7Grenades, get outta he...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_010A_POLO": {
+  "en": "^1POLONSKY: ^7SHIT!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_011A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7AMBUSH!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_012A_ROEB": {
+  "en": "^1ROEBUCK: ^7Everyone okay?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_013A_POLO_A": {
+  "en": "^1POLONSKY: ^7Bastards nearly had us...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_013A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7They nearly had us...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_014A_POLO_A": {
+  "en": "^1POLONSKY: ^7Can't believe they'd booby trap our dead...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_015A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7They'll do whatever it takes.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_016A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Eyes and ears.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_017A_POLO_C": {
+  "en": "^1POLONSKY: ^7I think we're kinda late.\nSounds like the 5th's kicking ass.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_017A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7I think we're kinda late.\nSounds like the 5th's already fighting!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_018A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7MG's in the bunkers up ahead.\nNambu artillery sittin' right in front of it.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_019A_ROEB": {
+  "en": "^1ROEBUCK: ^7Private! Get a grenade up there!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_020A_ROEB": {
+  "en": "^1ROEBUCK: ^7Everyone! Move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_021A_ROEB": {
+  "en": "^1ROEBUCK: ^7Go! GO!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_022A_ROEB": {
+  "en": "^1ROEBUCK: ^7Take out those MG's!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_023A_ROEB": {
+  "en": "^1ROEBUCK: ^7I want men down both flanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_024A_ROEB": {
+  "en": "^1ROEBUCK: ^7Carve a path through.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_025A_POLO": {
+  "en": "^1POLONSKY: ^7Flamethrowers moving up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_026A_ROEB": {
+  "en": "^1ROEBUCK: ^7Polonsky! Give 'em covering fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_027A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay on them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_028A_ROEB": {
+  "en": "^1ROEBUCK: ^7Everyone! On me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_029A_ROEB": {
+  "en": "^1ROEBUCK: ^7I want suppressing fire on those MG's!\nThe flamethrowers need to reach the bunkers.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_030A_POLO_A": {
+  "en": "^1POLONSKY: ^7Hell yeah!  Burn ya little bastards!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_030A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7Yeah! Burn!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_031A_ROEB": {
+  "en": "^1ROEBUCK: ^7Okay.  Move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_032A_ROEB": {
+  "en": "^1ROEBUCK: ^7Good work, Marines.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_033A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep it together.\nAirfield's about half a mile north.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_034A_ROEB": {
+  "en": "^1ROEBUCK: ^7DAMN IT!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_035A_POLO": {
+  "en": "^1POLONSKY: ^7They're in the grass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_036A_ROEB": {
+  "en": "^1ROEBUCK: ^7All around!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_037A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep it tight!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_038A_ROEB": {
+  "en": "^1ROEBUCK: ^7Hold them back!  Hold them back!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_039A_ROEB": {
+  "en": "^1ROEBUCK: ^7Enemy's holed up in that building.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_040A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7What's the skinny?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_041A_PLOG": {
+  "en": "^1US MARINE: ^7The 7th came in from the north!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_042A_PGAS": {
+  "en": "^1US MARINE: ^7They're trying to get their tanks\non to the airfield, but it's a nightmare over there.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_043A_PLOG": {
+  "en": "^1US MARINE: ^7Tojo's holding tight!\nWe're pinned down by the MG fire\nfrom the second floor.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_044A_PGAS": {
+  "en": "^1US MARINE: ^7Any ideas, Sergeant?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_045A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Yeah...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_046A_ROEB": {
+  "en": "^1ROEBUCK: ^7Supply truck dead ahead.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_047A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller.  Polonsky.  Follow me.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_048A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller! Load up with those\nrifle grenades and blow that damn bird off his perch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_048A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Miller! Load up with those\nrifle grenades and blow that bird off his perch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_049A_POLO_B": {
+  "en": "^1POLONSKY: ^7Hell yeah!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_049A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7Yeah!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_050A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Move!  Into the building!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_051A_ROEB": {
+  "en": "^1ROEBUCK: ^7Don't give 'em a chance to regroup!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_052A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear 'em out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_053A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7We're nearly there. Keep it together!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_054A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7One last push and we take the airfield!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_055A_POLO": {
+  "en": "^1POLONSKY: ^7Damn!  This ain't gonna be easy.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_055A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7This ain't gonna be easy.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_056A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7It never is... But we can do this,\nPolonsky, okay?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_057A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_058A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay with our tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_059A_ROEB": {
+  "en": "^1ROEBUCK: ^7Help them move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_060A_POLO_A": {
+  "en": "^1POLONSKY: ^7Japanese AA Guns are zeroed\non our planes!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_061A_ROEB": {
+  "en": "^1ROEBUCK: ^7We'll get to them!...\nWe gotta deal with their tanks first!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_062A_ROEB": {
+  "en": "^1ROEBUCK: ^7Scavenge supplies from the trenches!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_063A_ROEB": {
+  "en": "^1ROEBUCK: ^7Bazookas, rifle grenades!\nHit 'em with whatever you can!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_065A_ROEB": {
+  "en": "^1ROEBUCK: ^7One down!  Keep it up, Miller!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_066A_POLO": {
+  "en": "^1POLONSKY: ^7Yeah!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_068A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay on it, we're nearly through!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_069A_ROEB": {
+  "en": "^1ROEBUCK: ^7Damn good work, Miller!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_069A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7Good work, Miller!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_070A_ROEB": {
+  "en": "^1ROEBUCK: ^7Clear out the trenches!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_071A_ROEB": {
+  "en": "^1ROEBUCK: ^7Move up and take out the AA Guns!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_072A_ROEB": {
+  "en": "^1ROEBUCK: ^7We are taking this airfield today!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_073A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller!  Take out the first gun crew!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_074A_POLO": {
+  "en": "^1POLONSKY: ^7Taken out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_075A_ROEB": {
+  "en": "^1ROEBUCK: ^7Three more!!!... Keep going!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_076A_POLO": {
+  "en": "^1POLONSKY: ^7Second crew down! ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_077A_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay strong!... We're nearly there!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_078A_ROEB": {
+  "en": "^1ROEBUCK: ^7Two more!... MOVE!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_079A_POLO_A": {
+  "en": "^1POLONSKY: ^7They're outta commission!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_080A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get the last one,\nbefore we lose anymore birds!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_081A_POLO_A": {
+  "en": "^1POLONSKY: ^7Goodnight!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_082A_ROEB": {
+  "en": "^1ROEBUCK: ^7Nice work, Marines!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_083B_ROEB": {
+  "en": "^1ROEBUCK: ^7Let's give Major Gordon\nthe good news.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_100A_POLO_A": {
+  "en": "^1POLONSKY: ^7Shit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_101A_POLO_A": {
+  "en": "^1POLONSKY: ^7There's more of 'em!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_102A_ROEB": {
+  "en": "^1ROEBUCK: ^7Sniper in the tree! ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_103A_PGAT": {
+  "en": "^1US MARINE: ^7Take 'em down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_104B_POLO": {
+  "en": "^1POLONSKY: ^7It's another damned ambush!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_105A_PFOR": {
+  "en": "^1US MARINE: ^7Roebuck, they're in the grass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_106A_POLO": {
+  "en": "^1POLONSKY: ^7Up there, in the tree!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_107A_PGAT": {
+  "en": "^1US MARINE: ^7SHIT!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_108A_ROEB": {
+  "en": "^1ROEBUCK: ^7Over there.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_109A_PHIL": {
+  "en": "^1US MARINE: ^7Guy in the tree, guy in the tree!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_110B_POLO": {
+  "en": "^1POLONSKY: ^7Guess the castle ain't so deserted...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_112A_PHIL": {
+  "en": "^1US MARINE: ^7They were just waiting for us...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_200A_ROEB": {
+  "en": "^1ROEBUCK: ^7Miller, get the flamethrower and finish the job!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_201A_ROEB": {
+  "en": "^1ROEBUCK: ^7Burn those MG's! Don't let up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_301A_PFOR": {
+  "en": "^1US MARINE: ^7Awww shit...\nBastards just took down another one.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_301A_PFOR_SAFE": {
+  "en": "^1US MARINE: ^7They just took down another one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_302A_ROEB": {
+  "en": "^1ROEBUCK: ^7All the more reason to keep pushin'.\nEvery plane we lose makes our job harder.",
+  "zones": [
+   "common"
+  ]
+ }
+}

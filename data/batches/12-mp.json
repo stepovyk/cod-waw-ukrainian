@@ -1,0 +1,5056 @@
+{
+ "CHALLENGE_30CAL_EXPERT_I": {
+  "en": "Browning M1919 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_30CAL_EXPERT_II": {
+  "en": "Browning M1919 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_30CAL_EXPERT_III": {
+  "en": "Browning M1919 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_30CAL_MARKSMAN": {
+  "en": "Browning M1919 Marksman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_AIRBORNE": {
+  "en": "Airborne",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_1": {
+  "en": "Anti Tank Demolitions I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_1_DESC": {
+  "en": "Finish off 1 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_2": {
+  "en": "Anti Tank Demolitions II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_2_DESC": {
+  "en": "Finish off 5 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_3": {
+  "en": "Anti Tank Demolitions III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKDEMOLITIONS_3_DESC": {
+  "en": "Finish off 15 enemy controlled tanks with a satchel charge (explosion destroys tank). (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_1": {
+  "en": "Anti Tank Rockets I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_1_DESC": {
+  "en": "Finish off 1 enemy controlled tank with a Bazooka (shot destroys tank). (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_2": {
+  "en": "Anti Tank Rockets II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_2_DESC": {
+  "en": "Finish off 5 enemy controlled tanks with a Bazooka (shot destroys tank). (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_3": {
+  "en": "Anti Tank Rockets III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ANTITANKROCKET_3_DESC": {
+  "en": "Finish off 15 enemy controlled tanks with a Bazooka (shot destroys tank). (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ARTILLARY_INBOUND": {
+  "en": "Artillery Strike Inbound",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ARTILLARY_VETERAN_I": {
+  "en": "Artillery Strike Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ARTILLARY_VETERAN_II": {
+  "en": "Artillery Strike Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ARTILLARY_VETERAN_III": {
+  "en": "Artillery Strike Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ASSAULT": {
+  "en": "RIFLES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ASSAULT_EXPERT_I": {
+  "en": "Rifle Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ASSAULT_EXPERT_II": {
+  "en": "Rifle Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ASSAULT_EXPERT_III": {
+  "en": "Rifle Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ASSAULT_RIFLE_CHALLENGES": {
+  "en": "RIFLES CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BACKDRAFT": {
+  "en": "Backdraft",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BACKDRAFT_I": {
+  "en": "Backdraft I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BACKDRAFT_II": {
+  "en": "Backdraft II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BACKDRAFT_III": {
+  "en": "Backdraft III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BACKSTABBER": {
+  "en": "Backstabber",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BARREL_BOMB_1": {
+  "en": "Barrel Bomber I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BARREL_BOMB_2": {
+  "en": "Barrel Bomber II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BARREL_BOMB_3": {
+  "en": "Barrel Bomber III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BARTENDER": {
+  "en": "Bartender",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_EXPERT_I": {
+  "en": "BAR Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_EXPERT_II": {
+  "en": "BAR Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_EXPERT_III": {
+  "en": "BAR Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_MARKSMAN": {
+  "en": "BAR Marksman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_TENDER_I": {
+  "en": "Bartender I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_TENDER_II": {
+  "en": "Bartender II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAR_TENDER_III": {
+  "en": "Bartender III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BASE_JUMP": {
+  "en": "Geronimo",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BATTLEFIELD": {
+  "en": "BATTLEFIELD COMMISSION",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_1": {
+  "en": "Bayonet Specialist I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_2": {
+  "en": "Bayonet Specialist II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_3": {
+  "en": "Bayonet Specialist III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_DESC_1": {
+  "en": "Kill 5 enemies with the Bayonet. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_DESC_2": {
+  "en": "Kill 15 enemies with the Bayonet. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BAYONET_DESC_3": {
+  "en": "Kill 35 enemies with the Bayonet. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BBQ": {
+  "en": "Torchbearer",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_1": {
+  "en": "Behemoth I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_1_DESC": {
+  "en": "Kill 10 enemy infantry with the main gun of the tank. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_2": {
+  "en": "Behemoth II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_2_DESC": {
+  "en": "Kill 25 enemy infantry with the main gun of the tank. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_3": {
+  "en": "Behemoth III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BEHEMOUTH_3_DESC": {
+  "en": "Kill 50 enemy infantry with the main gun of the tank. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BER1": {
+  "en": "Ring of Steel",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BER2": {
+  "en": "Eviction",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BER3": {
+  "en": "Heart of the Reich",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BER3B": {
+  "en": "Downfall",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BERSERKER": {
+  "en": "Berserker",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BE_A_WAR_HERO": {
+  "en": "Kill 1 or more enemy players in the act of capturing the last flag then help to recapture it for your team. (War)\n",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BE_THE_LAST_MAN_STANDING": {
+  "en": "Be the last man standing in Search and Destroy.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BLINDFIRE": {
+  "en": "Blindfire",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BLOODY_TOSSER": {
+  "en": "Bloody Tosser",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BLOW_UP_15_CARS_PHASE": {
+  "en": "Blow up 15 cars. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BLOW_UP_1_CAR_PHASE_1": {
+  "en": "Blow up 1 car. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BLOW_UP_5_CARS_PHASE": {
+  "en": "Blow up 5 cars. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BODY_ARMOR": {
+  "en": "Body Armor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOLT_EXPERT_I": {
+  "en": "Bolt Action Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOLT_EXPERT_II": {
+  "en": "Bolt Action Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOLT_EXPERT_III": {
+  "en": "Bolt Action Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOMB_DEFENDER": {
+  "en": "Bomb Defender",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOMB_DOWN": {
+  "en": "Bomb Down",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOMB_PLANTER": {
+  "en": "Bomb Planter",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOOT_CAMP": {
+  "en": "BOOT CAMP",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BOOT_CAMP_CHALLENGES": {
+  "en": "BOOT CAMP CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BRASS_COLLECTOR": {
+  "en": "Brass Collector",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_BULLETPROOF": {
+  "en": "Bulletproof",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_ARTILLARY_2_TIMES": {
+  "en": "Call in Artillery 2 times in a single match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_A_UAV_10_TIMES": {
+  "en": "Call in a recon plane 10 times. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_A_UAV_20_TIMES": {
+  "en": "Call in a recon plane 20 times. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_A_UAV_3_TIMES": {
+  "en": "Call in radar 3 times in a single match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_A_UAV_5_TIMES": {
+  "en": "Call in a recon plane 5 times. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CALL_IN_DOGS_2_TIMES": {
+  "en": "Call in the dogs of war 2 times in a single match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CAR_BOMB_1": {
+  "en": "Car Bomber I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CAR_BOMB_2": {
+  "en": "Car Bomber II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CAR_BOMB_3": {
+  "en": "Car Bomber III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CLAYMORE_SHOT": {
+  "en": "Claymore Shot",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CLAY_MORE": {
+  "en": "Clay More",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CLEANER": {
+  "en": "The Cleaner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COLLATERALDAMAGE": {
+  "en": "Collateral Damage",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COLLATERALDAMAGE_DESC": {
+  "en": "Destroy a tank and kill a nearby enemy player with the explosion from the tank.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COLLATERAL_DAMAGE": {
+  "en": "Collateral Damage",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COMPLETE_EUROPEAN_TOUR": {
+  "en": "Complete every Russian campaign mission in Europe.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COMPLETE_MISSION_WITH_THIS": {
+  "en": "Complete any mission in co-op with this cheat enabled.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COMPLETE_PACIFIC_TOUR": {
+  "en": "Complete every American campaign mission in the Pacific.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COOP_COMPLETED": {
+  "en": "Co-Op Challenge Completed",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERMVP": {
+  "en": "Counter-MVP",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSATCHEL_I": {
+  "en": "Counter-Satchel I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSATCHEL_II": {
+  "en": "Counter-Satchel II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSATCHEL_III": {
+  "en": "Counter-Satchel III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSHOEBOX_I": {
+  "en": "Counter-Betty I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSHOEBOX_II": {
+  "en": "Counter-Betty II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_COUNTERSHOEBOX_III": {
+  "en": "Counter-Betty III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CRAFTY_SHERMAN": {
+  "en": "Crafty Sherman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CROUCH_SHOT_I": {
+  "en": "Crouch Shot I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CROUCH_SHOT_II": {
+  "en": "Crouch Shot II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CROUCH_SHOT_III": {
+  "en": "Crouch Shot III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CRUELTY": {
+  "en": "Cruelty",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CTF_VICTOR_I": {
+  "en": "Capture The Flag Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CTF_VICTOR_II": {
+  "en": "Capture The Flag Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_CTF_VICTOR_III": {
+  "en": "Capture The Flag Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DBSHOTTY_EXPERT_I": {
+  "en": "Double Barreled Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DBSHOTTY_EXPERT_II": {
+  "en": "Double Barreled Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DBSHOTTY_EXPERT_III": {
+  "en": "Double Barreled Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DBSHOTTY_MARKSMAN_I": {
+  "en": "Double Barreled Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DBSHOTTY_MARKSMAN_II": {
+  "en": "Double Barreled Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DEAD_HANDS": {
+  "en": "Cold Dead Hands",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DEATHDODGER_I": {
+  "en": "Coffin Dodger I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DEATHDODGER_II": {
+  "en": "Coffin Dodger II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DEATHDODGER_III": {
+  "en": "Coffin Dodger III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DEFUSE_A_BOMB_IN_SABOTAGE": {
+  "en": "Defuse a bomb in Sabotage or Search and Destroy.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DESPERADO": {
+  "en": "Desperado",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DESTROY_15_ENEMY_EXPLOSIVE": {
+  "en": "Destroy 15 enemy explosive devices. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DESTROY_1_ENEMY_EXPLOSIVE": {
+  "en": "Destroy 1 enemy explosive device. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DESTROY_5_ENEMY_EXPLOSIVE": {
+  "en": "Destroy 5 enemy explosive devices. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DIE_HARD": {
+  "en": "Diehard",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DIRTYHARRY": {
+  "en": "Suicide King",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOGS_INBOUND": {
+  "en": "Call In The Dogs",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOG_VETERAN_I": {
+  "en": "Dog Handler I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOG_VETERAN_II": {
+  "en": "Dog Handler II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOG_VETERAN_III": {
+  "en": "Dog Handler III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOMINATION_VICTOR_I": {
+  "en": "Domination Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOMINATION_VICTOR_II": {
+  "en": "Domination Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOMINATION_VICTOR_III": {
+  "en": "Domination Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOMINOS": {
+  "en": "Dominos",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DONE": {
+  "en": "Done",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOUBLEHEADER": {
+  "en": "Double Header",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_1": {
+  "en": "Down But Not Out I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_2": {
+  "en": "Down But Not Out II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_3": {
+  "en": "Down But Not Out III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_DESC_1": {
+  "en": "Kill 1 enemy while you are in Second Chance. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_DESC_2": {
+  "en": "Kill 10 enemies while you are in Second Chance. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DOWNNOTOUT_DESC_3": {
+  "en": "Kill 25 enemies while you are in Second Chance. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DP28_EXPERT_I": {
+  "en": "DP-28 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DP28_EXPERT_II": {
+  "en": "DP-28 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DP28_EXPERT_III": {
+  "en": "DP-28 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_DP28_MARKSMAN": {
+  "en": "DP-28 Marksman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ELITE": {
+  "en": "ELITE",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ELITE_CHALLENGES": {
+  "en": "ELITE CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_EUROPEAN_TOUR": {
+  "en": "European Tour",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_EXPOSED_I": {
+  "en": "Exposed I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_EXPOSED_II": {
+  "en": "Exposed II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_EXPOSED_III": {
+  "en": "Exposed III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_EXTREME_CRUELTY": {
+  "en": "Extreme Cruelty",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FALL_15_FEET_OR_MORE": {
+  "en": "Fall 15 feet or more and survive.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FALL_20_FEET_OR_MORE": {
+  "en": "Fall 20 feet or more into water and survive.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FALL_30_FEET_OR_MORE": {
+  "en": "Fall 30 feet or more to your death.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FAST_SWAP": {
+  "en": "Fast Swap",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FEARLESS": {
+  "en": "Fearless",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FG42_EXPERT_I": {
+  "en": "FG42 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FG42_EXPERT_II": {
+  "en": "FG42 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FG42_EXPERT_III": {
+  "en": "FG42 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FG42_MARKSMAN_I": {
+  "en": "FG42 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FG42_MARKSMAN_II": {
+  "en": "FG42 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FIELD_SPECIALIST": {
+  "en": "FIELD SPECIALIST",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FIELD_SPECIALIST_CHALLENGES": {
+  "en": "FIELD SPECIALIST CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_DESTROY_BETTY": {
+  "en": "Kill an enemy by destroying their own Bouncing Betty immediately after they plant it.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_OFF_BY": {
+  "en": "Finish an enemy off by hitting them with a frag grenade. (Direct impact)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_OFF_BY1": {
+  "en": "Finish an enemy off by hitting them with a tabun grenade. (Direct impact)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_OFF_BY2": {
+  "en": "Finish an enemy off by hitting them with a signal flare. (Direct impact)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_OFF_BY_SPECIAL": {
+  "en": "Finish an enemy off by hitting them with a special grenade. (Direct impact)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_AN_ENEMY_OFF_WHILE_BLINDED": {
+  "en": "Kill an enemy while you are still dazed by a signal flare.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FINISH_LEVEL_WITHOUT_RELOADING": {
+  "en": "Complete any mission on a single clip of ammo.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLAK_JACKET": {
+  "en": "Flak Jacket",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLAME_I": {
+  "en": "Frequent Fryer",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLARE_I": {
+  "en": "Signal Flare Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLARE_II": {
+  "en": "Signal Flare Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLARE_III": {
+  "en": "Signal Flare Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLASHBANG_VETERAN_I": {
+  "en": "Flashbang Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLASHBANG_VETERAN_II": {
+  "en": "Flashbang Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLASHBANG_VETERAN_III": {
+  "en": "Flashbang Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLAWLESS": {
+  "en": "Flawless",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FLEAFLICKER": {
+  "en": "Flea Flicker",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FREEFORALL_VICTOR_I": {
+  "en": "Free-For-All Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FREEFORALL_VICTOR_II": {
+  "en": "Free-For-All Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FREEFORALL_VICTOR_III": {
+  "en": "Free-For-All Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_FREQUENT_FRYER": {
+  "en": "Frequent Fryer",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_EXPERT_I": {
+  "en": "Gewehr 43 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_EXPERT_II": {
+  "en": "Gewehr 43 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_EXPERT_III": {
+  "en": "Gewehr 43 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_MARKSMAN_I": {
+  "en": "Gewehr 43 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_MARKSMAN_II": {
+  "en": "Gewehr 43 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_MARKSMAN_III": {
+  "en": "Gewehr 43 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_G43_MARKSMAN_IIII": {
+  "en": "Gewehr 43 Marksman IV",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GASMASK": {
+  "en": "Gas Mask",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GASMASK_DESC": {
+  "en": "With the Gas Mask perk equipped, kill the enemy that threw a Tabun grenade at you.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100000_POINTS": {
+  "en": "Score 100,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_10000_POINTS": {
+  "en": "Score 10,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_ASSISTS": {
+  "en": "Get 100 kill assists.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_HEAD_SHOTS_WITH": {
+  "en": "Get 100 head shots with this weapon. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_GRENADE": {
+  "en": "Kill 100 enemies with thrown grenades.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_PISTOL": {
+  "en": "Kill 100 enemies with pistols.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_SHOTGUN": {
+  "en": "Kill 100 enemies with shotguns.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_THIS": {
+  "en": "Get 100 kills with this weapon. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_THIS_2": {
+  "en": "Get 100 kills with this weapon. ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_THIS_2_OF_2": {
+  "en": "Get 100 kills with this weapon. (Phase 2 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_100_KILLS_WITH_THIS_3_OF_4": {
+  "en": "Get 100 kills with this weapon. (Phase 3 of 4)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_15000_POINTS": {
+  "en": "Score 15,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_150_HEAD_SHOTS_WITH": {
+  "en": "Get 150 head shots with this weapon. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_150_KILLS_WITH_THIS": {
+  "en": "Get 150 kills with this weapon. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_150_KILLS_WITH_THIS_4_OF_4": {
+  "en": "Get 150 kills with this weapon. (Phase 4 of 4)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_15_ASSISTS_PHASE": {
+  "en": "Get 15 assists. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_20000_POINTS": {
+  "en": "Score 20,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25000_POINTS": {
+  "en": "Score 25,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_250_KILLS_WITH_HEAVY": {
+  "en": "Kill 250 enemies with light machine guns or automatic rifles.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_250_KILLS_WITH_RIFLE": {
+  "en": "Kill 250 enemies with semi-auto or bolt-action rifles.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_250_KILLS_WITH_SUBMACHINE": {
+  "en": "Kill 250 enemies with submachine guns.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_HEAD_SHOTS_WITH": {
+  "en": "Get 25 head shots with this weapon. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_MOLOTOV": {
+  "en": "Kill 25 enemies with Molotov cocktails.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS": {
+  "en": "Get 25 kills with this weapon. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS_1": {
+  "en": "Get 25 kills with this weapon. (Phase 1 of 1)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS_1_OF_2": {
+  "en": "Get 25 kills with this weapon. (Phase 1 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS_1_OF_4": {
+  "en": "Get 25 kills with this weapon. (Phase 1 of 4)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS_2": {
+  "en": "Get 25 kills with this weapon. (Phase 1 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_25_KILLS_WITH_THIS_21": {
+  "en": "RENAME ME",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_30000_POINTS": {
+  "en": "Score 30,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_30_ASSISTS_PHASE": {
+  "en": "Get 30 assists. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_30_KILLSTREAK": {
+  "en": "Get a 30 killstreak.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_3_HEADSHOTS_IN_A_ROW": {
+  "en": "Get 3 headshots in a row, 3 times in a single mission.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_3_KILLS_FROM_EXPLOSION": {
+  "en": "Get 3 kills by exploding the tank of an enemy flamethrower.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_40000_POINTS": {
+  "en": "Score 40,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_45000_POINTS": {
+  "en": "Score 45,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50000_POINTS": {
+  "en": "Score 50,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_ASSISTS": {
+  "en": "Get 50 kill assists.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_HEAD_SHOTS_WITH": {
+  "en": "Get 50 head shots with this weapon. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_KILLSTREAK": {
+  "en": "Get a 50 killstreak.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_KILLS_WITH_FLAMETHROWER": {
+  "en": "Kill 50 enemies with the flamethrower.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_KILLS_WITH_THIS": {
+  "en": "Get 50 kills with this weapon. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_50_KILLS_WITH_THIS_2": {
+  "en": "Get 50 kills with this weapon. (Phase 2 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_5_ASSISTS_PHASE_1": {
+  "en": "Get 5 assists. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_5_HEALTH_REGENERATIONS": {
+  "en": "Get 5 health regenerations from enemy damage in a row, without dying.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_5_KILLS_WITH_1_GRENADE": {
+  "en": "Kill 5 enemies with one grenade.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_60000_POINTS": {
+  "en": "Score 60,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_70000_POINTS": {
+  "en": "Score 70,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_HEAD_SHOTS_WITH": {
+  "en": "Get 75 head shots with this weapon. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_KNIFE": {
+  "en": "Kill 75 enemies with a knife or bayonet melee attack.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS": {
+  "en": "Get 75 kills with this weapon. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_1": {
+  "en": "Get 75 kills with this weapon. ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_1_OF_1": {
+  "en": "Get 75 kills with this weapon. ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_1_OF_2": {
+  "en": "Get 75 kills with this weapon. (Phase 1 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_2": {
+  "en": "Get 75 kills with this weapon. (Phase 2 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_2_OF_2": {
+  "en": "Get 75 kills with this weapon. (Phase 2 of 2)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_75_KILLS_WITH_THIS_2_OF_4": {
+  "en": "Get 75 kills with this weapon. (Phase 2 of 4)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_80000_POINTS": {
+  "en": "Score 80,000 points or higher in this mission in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_8_QUICK_FLAME_KILLS": {
+  "en": "Get 8 kills in 4 seconds with the flamethrower.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_A_2_KILL_STREAK_WHILE": {
+  "en": "Get a 2 kill streak with bullets while in mid-air.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_A_3_MELEE_KILL_STREAK": {
+  "en": "Get a 3 melee kill streak without dying.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_A_3_OR_MORE_KILL": {
+  "en": "Get a 3 or more kill streak while near death.  (Screen flashing red)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_A_5_KILL_STREAK_WHILE": {
+  "en": "Get a 5 kill streak while on a mounted machine gun.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_DOUBLEHEADER": {
+  "en": "Two players get simultaneous headshots. [Requires coordination between 2 or more players]",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_FLEAFLICKER": {
+  "en": "Get an enemy kill by tossing back a grenade thrown by a teammate. [Requires coordination between 2 or more players]",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_HOTHANDS": {
+  "en": "Get 4 headshots in 10 seconds using multiple weapons.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_THE_LAST_KILL_IN": {
+  "en": "Get the last kill in a match 1 time. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_THE_LAST_KILL_IN1": {
+  "en": "Get the last kill in a match 5 times. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_THE_LAST_KILL_IN2": {
+  "en": "Get the last kill in a match 10 times. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_TIPOFTHEHAT": {
+  "en": "In 4-player Competitive Co-Op, take first place 20 times.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_WAGOFTHEFINGER": {
+  "en": "Two players get simultaneous melee kills. [Requires coordination between 2 or more players]",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_X_KILLSTREAK": {
+  "en": "Get a 75 killstreak",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GET_X_MULTIPLIER": {
+  "en": "Get a 10x bonus multiplier in Competitive Co-Op.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GIB_50": {
+  "en": "Gib 50 enemies.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GIB_I": {
+  "en": "Gib Factory I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GIB_II": {
+  "en": "Gib Factory II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GIB_III": {
+  "en": "Gib Factory III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GOLDEN_GOD": {
+  "en": "Golden God",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GOODBYE": {
+  "en": "Sayonara",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GOOOAL": {
+  "en": "Cluster Chuck",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GOTEM": {
+  "en": "Got 'Em!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GOTEM_DESC": {
+  "en": "Kill 3 or more players with a single shot from the main gun of the tank.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GRENADE_KILL_I": {
+  "en": "Grenade Kill I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GRENADE_KILL_II": {
+  "en": "Grenade Kill II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GRENADE_KILL_III": {
+  "en": "Grenade Kill III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_GRINDER": {
+  "en": "The Grinder",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARDCORE": {
+  "en": "Victory",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARDCORE_TEAM_PLAYER_I": {
+  "en": "Hardcore Team Player I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARDCORE_TEAM_PLAYER_II": {
+  "en": "Hardcore Team Player II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARDCORE_TEAM_PLAYER_III": {
+  "en": "Hardcore Team Player III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARD_HEADED": {
+  "en": "Hard Headed",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HARD_LANDING": {
+  "en": "Hard Landing",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HAT_TRICK": {
+  "en": "Hat Trick",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAD_QUATERS_VICTOR_I": {
+  "en": "Headquarters Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAD_QUATERS_VICTOR_II": {
+  "en": "Headquarters Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAD_QUATERS_VICTOR_III": {
+  "en": "Headquarters Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAVYARTILLARY": {
+  "en": "Heavy Artillery",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAVYSTRIKE": {
+  "en": "Heavy Strike",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HEAVY_METAL": {
+  "en": "Heavy Metal",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HERO": {
+  "en": "Hero",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HIJACKER": {
+  "en": "Hijacker",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HMG": {
+  "en": "Heavy Machine Gun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HMG_EXPERT_I": {
+  "en": "HMG Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HMG_EXPERT_II": {
+  "en": "HMG Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HMG_EXPERT_III": {
+  "en": "HMG Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOTHANDS": {
+  "en": "Hot Hands",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOT_POTATO": {
+  "en": "Hot Potato",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOT_POTATO_I": {
+  "en": "Hot Potato I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOT_POTATO_II": {
+  "en": "Hot Potato II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOT_POTATO_III": {
+  "en": "Hot Potato III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HOW_THE_": {
+  "en": "How The ?",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HUMILIATION": {
+  "en": "HUMILIATION",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HUMILIATION_CHALLENGES": {
+  "en": "HUMILIATION CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_HURT_AN_ENEMY_WITH_A": {
+  "en": "Hurt an enemy with a primary weapon, then finish them off with a pistol.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_1": {
+  "en": "Immobilizer I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_1_DESC": {
+  "en": "Destroy the treads of a tank 10 times to stop it from moving. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_2": {
+  "en": "Immobilizer II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_2_DESC": {
+  "en": "Destroy the treads of a tank 25 times to stop it from moving. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_3": {
+  "en": "Immobilizer III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_IMMOBILIZER_3_DESC": {
+  "en": "Destroy the treads of a tank 35 times to stop it from moving. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVINCIBLE": {
+  "en": "Invincible",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_1": {
+  "en": "Invisible I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_2": {
+  "en": "Invisible II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_3": {
+  "en": "Invisible III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_DESC_1": {
+  "en": "Kill 5 enemies with a weapon that has a flash hider. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_DESC_2": {
+  "en": "Kill 15 enemies with a weapon that has a flash hider. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_INVISIBLE_DESC_3": {
+  "en": "Kill 35 enemies with a weapon that has a flash hider. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_EXPERT_I": {
+  "en": "Kar98k Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_EXPERT_II": {
+  "en": "Kar98k Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_EXPERT_III": {
+  "en": "Kar98k Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_MARKSMAN_I": {
+  "en": "Kar98k Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_MARKSMAN_II": {
+  "en": "Kar98k Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KAR98K_MARKSMAN_III": {
+  "en": "Kar98k Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILLER": {
+  "en": "KILLER",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILLER_CHALLENGES": {
+  "en": "KILLER CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_BY_FLAME": {
+  "en": "Kill 10 enemies with the flamethrower. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_BY_SATCHEL": {
+  "en": "Kill 10 enemies with a satchel charge. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_BY_SHOE": {
+  "en": "Kill 10 enemies with a Bouncing Betty. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_BY_SHOOTING": {
+  "en": "Kill 10 enemies by shooting a satchel charge. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_BY_SHOOTING_SHOE": {
+  "en": "Kill 10 enemies by shooting a Bouncing Betty. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_DAZED": {
+  "en": "Kill 10 enemies dazed by a signal flare.  (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_IN_A": {
+  "en": "Kill 10 enemies in a single match without dying.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_WHILE": {
+  "en": "Kill 10 enemies while using a silenced weapon. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_WHILE_FLARE": {
+  "en": "Kill 10 enemies still dazed by a signal flare. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_WHILE_TABUN": {
+  "en": "Kill 10 enemies still dazed by a tabun grenade. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_WITH": {
+  "en": "Kill 10 enemies with a grenade. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMIES_WITH1": {
+  "en": "Kill 10 enemies with cooked grenades. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_ENEMY_BY_DESTROYING": {
+  "en": "Kill 15 enemies by destroying a car. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_10_IN_LAST_STAND": {
+  "en": "Kill 10 enemies while downed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_BY_CALLING_ART": {
+  "en": "Kill 15 enemies by calling in Artillery. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_BY_CALLING_DOGS": {
+  "en": "Kill 15 enemies by calling in the dogs. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_THROUGH": {
+  "en": "Kill 15 enemies through a surface using bullet penetration. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WHILE": {
+  "en": "Kill 15 enemies while you are crouching. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WHILE1": {
+  "en": "Kill 15 enemies while you are prone. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WHILE2": {
+  "en": "Kill 15 enemies while using the Last Stand perk. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH": {
+  "en": "Kill 15 enemies with the knife melee attack. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH1": {
+  "en": "Kill 15 enemies with a dropped grenade from the Martyrdom perk. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH2": {
+  "en": "Kill 15 enemies with thrown back grenades. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH3": {
+  "en": "Kill 15 enemies with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH_A_MOLOTOV": {
+  "en": "Kill 15 enemies with a Molotov. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH_A_STICKY": {
+  "en": "Kill 15 enemies with a Sticky Grenade. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMIES_WITH_GIB": {
+  "en": "Kill a player with such force that body parts fly 15 times. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_15_ENEMY_BY_DESTROYING_BARREL": {
+  "en": "Kill 15 enemies by exploding a barrel. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_DESTROYING": {
+  "en": "Kill 1 enemy by destroying a car. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_DESTROYING_BARREL": {
+  "en": "Kill 1 enemy by exploding a barrel. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_SATCHEL": {
+  "en": "Kill 1 enemy with a satchel charge. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_SHOE": {
+  "en": "Kill 1 enemy with a Bouncing Betty. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_SHOOTING": {
+  "en": "Kill 1 enemy by shooting a satchel charge. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_BY_SHOOTING_SHOE": {
+  "en": "Kill 1 enemy by shooting a Bouncing Betty. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_THROUGH": {
+  "en": "Kill 1 enemy through a surface using bullet penetration. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WHILE_BEING": {
+  "en": "Kill 1 enemy while being poisoned with tabun gas. ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WHILE_USING": {
+  "en": "Kill 1 enemy while using the Last Stand perk. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_DROPPED": {
+  "en": "Kill 1 enemy with a dropped grenade from the Martyrdom perk. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_GIB": {
+  "en": "Kill a player with such force that body parts fly 1 time. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_GRENADE": {
+  "en": "Kill 1 enemy with a grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_MOLOTOV": {
+  "en": "Kill 1 enemy with a Molotov Cocktail. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_RIFLEMOUNTED": {
+  "en": "Kill 1 enemy with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_STICKY": {
+  "en": "Kill 1 enemy with a Sticky Grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_A_THROWN": {
+  "en": "Kill 1 enemy with a thrown back grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_1_ENEMY_WITH_THE": {
+  "en": "Kill 1 enemy with the knife melee attack. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_20_ENEMIES_WITH": {
+  "en": "Kill 20 enemies with cooked grenades. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_BY_FLAME": {
+  "en": "Kill 25 enemies with the flamethrower. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_DAZED": {
+  "en": "Kill 25 enemies dazed by a signal flare. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WHILE": {
+  "en": "Kill 25 enemies while using a silenced weapon. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WHILE1": {
+  "en": "Kill 25 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WHILE_FLARE": {
+  "en": "Kill 25 enemies still dazed by a signal flare. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WHILE_TABUN": {
+  "en": "Kill 25 enemies still dazed by a tabun grenade. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH": {
+  "en": "Kill 25 enemies with a headshot while using a rifle. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH1": {
+  "en": "Kill 25 enemies with headshots while using a submachine gun. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH2": {
+  "en": "Kill 25 enemies with headshots while using a light machine gun. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH3": {
+  "en": "Kill 25 enemies with headshots while using a heavy machine gun. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH_HEADSHOTS3": {
+  "en": "Kill 25 enemies with headshots while using a heavy machine gun. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH_HEADSHOTS_BOLT": {
+  "en": "Kill 25 enemies with headshots while using a Bolt Action Rifle. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH_HEADSHOTS_PISTOL": {
+  "en": "Kill 25 enemies with a headshot while using a pistol. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_25_ENEMIES_WITH_PISTOL": {
+  "en": "Kill 25 enemies while using a pistol. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_2_OR_MORE_ENEMIES": {
+  "en": "Kill 2 or more enemies with a single RPG shot.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_2_OR_MORE_ENEMIES1": {
+  "en": "Kill 2 or more enemies with a single claymore.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_2_OR_MORE_ENEMIES2": {
+  "en": "Kill 2 or more enemies with a single frag grenade.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_2_OR_MORE_ENEMIES3": {
+  "en": "Kill 2 or more enemies with a single mine.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_2_OR_MORE_ENEMIES4": {
+  "en": "Kill 2 or more enemies with a single sniper rifle bullet.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_30_ENEMIES_BY_CALLING_ART": {
+  "en": "Kill 30 enemies by calling in Artillery. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_30_ENEMIES_BY_CALLING_DOGS": {
+  "en": "Kill 30 enemies by calling in the dogs. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_30_ENEMIES_WHILE": {
+  "en": "Kill 30 enemies while you are crouching. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_30_ENEMIES_WHILE1": {
+  "en": "Kill 30 enemies while you are prone. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_30_TREE_SNIPERS": {
+  "en": "Kill 30 tree snipers.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH": {
+  "en": "Kill 35 enemies with a headshot while using a Rifle. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH1": {
+  "en": "Kill 35 enemies with headshots while using a submachine gun. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH2": {
+  "en": "Kill 35 enemies with headshots while using a light machine gun. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH3": {
+  "en": "Kill 35 enemies with headshots while using a heavy machine gun. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH_HEADSHOTS3": {
+  "en": "Kill 35 enemies with headshots while using a heavy machine gun. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH_HEADSHOTS_BOLT": {
+  "en": "Kill 35 enemies with headshots while using a Bolt Action Rifle. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_35_ENEMIES_WITH_HEADSHOTS_PISTOL": {
+  "en": "Kill 35 enemies with a headshot while using a pistol. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_3_ENEMIES_WITHOUT": {
+  "en": "Kill 3 enemies without dying and call in radar.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_50_BANZAI": {
+  "en": "Kill 50 banzai attackers.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_50_ENEMIES_WHILE": {
+  "en": "Kill 50 enemies while using a silenced weapon. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_50_ENEMIES_WHILE1": {
+  "en": "Kill 50 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_50_ENEMIES_WITH_PISTOL": {
+  "en": "Kill 50 enemies while using a pistol. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_50_IN_LAST_STAND": {
+  "en": "Kill 50 enemies while downed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_CALLING_ART": {
+  "en": "Kill 5 enemies by calling in Artillery. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_CALLING_DOGS": {
+  "en": "Kill 5 enemies by calling in the dogs. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_FLAME": {
+  "en": "Kill 5 enemies with the flamethrower. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_SATCHEL": {
+  "en": "Kill 5 enemies with a satchel charge. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_SHOE": {
+  "en": "Kill 5 enemies with a Bouncing Betty. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_SHOOTING": {
+  "en": "Kill 5 enemies by shooting a satchel charge. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_BY_SHOOTING_SHOE": {
+  "en": "Kill 5 enemies by shooting a Bouncing Betty. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_DAZED": {
+  "en": "Kill 5 enemies dazed by a signal flare. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_THROUGH": {
+  "en": "Kill 5 enemies through a surface using bullet penetration. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE": {
+  "en": "Kill 5 enemies while you are crouching. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE1": {
+  "en": "Kill 5 enemies while you are prone. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE2": {
+  "en": "Kill 5 enemies while the Last Stand perk. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE3": {
+  "en": "Kill 5 enemies while using a Scoped Bolt Action Rifle in prone. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE_FLARE": {
+  "en": "Kill 5 enemies still dazed by a signal flare. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WHILE_TABUN": {
+  "en": "Kill 5 enemies still dazed by a tabun grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITHOUT": {
+  "en": "Kill 5 enemies without dying and call in an Artillery Strike.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A": {
+  "en": "Kill 5 enemies with a grenade. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A1": {
+  "en": "Kill 5 enemies with a headshot while using a rifle. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A2": {
+  "en": "Kill 5 enemies with a dropped grenade from the Martyrdom perk. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A3": {
+  "en": "Kill 5 enemies with a single airstrike.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A4": {
+  "en": "Kill 5 enemies with a rifle-mounted grenade launcher without detonation. (Direct impact) (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A_GIB": {
+  "en": "Kill a player with such force that body parts fly 5 times. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A_MOLOTOV": {
+  "en": "Kill 5 enemies with a Molotov Cocktail. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_A_STICKY": {
+  "en": "Kill 5 enemies with a Sticky Grenade. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_COOKED": {
+  "en": "Kill 5 enemies with cooked grenades. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_HEADSHOTS": {
+  "en": "Kill 5 enemies with headshots while using a submachine gun. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_HEADSHOTS1": {
+  "en": "Kill 5 enemies with headshots while using a light machine gun. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_HEADSHOTS3": {
+  "en": "Kill 5 enemies with headshots while using a heavy machine gun. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_HEADSHOTS_BOLT": {
+  "en": "Kill 5 enemies with headshots while using a Bolt Action Rifle. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_HEADSHOTS_PISTOL": {
+  "en": "Kill 5 enemies with a headshot while using a pistol. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_THE": {
+  "en": "Kill 5 enemies with the knife melee attack. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMIES_WITH_THROWN": {
+  "en": "Kill 5 enemies with thrown back grenades. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMY_BY_DESTROYING": {
+  "en": "Kill 5 enemies by destroying a car. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_5_ENEMY_BY_DESTROYING_BARREL": {
+  "en": "Kill 5 enemies by exploding a barrel. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_75_ENEMIES_WITH_PISTOL": {
+  "en": "Kill 75 enemies while using a pistol. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_7_ENEMIES_WITHOUT": {
+  "en": "Kill 7 enemies without dying and call in the dogs.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_BY_SETTING": {
+  "en": "Kill an enemy by setting off a chain reaction of different explosives.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_BY_SHOOTING": {
+  "en": "Kill an enemy by shooting their own mine.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_BY_USING": {
+  "en": "Kill an enemy by using bullet penetration to shoot an explosive device through a wall.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_PICK_UP": {
+  "en": "Kill an enemy, pick up his weapon, then kill him again with his own weapon.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_THAT_IS": {
+  "en": "Kill an enemy that is currently in mid-air.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_THAT_IS1": {
+  "en": "Kill an enemy that is currently in mid-air.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_AN_ENEMY_WHILE_YOU": {
+  "en": "Kill an enemy while you are still dazed by a flashbang.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_A_BOMB_DEFUSER_IN": {
+  "en": "Kill a bomb defuser in a Sabotage or Search and Destroy match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_A_BOMB_PLANTER_IN": {
+  "en": "Kill a bomb planter in a Sabotage or Search and Destroy match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_EVERY_MEMBER_OF": {
+  "en": "Kill every member of the enemy team. (4 enemy minimum)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_EVERY_MEMBER_OF1": {
+  "en": "Kill every member of the enemy team (at least 4 enemies) without dying.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_THE_1_PLAYER_ON": {
+  "en": "Kill the #1 player on the enemy team 10 times in a single match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_THE_BOMB_CARRIER": {
+  "en": "Kill the bomb carrier in a Sabotage or Search and Destroy match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_THE_SAME_ENEMY_5": {
+  "en": "Kill the same enemy 5 times in a single match.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_WITH_LAST_BULLET_IN_CLIP": {
+  "en": "Kill the enemy player with the last bullet in your clip.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_YOURSELF_AND_1_ENEMY": {
+  "en": "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_YOURSELF_AND_A_2ND": {
+  "en": "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KILL_YOURSELF_AND_A_3RD": {
+  "en": "Kill yourself and 1 enemy by cooking a grenade without throwing it. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KNIFE_VETERAN_I": {
+  "en": "Knife Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KNIFE_VETERAN_II": {
+  "en": "Knife Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_KNIFE_VETERAN_III": {
+  "en": "Knife Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAST_MAN_STANDING": {
+  "en": "Last Man Standing",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAST_STAND_VETERAN_I": {
+  "en": "Last Stand Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAST_STAND_VETERAN_II": {
+  "en": "Last Stand Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAST_STAND_VETERAN_III": {
+  "en": "Last Stand Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_1": {
+  "en": "Launch Specialist I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_2": {
+  "en": "Launch Specialist II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_3": {
+  "en": "Launch Specialist III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_DESC_1": {
+  "en": "Kill 5 enemies with a rifle grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_DESC_2": {
+  "en": "Kill 15 enemies with a rifle grenade. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LAUNCHSPECIALIST_DESC_3": {
+  "en": "Kill 35 enemies with a rifle grenade. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LIGHT_MACHINE_GUN_CHALLENGES": {
+  "en": "MACHINE GUNS CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LMG": {
+  "en": "MACHINE GUNS",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LMG_EXPERT_I": {
+  "en": "LMG Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LMG_EXPERT_II": {
+  "en": "LMG Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LMG_EXPERT_III": {
+  "en": "LMG Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LUCKY_PUNK": {
+  "en": "Lucky Punk",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LUPRA_EXPERT_I": {
+  "en": "Sawed-Off Shotgun Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LUPRA_EXPERT_II": {
+  "en": "Sawed-Off Shotgun Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LUPRA_EXPERT_III": {
+  "en": "Sawed-Off Shotgun Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_LUPRA_MARKSMAN": {
+  "en": "Sawed-Off Shotgun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_EXPERT_I": {
+  "en": "M1A1 Carbine Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_EXPERT_II": {
+  "en": "M1A1 Carbine Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_EXPERT_III": {
+  "en": "M1A1 Carbine Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_MARKSMAN_I": {
+  "en": "M1A1 Carbine Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_MARKSMAN_II": {
+  "en": "M1A1 Carbine Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_MARKSMAN_III": {
+  "en": "M1A1 Carbine Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1A1_MARKSMAN_IIII": {
+  "en": "M1A1 Carbine Marksman IV",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_EXPERT_I": {
+  "en": "M1 Garand Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_EXPERT_II": {
+  "en": "M1 Garand Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_EXPERT_III": {
+  "en": "M1 Garand Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_MARKSMAN_I": {
+  "en": "M1 Garand Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_MARKSMAN_II": {
+  "en": "M1 Garand Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_MARKSMAN_III": {
+  "en": "M1 Garand Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_M1GARAND_MARKSMAN_IIII": {
+  "en": "M1 Garand Marksman IV",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MAJOR_STRIKE": {
+  "en": "Major Stike",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MAK": {
+  "en": "Semper Fi",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARATHON": {
+  "en": "Marathon",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_1": {
+  "en": "Martyrdom Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_2": {
+  "en": "Martyrdom Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_3": {
+  "en": "Martyrdom Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_DESC_1": {
+  "en": "Kill 1 enemy with Martyrdom. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_DESC_2": {
+  "en": "Kill 10 enemies with Martyrdom. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTRYDOM_DESC_3": {
+  "en": "Kill 25 enemies with Martyrdom. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTYRDOM_VETERAN_I": {
+  "en": "Martyrdom Veteran I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTYRDOM_VETERAN_II": {
+  "en": "Martyrdom Veteran II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MARTYRDOM_VETERAN_III": {
+  "en": "Martyrdom Veteran III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MASTER_CHEF_I": {
+  "en": "Master Chef I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MASTER_CHEF_II": {
+  "en": "Master Chef II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MASTER_CHEF_III": {
+  "en": "Master Chef III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_1": {
+  "en": "Medic I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_2": {
+  "en": "Medic II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_3": {
+  "en": "Medic III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_DESC_1": {
+  "en": "Revive 1 teammate that is in Second Chance. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_DESC_2": {
+  "en": "Revive 10 teammates that are in Second Chance. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MEDIC_DESC_3": {
+  "en": "Revive 25 teammates that are in Second Chance. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MG42_EXPERT_I": {
+  "en": "MG42 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MG42_EXPERT_II": {
+  "en": "MG42 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MG42_EXPERT_III": {
+  "en": "MG42 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MG42_MARKSMAN": {
+  "en": "MG42 Marksman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MG_MASTER": {
+  "en": "MG Master",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MISERY_LOVES_COMPANY": {
+  "en": "Misery Loves Company I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MISERY_LOVES_COMPANY1": {
+  "en": "Misery Loves Company II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MISERY_LOVES_COMPANY2": {
+  "en": "Misery Loves Company III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MORPHINE": {
+  "en": "Painkiller",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_EXPERT_I": {
+  "en": "Mosin-Nagant Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_EXPERT_II": {
+  "en": "Mosin-Nagant Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_EXPERT_III": {
+  "en": "Mosin-Nagant Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_MARKSMAN_I": {
+  "en": "Mosin-Nagant Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_MARKSMAN_II": {
+  "en": "Mosin-Nagant Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MOSINRIFLE_MARKSMAN_III": {
+  "en": "Mosin-Nagant Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_EXPERT_I": {
+  "en": "MP40 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_EXPERT_II": {
+  "en": "MP40 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_EXPERT_III": {
+  "en": "MP40 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_MARKSMAN_I": {
+  "en": "MP40 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_MARKSMAN_II": {
+  "en": "MP40 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MP40_MARKSMAN_III": {
+  "en": "MP40 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MULTIFRAG": {
+  "en": "Multi-Frag",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MULTIMINE": {
+  "en": "Multi-Mine",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MULTIPLE_COOP_COMPLETED": {
+  "en": "Co-Op Challenges Completed",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MULTIPLE_COOP_COMPLETED_DETAILS": {
+  "en": "Check 'Rank & Challenges' for Total XP Rewarded",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MULTIRPG": {
+  "en": "Multi-RPG",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MVP_TEAM_DEATHMATCH": {
+  "en": "MVP Team Deathmatch",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_MVP_TEAM_HARDCORE": {
+  "en": "MVP Team Hardcore",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_NO_LAST_STAND": {
+  "en": "Complete a mission without any team members going down.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_NO_SECRETS": {
+  "en": "No Secrets",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OH_NO_YOU_DONT": {
+  "en": "Oh No You Don't",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OKI2": {
+  "en": "Blowtorch and Corkscrew",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OKI3": {
+  "en": "Breaking Point",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OPERATIONS": {
+  "en": "OPERATIONS",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OPERATIONS_CHALLENGES": {
+  "en": "OPERATIONS CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OPERATION_SPECIALIST": {
+  "en": "Operation Specialist",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OUCH_I": {
+  "en": "Ouch I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OUCH_II": {
+  "en": "Ouch II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_OUCH_III": {
+  "en": "Ouch III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PACIFIC_TOUR": {
+  "en": "Pacific Tour",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PAINTBALL": {
+  "en": "Paintball",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PEL1": {
+  "en": "Little Resistance",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PEL1A": {
+  "en": "Burn 'em Out",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PEL1B": {
+  "en": "Relentless",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PEL2": {
+  "en": "Hard Landing",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOLERO": {
+  "en": "Pistolero",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_EXPERT_I": {
+  "en": "Pistol Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_EXPERT_II": {
+  "en": "Pistol Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_EXPERT_III": {
+  "en": "Pistol Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_I": {
+  "en": "Pistolero",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_MARKSMAN_I": {
+  "en": "Pistol Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_MARKSMAN_II": {
+  "en": "Pistol Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PISTOL_MARKSMAN_III": {
+  "en": "Pistol Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLACE_IN_THE_TOP_3_IN": {
+  "en": "Place in the top 3 in 1 Free-for-all match. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLACE_IN_THE_TOP_3_IN1": {
+  "en": "Place in the top 3 in 5 Free-for-all matches. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLACE_IN_THE_TOP_3_IN2": {
+  "en": "Place in the top 3 in 10 Free-for-all matches. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLAY_AN_ENTIRE_FULLLENGTH": {
+  "en": "Play an entire full-length match without dying.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLAY_AN_ENTIRE_MATCH": {
+  "en": "Play an entire match of any game type with a 5:1 kill / death ratio.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PLAY_TEAM_DEATHMATCH": {
+  "en": "Win a Team Deathmatch with the top score.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_POINT_GUARD_I": {
+  "en": "Point Guard I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_POINT_GUARD_II": {
+  "en": "Point Guard II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_POINT_GUARD_III": {
+  "en": "Point Guard III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_EXPERT_I": {
+  "en": "PPSh-41 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_EXPERT_II": {
+  "en": "PPSh-41 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_EXPERT_III": {
+  "en": "PPSh-41 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_MARKSMAN_I": {
+  "en": "PPSh-41 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_MARKSMAN_II": {
+  "en": "PPSh-41 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PPSH_MARKSMAN_III": {
+  "en": "PPSh-41 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PRONE_SHOT_I": {
+  "en": "Prone Shot I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PRONE_SHOT_II": {
+  "en": "Prone Shot II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PRONE_SHOT_III": {
+  "en": "Prone Shot III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_EXPERT_I": {
+  "en": "PTRS-41 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_EXPERT_II": {
+  "en": "PTRS-41 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_EXPERT_III": {
+  "en": "PTRS-41 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_MARKSMAN_I": {
+  "en": "PTRS-41 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_MARKSMAN_II": {
+  "en": "PTRS-41 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PTRS41_MARKSMAN_III": {
+  "en": "PTRS-41 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PURPLE_HEART": {
+  "en": "Legion of Merit",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PYRO_I": {
+  "en": "Pyro I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PYRO_II": {
+  "en": "Pyro II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_PYRO_III": {
+  "en": "Pyro III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RABID": {
+  "en": "Rabid",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RADAR_INBOUND": {
+  "en": "Recon Plane Inbound",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_REMF": {
+  "en": "REMF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RETURN_TO_SENDER": {
+  "en": "Return To Sender",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RIFLEMAN": {
+  "en": "Rifleman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RIOT_CONTROL": {
+  "en": "Riot Control",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RIVAL": {
+  "en": "Rival",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ROADTRIP": {
+  "en": "Road Trip",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_ROADTRIP_DESC": {
+  "en": "Drive a tank 50 miles.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_RUN_OVER_20": {
+  "en": "Kill 20 enemies by running them over in a tank.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SABOTAGE_VICTOR_I": {
+  "en": "Sabotage Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SABOTAGE_VICTOR_II": {
+  "en": "Sabotage Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SABOTAGE_VICTOR_III": {
+  "en": "Sabotage Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SATCHEL_I": {
+  "en": "Satchel Charge I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SATCHEL_II": {
+  "en": "Satchel Charge II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SATCHEL_III": {
+  "en": "Satchel Charge III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_1": {
+  "en": "Sawed Off Specialist I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_2": {
+  "en": "Sawed Off Specialist II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_3": {
+  "en": "Sawed Off Specialist III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_DESC_1": {
+  "en": "Kill 5 enemies with the sawed off shotgun. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_DESC_2": {
+  "en": "Kill 15 enemies with the sawed off shotgun. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SAWOFF_DESC_3": {
+  "en": "Kill 35 enemies with the sawed off shotgun. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SD_VICTOR_I": {
+  "en": "Search And Destroy Victor I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SD_VICTOR_II": {
+  "en": "Search And Destroy Victor II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SD_VICTOR_III": {
+  "en": "Search And Destroy Victor III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SEE1": {
+  "en": "Their Land, Their Blood",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SEE2": {
+  "en": "Blood and Iron",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SELF_DEFENSE": {
+  "en": "Self Defense",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHADES": {
+  "en": "Shades",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHADES_DESC": {
+  "en": "With the Shades perk equipped, kill the player that threw a flare at you.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOEBOX_I": {
+  "en": "Bouncing Betty I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOEBOX_II": {
+  "en": "Bouncing Betty II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOEBOX_III": {
+  "en": "Bouncing Betty III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOOT_DOWN_AN_ENEMY_ATTACK_DOG": {
+  "en": "Shoot an enemy attack dog.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN": {
+  "en": "SHOTGUNS",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_CHALLENGES": {
+  "en": "SHOTGUNS CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_EXPERT_I": {
+  "en": "M1897 Trench Gun Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_EXPERT_II": {
+  "en": "M1897 Trench Gun Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_EXPERT_III": {
+  "en": "M1897 Trench Gun Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_MARKSMAN_I": {
+  "en": "M1897 Trench Gun Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SHOTGUN_MARKSMAN_II": {
+  "en": "Trenchgun Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SLASHER": {
+  "en": "Slasher",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SLOW_BUT_SURE": {
+  "en": "Slow But Sure",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SMG": {
+  "en": "SUBMACHINE GUNS",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SMG_EXPERT_I": {
+  "en": "SMG Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SMG_EXPERT_II": {
+  "en": "SMG Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SMG_EXPERT_III": {
+  "en": "SMG Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SNIPER": {
+  "en": "BOLT ACTION RIFLES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SNIPER_I": {
+  "en": "Rifleman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SNIPER_RIFLE_CHALLENGES": {
+  "en": "BOLT ACTION RIFLES CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPARTAN": {
+  "en": "The Spartan",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPECIALDELIVERY": {
+  "en": "Special Delivery",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRAY_N_PRAY": {
+  "en": "Spray & Pray",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_EXPERT_I": {
+  "en": "Springfield Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_EXPERT_II": {
+  "en": "Springfield Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_EXPERT_III": {
+  "en": "Springfield Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_MARKSMAN_I": {
+  "en": "Springfield Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_MARKSMAN_II": {
+  "en": "Springfield Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINGFIELD_MARKSMAN_III": {
+  "en": "Springfield Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SPRINT_FOR_26_MILES_TOTAL": {
+  "en": "Sprint for 26 miles total.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STAB_AN_ENEMY_IN_THE": {
+  "en": "Stab an enemy in the back with your knife.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STAR_PLAYER": {
+  "en": "Star Player",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STEALTH_I": {
+  "en": "Stealth I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STEALTH_II": {
+  "en": "Stealth II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STEALTH_III": {
+  "en": "Stealth III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_EXPERT_I": {
+  "en": "STG-44 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_EXPERT_II": {
+  "en": "STG-44 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_EXPERT_III": {
+  "en": "STG-44 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_MARKSMAN_I": {
+  "en": "STG-44 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_MARKSMAN_II": {
+  "en": "STG-44 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STG44_MARKSMAN_III": {
+  "en": "STG-44 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STICKSSTONES": {
+  "en": "Sticks & Stones",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STICKY_KILL_I": {
+  "en": "Sticky Kill I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STICKY_KILL_II": {
+  "en": "Sticky Kill II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STICKY_KILL_III": {
+  "en": "Sticky Kill III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_STICK_1_KILL_2": {
+  "en": "Kill 2 enemies at once by sticking a grenade to an enemy, then it kills him and another enemy.  ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUBMACHINEGUN_I": {
+  "en": "Run & Gunner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUB_MACHINE_GUN_CHALLENGES": {
+  "en": "SUBMACHINE GUNS CHALLENGES",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_1": {
+  "en": "Silent But Deadly I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_2": {
+  "en": "Silent But Deadly II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_3": {
+  "en": "Silent But Deadly III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_DESC_1": {
+  "en": "Kill 5 enemies with a weapon that has a suppressor. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_DESC_2": {
+  "en": "Kill 15 enemies with a weapon that has a suppressor. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SUPRESSOR_DESC_3": {
+  "en": "Kill 35 enemies with a weapon that has a suppressor. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURGEON": {
+  "en": "The Surgeon",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURVIVALIST": {
+  "en": "Survivalist",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURVIVEBETTY_I": {
+  "en": "Trigger a Bouncing Betty and survive 1 time. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURVIVEBETTY_II": {
+  "en": "Trigger a Bouncing Betty and survive 5 times. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURVIVEBETTY_III": {
+  "en": "Trigger a Bouncing Betty and survive 15 times. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SURVIVE_FOR_5_CONSECUTIVE": {
+  "en": "Survive for 5 consecutive minutes.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_EXPERT_I": {
+  "en": "SVT-40 Expert I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_EXPERT_II": {
+  "en": "SVT-40 Expert II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_EXPERT_III": {
+  "en": "SVT-40 Expert III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_MARKSMAN_I": {
+  "en": "SVT-40 Marksman I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_MARKSMAN_II": {
+  "en": "SVT-40 Marksman II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SVT40_MARKSMAN_III": {
+  "en": "SVT-40 Marksman III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_SWAN_DIVE": {
+  "en": "Swan Dive",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TABUN_I": {
+  "en": "Fumigator I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TABUN_II": {
+  "en": "Fumigator II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TABUN_III": {
+  "en": "Fumigator III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANGO_DOWN": {
+  "en": "Massacre",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKBOMB": {
+  "en": "Tank Bomb",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_1": {
+  "en": "Tank Sticker I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_1_DESC": {
+  "en": "Finish off 1 enemy controlled tanks with a sticky grenade. (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_2": {
+  "en": "Tank Sticker II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_2_DESC": {
+  "en": "Finish off 5 enemey controlled tanks with a sticky grenade. (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_3": {
+  "en": "Tank Sticker III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKSTICKER_3_DESC": {
+  "en": "Finish off 15 enemy controlled tanks with a sticky grenade. (Phase 3 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKVTANK_1": {
+  "en": "Tank vs. Tank I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKVTANK_1_DESC": {
+  "en": "Finish off 10 enemy controlled tanks with the main gun of a tank (shot destroys tank). (Phase 1 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKVTANK_2": {
+  "en": "Tank vs. Tank II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "CHALLENGE_TANKVTANK_2_DESC": {
+  "en": "Finish off 25 enemy controlled tanks with the main gun of a tank (shot destroys tank). (Phase 2 of 3)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ }
+}

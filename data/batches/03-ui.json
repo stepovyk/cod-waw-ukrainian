@@ -1,0 +1,1606 @@
+{
+ "PLATFORM_DYK_COOP_MSG6": {
+  "en": "By collecting Death Cards throughout the solo or co-op campaign you unlock cheats that can be used when you host Co-Op matches.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_COOP_MSG7": {
+  "en": "The Co-op and Multiplayer Server Browsers have Filter options to quickly show you games that match your criteria.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_COOP_MSG8": {
+  "en": "You gain experience points (XP) in Co-op matches when you play online or LAN games.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_COOP_MSG9": {
+  "en": "Advanced actions earn higher points in Competitive Co-Op. Backstabs, headshots, and multi-grenade kills are all worth more points.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG1": {
+  "en": "Experience points (XP) are awarded for kills, completing Challenges and matches.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG10": {
+  "en": "Satchel Charges and Nº 74 ST grenades can aid you in destroying tanks.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG11": {
+  "en": "See how many experience points (XP) until your next level in the Rank & Challenges menu.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG12": {
+  "en": "Earn experience points (XP) by completing Challenges in online games. View your progress on a specific Challenge in the Rank & Challenges menu.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG13": {
+  "en": "Using the Shades perk will reduce the intensity of Signal Flares.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG14": {
+  "en": "Using the Bomb Squad perk will allow you to spot enemy explosives like Bouncing Betty's and Satchel Charges.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG15": {
+  "en": "The Second Chance perk allows you to revive downed teammates who also have Second Chance.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG16": {
+  "en": "Recon Planes called in by teammates offer an opportunity to call in accurate Artillery Strikes.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG17": {
+  "en": "Enemy dogs can be damaged with any weapon or explosive.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG18": {
+  "en": "The Recon Plane will show enemy positions on the compass and in-game map.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG19": {
+  "en": "In the War game mode your team loses Momentum if the enemy captures a battlefield command point.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG2": {
+  "en": "Gaining experience points (XP) allow you to rank up and unlock new Weapons, Attachments, Perks and Challenges.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG20": {
+  "en": "The Domination game mode is about holding the marked objectives. The more objectives you hold, the more points your team gets.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG21": {
+  "en": "In the Search and Destroy game mode you won't respawn until the round is over.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG22": {
+  "en": "The Sabotage game mode is about protecting the bomb carrier. The key to victory is teamwork.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG23": {
+  "en": "Killing 3 enemies in a row without dying will reward you and your team with a Recon Plane.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG24": {
+  "en": "Killing 5 enemies in a row without dying will reward you and your team with an Artillery Strike.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG25": {
+  "en": "Killing 7 enemies in a row without dying will reward you and your team with a pack of vicious Dogs.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG26": {
+  "en": "Do you have Friends on the Lone Wolves list? Invite them all to your squad by clicking 'Invite Friends'.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG27": {
+  "en": "When you fire a weapon with a Suppressor or Flash Hider, you do not appear as a red dot on the enemies compass or in-game map.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG28": {
+  "en": "The Camouflage perk will prevent you from showing up as a red dot when an enemy Recon Plane is flying above.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG29": {
+  "en": "Maximum level is not the end of your career; you then have the option to gain Prestige.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG3": {
+  "en": "Completing weapon Challenges unlocks attachments that allow you to customize weapons in the Create-A-Class menu.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG30": {
+  "en": "You can customize the game rules when you host an online or LAN match.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG31": {
+  "en": "Experience points (XP) can only be gained in online matches.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG32": {
+  "en": "In the Domination and War game modes, multiple teammates will capture a flag faster.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG33": {
+  "en": "Press the V key (default) to perform a knife melee attack.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG34": {
+  "en": "Pressing the shift key (default) allows you to sprint, however you cannot use your weapons while sprinting.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG35": {
+  "en": "When zoomed in with a scoped weapon, holding down the shift key (default) allows you to hold your breath, and steady your aim.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG36": {
+  "en": "If a frag grenade lands near you look for the throwback indicator. This will allow you to send the enemy grenade back using the G key or middle mouse wheel.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG37": {
+  "en": "Weapons can shoot through many different surfaces with reduced damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG38": {
+  "en": "Rifle Grenades, Bazookas, Bouncing Betty's and Satchel Charges are stored in your inventory.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG39": {
+  "en": "Satchel Charges can be thrown with the right mouse button and detonated with the left mouse button.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG4": {
+  "en": "Create customized weapon loadouts and Perk assignments in the Create-A-Class menu.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG40": {
+  "en": "By double tapping the use key you can detonate thrown Satchel Charges when you are using your primary / secondary weapon.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG41": {
+  "en": "You can change classes at any point during a match by pressing the escape button. Class changes take effect after you respawn.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG42": {
+  "en": "In the War game mode it's about Momentum, capture the battlefield command points on the map to achieve victory.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG43": {
+  "en": "Tanks have external armor; destroy the armor with explosives to expose weak spots.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG44": {
+  "en": "In the War game mode it's all about momentum, capture the indicated points on the map to achieve victory.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG5": {
+  "en": "Assist points are awarded when you damage an enemy, but your teammate gets the kill.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG6": {
+  "en": "Hardcore mode removes the HUD and increases weapon damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG7": {
+  "en": "Visit Treyarch.com to go behind-the-scenes with the developers behind 'Call of Duty: World at War'.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG8": {
+  "en": "You can invite your friends to join you on the server that you are playing on by clicking on Friends from the pause menu in game.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_DYK_MSG9": {
+  "en": "Hosting a game will allow you to customize the game rules.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_ENABLE_PB_TITLE": {
+  "en": "Enable PunkBuster?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_EOG_PRESS_ESC": {
+  "en": "Press^3 ESC^7 to^3 Create a Class^7 and more.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_EXPIRED_INVITE_TITLE": {
+  "en": "Friend Offline",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FIRSTPERSON": {
+  "en": "^3 &&1 ^7First Person View",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FIRSTPERSON_PC": {
+  "en": "- Press^3 &&1 ^7for First Person View",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FOLLOWNEXTPLAYER": {
+  "en": "- Press^3 &&1 ^7to follow next player",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FOLLOWPREVIOUSPLAYER": {
+  "en": "- Press^3 &&1 ^7to follow previous player",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FOLLOWSTOP": {
+  "en": "- Press^3 &&1 ^7to stop following",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FRIEND_LIMIT_TITLE": {
+  "en": "Friend Limit Exceeded",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FRIEND_NAME": {
+  "en": "Enter Friend's name.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_FRONTMG": {
+  "en": "Press ^3 &&1 ^7for Coaxial MG",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_GAME_SUMMARY": {
+  "en": "After Action Report",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_GAME_SUMMARY_CAP": {
+  "en": "AFTER ACTION REPORT",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_GO": {
+  "en": "Go",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_GUNNERDUCK": {
+  "en": "Press ^3  &&1 ^7to Cover",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_1_TO_TURN_THE_BASE": {
+  "en": "Hold^3 &&1 ^7to turn the base of the tank to line up with the turret.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_BREATH": {
+  "en": "Hold^3 &&1 ^7to steady",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES": {
+  "en": "Hold ^3 &&1 ^7to defuse explosives  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_TO_DROP": {
+  "en": "Press^3 &&1 ^7to dismount",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_TO_PLANT_EXPLOSIVES": {
+  "en": "Hold ^3 &&1 ^7to plant explosives  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_HOLD_TO_USE": {
+  "en": "Press^3 &&1 ^7to use",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVALID_ID_TITLE": {
+  "en": "Invalid ID",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITATION_SENT": {
+  "en": "Invitation to join game has been sent to",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITATION_SENT_TITLE": {
+  "en": "Invitation Sent",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITE_ACCEPTED_TITLE": {
+  "en": "Invite Accepted",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITE_FRIENDS_TO_SQUAD": {
+  "en": "Invite Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITE_SENT_TITLE": {
+  "en": "Invite Sent",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_INVITE_TO_SQUAD": {
+  "en": "Invite",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_JOIN_SQUAD": {
+  "en": "Join",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_LEAVE_SQUAD": {
+  "en": "Leave",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_LOCK_SQUAD": {
+  "en": "Lock",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_LOGIN_REQUIRED": {
+  "en": "You must log in to this profile before deleting it.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_LOGIN_REQUIRED_TITLE": {
+  "en": "Login Required",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_LOW_AMMO_NO_RELOAD": {
+  "en": "LOW AMMO",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_MANTLE": {
+  "en": "Press^3 &&1 ^7to  Mantle",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_MANTLEVEHICLE": {
+  "en": "Press^3 &&1 ^7to mantle tank",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_MISSINGMAP": {
+  "en": "You do not have this map. You can get this map by downloading map packs from PC Online Marketplace",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_MOUNT": {
+  "en": "Press^3 &&1 ^7to mount your weapon",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_NEW_VERSION_AVAILABLE": {
+  "en": "New version available, to download visit www.callofduty.com/update",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_NO": {
+  "en": "No",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_NOT_FRIENDS_YET_TITLE": {
+  "en": "Invite Unavailable",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_NOT_ONLINE": {
+  "en": "You must be Online to access this feature.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_NOT_ONLINE_TITLE": {
+  "en": "Not Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_OFFLINE": {
+  "en": "Offline",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_ONLINE": {
+  "en": "Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICKUPNEWWEAPON": {
+  "en": "Press^3 &&1 ^7to pick up",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_DOUBLE_TAP": {
+  "en": "Press^3 &&1 ^7to pick up Double Tap",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_JUGGERNAUT": {
+  "en": "Press^3 &&1 ^7to pick up Juggernaut",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_LAST_STAND": {
+  "en": "Press^3 &&1 ^7to pick up Last Stand",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_MARTYRDOM": {
+  "en": "Press^3 &&1 ^7to pick up Martyrdom",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_SLEIGHT_OF_HAND": {
+  "en": "Press^3 &&1 ^7to pick up Sleight of Hand",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PICK_UP_STOPPING_POWER": {
+  "en": "Press^3 &&1 ^7to pick up Stopping Power",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PINGTOOHIGH": {
+  "en": "Ping too high",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PINGTOOLOW": {
+  "en": "Ping too low",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PLAY_ONLINE": {
+  "en": "Play Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PRESS_1_TO_USE_YOUR_BINOCULARS": {
+  "en": "Press^3 &&1 ^7to use your binoculars.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PRESS_TO_RESPAWN": {
+  "en": "Press^3 [{+activate}] ^7to respawn",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PRESS_TO_SET_AIRSTRIKE": {
+  "en": "Press Fire to set Artillery location",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PRESS_TO_SKIP": {
+  "en": "Press^3 [{+activate}] ^7to skip",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_PRESS_TO_SPAWN": {
+  "en": "Press^3 [{+activate}] ^7to spawn",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_QUIT": {
+  "en": "Quit",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_QUIT_CAP": {
+  "en": "QUIT",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_QUIT_GAME": {
+  "en": "Are you sure you want to quit?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RECORD_LEVEL_INFO": {
+  "en": "To change the Record Level you need to change the Recording Controls in your Windows Sound settings.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RELOAD": {
+  "en": "Reload",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RENAME": {
+  "en": "Rename",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_REQUEST_SENT_TITLE": {
+  "en": "Request Already Sent",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RESET_TO_DEFAULT": {
+  "en": "Reset To Default",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RESTORE_CONTROLS": {
+  "en": "Each setting will be restored to its default value, are you sure?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RESTORE_CONTROLS_CONFIRMATION": {
+  "en": "Your control settings have been reset.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RESTORE_GRAPHICS": {
+  "en": "This will restore all system settings to default, are you sure?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_RIDEVEHICLE": {
+  "en": "Press^3 &&1 ^7to ride vehicle",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SAVE": {
+  "en": "- Press^3 &&1 ^7to follow next player",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SAVE_AND_QUIT": {
+  "en": "Save and Quit",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SAVE_AND_QUIT_CAP": {
+  "en": "SAVE AND QUIT",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SAVE_UNABLE_TO_ACCESS_DEVICE": {
+  "en": "Unable to access save device. Please make sure that you have a valid User Profile (PC Online acount. Use \"Tools\" in the PC Launcher).",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SELECT_SQUAD_COMMAND": {
+  "en": "Select a target location for your squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SEVEN_ONE_SPEAKERS": {
+  "en": "7.1 Speakers",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SPEAKER_CONFIG_INFO": {
+  "en": "To change Speaker Config you need to change the default playback device in your Windows Sound settings, and restart the game.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SPECTATOR_VIEW_MODE": {
+  "en": "Spectator View Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SP_UNLOCK_DESC": {
+  "en": "Access this in co-op game settings.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SP_UNLOCK_INFO": {
+  "en": "You have unlocked 'Nazi Zombies' for solo and co-op play. Survive an onslaught of the Nazi undead army, and compare your stats with friends!",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SP_UNLOCK_TITLE": {
+  "en": "Congratulations!",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SQUAD_ATTACK": {
+  "en": "Press^3 Fire ^7to set Squad Waypoint",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SQUAD_BACK": {
+  "en": "Press^3 ESC ^7to Back Out",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SQUAD_CANCEL": {
+  "en": "Press^3 Sprint ^7to Clear Waypoint",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SQUAD_DEFEND": {
+  "en": "Press^3 &&1 ^7to Defend",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SQUAD_REGROUP": {
+  "en": "Press^3 &&1 ^7to Regroup",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_STANCEHINT_CROUCH": {
+  "en": "Press^3 &&1 ^7to crouch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_STANCEHINT_JUMP": {
+  "en": "Press^3 &&1 ^7to jump",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_STANCEHINT_PRONE": {
+  "en": "Press^3 &&1 ^7to go prone",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_STANCEHINT_STAND": {
+  "en": "Press^3 &&1 ^7to stand",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_STATSREADERROR": {
+  "en": "An error occurred while reading the stats data.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SWAPWEAPONS": {
+  "en": "Press^3 &&1 ^7to swap for",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SWITCHSEATS": {
+  "en": "Press ^3  &&1 ^7to switch seats",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SYSTEM_LINK": {
+  "en": "LAN Party",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SYSTEM_LINK_CAP": {
+  "en": "LAN LOBBY",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SYSTEM_SETTINGS_HIGH": {
+  "en": "High",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SYSTEM_SETTINGS_LOW": {
+  "en": "Low",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_SYSTEM_SETTINGS_MEDIUM": {
+  "en": "Medium",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_TANKBOOST": {
+  "en": "Press ^3 &&1 ^7 for Boost",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_TANK_BINOCULARS": {
+  "en": "Press^3 &&1 ^7to use your binoculars to sight distant targets.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_TANK_CONTROLS": {
+  "en": "Tank Controls",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_TEST_LEVELS": {
+  "en": "Test Levels",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_THIRDPERSON": {
+  "en": "^3 &&1 ^7Third Person View",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_THIRDPERSON_PC": {
+  "en": "- Press^3 &&1 ^7for Third Person View",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_THROWBACKGRENADE": {
+  "en": "^3&&1 ^7throw back",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_UNLOCK_SQUAD": {
+  "en": "Unlock",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEAION30CAL": {
+  "en": "Press USE^3 &&1 ^7to commandeer the .30 cal",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEAIONMG42": {
+  "en": "Press USE^3 &&1 ^7to commandeer the MG42",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEFLAK88": {
+  "en": "Press USE^3 &&1 ^7to use the Flak 88 gun",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEFLAKVIERLING": {
+  "en": "Press USE^3 &&1 ^7to use the Flak Vierling",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEVEHICLE": {
+  "en": "Press^3 &&1 ^7to drive vehicle",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_USEVEHICLEGUNNER": {
+  "en": "Press^3 &&1 ^7to enter vehicle gunner position",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_WHILE_LOOKING_THROUGH": {
+  "en": "While looking through the binoculars press USE^3 &&1 ^7to call in Artillery.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_XBOXLIVEMARKETPLACE": {
+  "en": "PC Online\nMarketplace",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_XBOXLIVE_INSTR": {
+  "en": "PC Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_XBOX_LIVE": {
+  "en": "PC Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_XBOX_LIVE_LOBBY": {
+  "en": "PC Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PLATFORM_YES": {
+  "en": "Yes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "XBOXLIVE_CANTJOINSESSION": {
+  "en": "Unable to join game session",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_CANTJOINSESSIONGAMERUNNING": {
+  "en": "Unable to join game session in progress",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_CHANGEPROFILE": {
+  "en": "Press^3 &&1 ^7to Change Profile",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_CHANGEUSERS": {
+  "en": "Press^3 &&1 ^7to Change Users",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_CLANSETTINGS": {
+  "en": "Clan Settings",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_DESTROYPARTY": {
+  "en": "End Party?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_DESTROYSQUAD": {
+  "en": "End Squad?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_EDITCLANINFO": {
+  "en": "Edit Clan Info",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_ENDOFMATCH": {
+  "en": "End of match",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_FINDGAME": {
+  "en": "Press^3 &&1 ^7to find game",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_FINDGAMELOBBY": {
+  "en": "Press^3 &&1 ^7to Find Game Lobby",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_FRIENDSLIST": {
+  "en": "Press^3 &&1 ^7for friends",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_FRIENDSLISTONX": {
+  "en": "Press^3 &&1 ^7to friends",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_GAMERCARD": {
+  "en": "Press^3 &&1 ^7to Gamer Card",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_GAMERREVIEW": {
+  "en": "Press^3 &&1 ^7to Submit Review",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_HOSTKICKPLAYER": {
+  "en": "Press^3 &&1 ^7to Kick Player",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_INVALIDPERMISSIONS": {
+  "en": "The user &&1 does not have proper permissions for that operation",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_INVITE": {
+  "en": "Press^3 &&1 ^7to invite friends",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_INVITE_ONLY": {
+  "en": "Lobby is by Invitation Only",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_JOINSPLITSCREENGAME": {
+  "en": "Press^3 &&1 ^7to Join Game",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_KICK": {
+  "en": "Kick",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_KICKPLAYER": {
+  "en": "Kick &&1?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_KICKPLAYERINLIST": {
+  "en": "Press^3 &&1 ^7to KICK PLAYER",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEADERBOARDS": {
+  "en": "Leaderboards",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVELOBBY": {
+  "en": "Leave Lobby?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVEPARTY": {
+  "en": "Leave party?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVEPARTYANDLOBBY": {
+  "en": "Leave lobby and party?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVEPARTYBUTTON": {
+  "en": "Press^3 &&1 ^7to Leave Party",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVESPLITSCREENGAME": {
+  "en": "Press^3 &&1 ^7to Leave Game",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LEAVESQUAD": {
+  "en": "Leave squad?",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LOBBYENDED": {
+  "en": "Game lobby closed",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LOBBYGAMERCARD": {
+  "en": "Press^3 &&1 ^7to View Player's Gamer Card",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LOBBY_CONNECTION_ERR": {
+  "en": "Unable to connect to Activision Matchmaking (Error &&1)",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_LOGGEDOFF": {
+  "en": "You were logged out of the PC Network",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_MPNOTALLOWED": {
+  "en": "Online service is disabled on your PC Network account due to parental control restrictions.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_MUSTLOGIN": {
+  "en": "You must sign in before you can play Call of Duty: World at War.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_NETCONNECTION": {
+  "en": "No network connection detected. You must have an active network connection to play online or over a local network.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_NOTREGISTEREDWITHARBITRATION": {
+  "en": "Error while registering local client with online arbitration system.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_NOTSIGNEDIN": {
+  "en": "Not signed in to a profile",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PARTYDETAILS": {
+  "en": "Press^3 &&1 ^7to party details",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PARTYENDED": {
+  "en": "The party is no longer active",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYER0@localized_code_post_gfx_mp": {
+  "en": "Player 1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "XBOXLIVE_PLAYER0@ui": {
+  "en": "Press^3 &&1 ^7to View Player's Gamer Card",
+  "zones": [
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYER1": {
+  "en": "Player 2",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYER2": {
+  "en": "Player 3",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYER3@localized_code_post_gfx_mp": {
+  "en": "Player 4",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "XBOXLIVE_PLAYER3@ui": {
+  "en": "Press^3 &&1 ^7to view gamer",
+  "zones": [
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYLISTISNEW": {
+  "en": "Your playlist data is newer than the host's.  You will be unable to play with them until they restart to get the new playlists.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_PLAYLISTISOLD": {
+  "en": "Your playlist data is older than the host's.  You must restart the game in order to get the new playlist data.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_RESTRICTEDCLAN": {
+  "en": "This server only allows players from certain clans to play here.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SERVICENAME": {
+  "en": "PC Network",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SIGNEDINAS": {
+  "en": "Signed in as: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SIGNEDOUT": {
+  "en": "Your profile was signed out",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SIGNEDOUTOFLIVE": {
+  "en": "You must be signed in to the PC Network to play online matches.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SIGNINPROFILE": {
+  "en": "Press^3 &&1 ^7to Sign In Profile",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SIGNINTOPROFILE": {
+  "en": "Press^3 &&1 ^7to Sign In To Profile",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_SPLITSCREEN_SIGN_IN": {
+  "en": "Splitscreen Sign In",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_STARTGAME": {
+  "en": "Click to Continue",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_VIEWCLANINFO": {
+  "en": "Clan Info",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_VIEW_GAMER_CARD": {
+  "en": "Press^3 &&1 ^7to view gamer",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_VIEW_PROFILE": {
+  "en": "View Profile",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "XBOXLIVE_VOICECHATRESTRICTED": {
+  "en": "Chat is disabled on your PC Network account due to parental control restrictions.",
+  "zones": [
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ }
+}

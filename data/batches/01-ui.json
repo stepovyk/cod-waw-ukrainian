@@ -1,0 +1,8300 @@
+{
+ "CGAME_AM_IN_FIRST_PLACE": {
+  "en": "&&1 has taken the lead",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_COMPLAINTDISMISSED": {
+  "en": "Complaint dismissed",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_COMPLAINTFILED": {
+  "en": "Your complaint has been filed",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_COMPLAINTSERVERHOST": {
+  "en": "Server Host cannot be complained against",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_COMPLAINTTEAMKILLFILE": {
+  "en": "File complaint against &&1 for team-killing?",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_CONNECTIONINTERUPTED": {
+  "en": "Connection Interrupted",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_CONTINUE_SAVING": {
+  "en": "Save and Quit",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_CONTINUE_SAVING_CAP": {
+  "en": "SAVE AND QUIT",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_COOP_FOUND_COLLECTIBLE": {
+  "en": "&&1 found a death card",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_CRUSH": {
+  "en": "crush",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DIED": {
+  "en": "died",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DROWN": {
+  "en": "drown",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_ACCEPTED_FRIEND": {
+  "en": "has accepted your friendship proposal.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_CANCEL_FRIEND": {
+  "en": "has cancelled their request for friendship.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_IS_OFFLINE": {
+  "en": "is offline",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_IS_ONLINE": {
+  "en": "is online",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_REJECTED_FRIEND": {
+  "en": "has rejected your friendship proposal.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_REVOKED_FRIEND": {
+  "en": "has revoked their friendship.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_SENT_GAME_INVITE": {
+  "en": "has sent you a game invite.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_DW_WANTS_TO_BE_FRIEND": {
+  "en": "wants to be your friend.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_FALLING": {
+  "en": "falling",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_FOLLOWING": {
+  "en": "Spectating",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_FOR": {
+  "en": "for",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_HEAD_SHOT": {
+  "en": "head shot",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_HEALTH": {
+  "en": "Health",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_LISTENSERVER": {
+  "en": "Listen Server",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_MELEE": {
+  "en": "melee",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_MISSIONOBJECTIVES": {
+  "en": "Mission Objectives",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_MISSIONOBJECTIVES_CAP": {
+  "en": "MISSION OBJECTIVES",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_NEEDS_REVIVE": {
+  "en": "needs to be revived.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_NO": {
+  "en": "No",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_NOSPECTATORVOICECHAT": {
+  "en": "Can't voice chat as a spectator.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_NOW_SAVING": {
+  "en": "Saving...",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_OBJECTIVE_ABOVE": {
+  "en": "Objective Above",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_OBJECTIVE_BELOW": {
+  "en": "Objective Below",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_PAUSED": {
+  "en": "Paused",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_PLAYERRENAMES": {
+  "en": "renamed to",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_PRESSYESNO": {
+  "en": "Press '&&1' for Yes, or '&&2' for No",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_PRONE_BLOCKED": {
+  "en": "Prone Blocked",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_PRONE_BLOCKED_WEAPON": {
+  "en": "Can't Go Prone With This Weapon",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_RESTART_WARNING": {
+  "en": "If you restart now, you will lose \nany progress that you have made \nin this mission\n\nContinue restart?",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SAVE_VICTORY": {
+  "en": "Would you like to save your game progress?",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SAVE_WARNING": {
+  "en": "Are you sure you want to overwrite this content? \nAll progress within this save content will be lost. \n\nContinue saving?",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_ACCURACY": {
+  "en": "Accuracy",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_ASSISTS": {
+  "en": "Assists",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_DEATHS": {
+  "en": "Deaths",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_DOWNS": {
+  "en": "Downs",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_HEADSHOTS": {
+  "en": "Headshots",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_KILLS": {
+  "en": "Kills",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_PING": {
+  "en": "Ping",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_PLAYER": {
+  "en": "&&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_PLAYERS": {
+  "en": "&&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_POINTS": {
+  "en": "Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_REVIVES": {
+  "en": "Revives",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SB_SCORE": {
+  "en": "Score",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SERVERHOSTTEAMKILLED": {
+  "en": "You were team-killed by the Server Host",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SLIME": {
+  "en": "slime",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SPECTATOR": {
+  "en": "Spectator",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SPECTATORS": {
+  "en": "Spectators",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_ATTACK": {
+  "en": "Attack command issued by squad leader",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_CLEAR": {
+  "en": "Squad leader cancelled the command",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_CREATEDSQUAD": {
+  "en": "You have created squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_DEFEND": {
+  "en": "Defend command issued by squad leader",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_DISBANDED": {
+  "en": "Your squad has been disbanded. You are now a lone wolf.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_INVITERECEIVED": {
+  "en": "has invited you to squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_JOINEDSQUAD": {
+  "en": "You have joined squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_LEADERCHANGED": {
+  "en": "Squad leader changed ! Your new squad leader is ",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_LEFTSQUAD": {
+  "en": "You have left squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_LONEWOLF": {
+  "en": "You are now a lone wolf.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_MEMBERJOINED": {
+  "en": "has joined squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_MEMBERKICKED": {
+  "en": "kicked you from squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_MEMBERLEFT": {
+  "en": "has left squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SQUAD_REGROUP": {
+  "en": "Regroup command issued by squad leader",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_SUICIDE": {
+  "en": "suicide",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_TEAMMATE": {
+  "en": "Teammate",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_THIS_WEAPON_HAS_NO_ALTERNATE": {
+  "en": "This weapon has no alternate mode to switch to.",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_UNKNOWN": {
+  "en": "unknown",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_VOTE": {
+  "en": "Vote",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_WAITINGFORSERVERLOAD": {
+  "en": "Waiting for server to load new map",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_YES": {
+  "en": "Yes",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_YOUKILLED": {
+  "en": "You killed &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_YOUREVIVED": {
+  "en": "You revived &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_YOUWEREKILLED": {
+  "en": "Killed by &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CGAME_YOUWEREREVIVED": {
+  "en": "Revived by &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_common_mp"
+  ]
+ },
+ "CLANS_CLANNAME": {
+  "en": "Clan Name:",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "CLANS_INVALIDCHARS": {
+  "en": "Unsupported characters have been removed from your input.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "CLANS_OFFENSIVENAME": {
+  "en": "Clan name denied due to prohibited text",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "DEBUG_ALLIES": {
+  "en": "allies: [&&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEBUG_AXIS": {
+  "en": "axis: [&&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEBUG_DRONES": {
+  "en": "drones: [&&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEBUG_POSITION": {
+  "en": "Position:",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEBUG_TOTAL": {
+  "en": "total: [&&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEBUG_VEHICLES": {
+  "en": "vehicles: [&&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "EXE_ALL": {
+  "en": "All",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AUTODL_CLIENTDISABLED": {
+  "en": "Could not download &&1 because autodownloading is disabled on the client.\n\nYou will need to get this file elsewhere before you can connect to this server, or set autodownload to Yes in your settings.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AUTODL_FILENOTONSERVER": {
+  "en": "File &&1 not found on server for autodownloading.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AUTODL_SERVERDISABLED": {
+  "en": "Could not download &&1 because autodownloading is disabled on the server.\n\nSet autodownload to No in your settings and you might be able to connect if you do have the file.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AUTODL_SERVERDISABLED_PURE": {
+  "en": "Could not download &&1 because autodownloading is disabled on the server.\n\nYou will need to get this file elsewhere before you can connect to this pure server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AWAITINGCDKEYAUTH": {
+  "en": "Awaiting key code authorization",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AWAITINGCHALLENGE": {
+  "en": "Awaiting challenge...&&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AWAITINGCONNECTION": {
+  "en": "Awaiting connection...&&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AWAITINGGAMESTATE": {
+  "en": "Setting up game",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_AWAITINGHOST": {
+  "en": "Waiting for other players",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_BADSERVERADDRESS": {
+  "en": "Bad server address.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_BAD_CHALLENGE": {
+  "en": "No or bad challenge for address.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_BANNED": {
+  "en": "You are banned for the game session",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_BYTES": {
+  "en": "bytes",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CANNOTKICKHOSTPLAYER": {
+  "en": "Cannot kick the host player.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CANNOTVALIDATEPURECLIENT": {
+  "en": "Cannot validate pure client!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CANTAUTODLGAMEPAK": {
+  "en": "Cannot auto-download game IWD file &&1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CDKEYINVALID": {
+  "en": "Key code does not appear to be valid.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CDKEYVALID": {
+  "en": "Key code appears to be valid.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CHALLENGING": {
+  "en": "Challenging",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CHECKPOINT_REACHED": {
+  "en": "Checkpoint Reached.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_COD_MULTIPLAYER": {
+  "en": "COD2 Multiplayer",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CONNECTING": {
+  "en": "Connecting",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_CONNECTINGTO": {
+  "en": "Connecting to &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_COPIED": {
+  "en": "copied",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DEFAULT_PLAYER": {
+  "en": "Player",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DISCONNECT": {
+  "en": "Disconnected",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DISCONNECTED": {
+  "en": "Host has left the game",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DISCONNECTEDFROMOWNLISTENSERVER": {
+  "en": "Client told to disconnect from its own listen server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DOWNLOADING": {
+  "en": "Downloading:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_DOWNLOADINGUPDATE": {
+  "en": "Downloading Update: &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ENDOFGAME": {
+  "en": "END OF GAME",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_ARB_MULTITEX_BAD_MAX": {
+  "en": "GL_ARB_multitexture found, but it doesn't allow multiple textures.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_ARB_MULTITEX_INIT_FAILED": {
+  "en": "GL_ARB_multitexture found, but it failed to initialize.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_BAD_CDKEY": {
+  "en": "Bad Key Code.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_BAD_GAME_FOLDER": {
+  "en": "Invalid game folder",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_BAD_WINDOWS_VER": {
+  "en": "Your version of Microsoft Windows(TM) does not support Call of Duty.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CANNOTJOININPROGRESS": {
+  "en": "Can not join a game in progress",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CANT_CREATE": {
+  "en": "Cannot create &&1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CANT_WRITE": {
+  "en": "Cannot write to &&1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CDKEY_IN_USE": {
+  "en": "Key Code in use. Please try reconnecting later.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CLIENT_CMD_OVERFLOW": {
+  "en": "Client command overflow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_CORRECT_FOLDER": {
+  "en": "Make sure Call of Duty is run from the correct folder.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_CONFIGURE": {
+  "en": "Couldn't configure:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_CREATE_WINDOW": {
+  "en": "Could not create a window. This is a Microsoft Windows(TM) error. You may need to reboot.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_INIT_REFRESH": {
+  "en": "Couldn't initialize refresh",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_LOAD": {
+  "en": "Couldn't load &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_LOAD_OPENGL": {
+  "en": "Could not load OpenGL.  Make sure that you have the latest drivers for your video card from the manufacturer's web site.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_OPEN_URL": {
+  "en": "Could not open url: '&&1'",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_REGISTER_WINDOW": {
+  "en": "Could not register a window class. This is a Microsoft Windows(TM) error. You may need to reboot.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_COULDNT_START_PROCESS": {
+  "en": "Could not start process: &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_GAME_FAILED_PURE_CHECK": {
+  "en": "Game code(&&1) failed Pure Server check",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_GET_NEWEST_DRIVERS": {
+  "en": "You should install the latest drivers for your video card, being sure to uninstall the old drivers first.  If you already have the latest drivers, you should completely uninstall the drivers and then reinstall them.  This fixes most problems.  If the game still doesn't work, it may be that your video card does not have the minimum features required.  Please check the readme for more information, including a list of supported video cards.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_HIGH_PING_ONLY": {
+  "en": "Server is for high ping players only.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_HUNGUSAGE_CORRUPT": {
+  "en": "hunkusage.dat file is corrupt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_HUNKUSAGE_CANT_WRITE": {
+  "en": "Cannot write to hunkusage.dat, check disk full.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_HUNK_ALLOC_FAILED": {
+  "en": "Hunk data failed to allocate &&1 megs.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_INVALID_CD_KEY": {
+  "en": "Key Code is not valid.\nPlease enter your Key Code in the Multiplayer Options/Enter Key Code menu and then try connecting to the server again.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_JOURNAL_FILE_READ": {
+  "en": "Error reading from journal file",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_JOURNAL_FILE_WRITE": {
+  "en": "Error writing to journal file",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_LOW_PING_ONLY": {
+  "en": "Server is for low ping players only.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_MULTITEX_BAD_MAX": {
+  "en": "OpenGL 1.3 multitexture found, but it doesn't allow multiple textures.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_MULTITEX_INIT_FAIL": {
+  "en": "OpenGL 1.3 multitexture found, but it failed to initialize.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_NOT_A_DEMO_SERVER": {
+  "en": "Server is not a demo server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_NOT_FOUND": {
+  "en": "&&1 not found.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_NOT_RECEIVED": {
+  "en": "Requested a command not received.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_NO_LAST_SAVE": {
+  "en": "The lastsave game seems to have been deleted. Load a different save game from the Load Game menu, or start a new game.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_OUT_OF_MEMORY": {
+  "en": "Out of memory.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_QPORT": {
+  "en": "Unable to connect.  Duplicate qport on server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_RELIABLE_CYCLED_OUT": {
+  "en": "A reliable command was cycled out.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_SERVER_TIMEOUT": {
+  "en": "Server connection timed out.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_SHOULD_BE": {
+  "en": "should be",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_VIDEOCARD_MISSING_FEATURE": {
+  "en": "Your video card appears to be missing one or more features required to run Call of Duty.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ERR_WRONG_MAP_VERSION_NUM": {
+  "en": "Map &&1 has the wrong version number.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ESTIMATING": {
+  "en": "estimating",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_EST_TIME_LEFT": {
+  "en": "Estimated time left:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITEADDED": {
+  "en": "Added favorite server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITEADDRESSEMPTY": {
+  "en": "Server address is empty.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITEINLIST": {
+  "en": "This server is already a favorite server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITELISTFULL": {
+  "en": "Favorite list is full.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITENAMEEMPTY": {
+  "en": "Server name is empty.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FAVORITES": {
+  "en": "Favorites",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_FRIENDS": {
+  "en": "Friends",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_GAMEISENDING": {
+  "en": "Join failed - game is about to end",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_GAMESAVED": {
+  "en": "Game Saved",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_GETTINGINFOFORSERVERS": {
+  "en": "Getting info for &&1 servers (ESC to cancel)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_GIGABYTE": {
+  "en": "GB",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_HOSTCONNECTIONLOST": {
+  "en": "Connection to host has been lost",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_HOSTUNREACH": {
+  "en": "This game session is no longer available.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_HOURS": {
+  "en": "hr",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_INTERNET": {
+  "en": "Internet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_INVALIDUPDATESERVERDOWNLOAD": {
+  "en": "Invalid download from update server",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_KEYCHANGE": {
+  "en": "Press ENTER or CLICK to change",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_KEYWAIT": {
+  "en": "Waiting for new key. Press ESCAPE to cancel or BACKSPACE to clear",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_KILOBYTE": {
+  "en": "KB",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LAN": {
+  "en": "LAN",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LEFTGAME": {
+  "en": "left the game",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LOADING": {
+  "en": "Loading",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LOCAL": {
+  "en": "Local",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LOSTCONNECTION": {
+  "en": "Network connection lost",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_LOSTRELIABLECOMMANDS": {
+  "en": "Lost reliable commands",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MATCHENDED": {
+  "en": "The match has ended",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MEGABYTE": {
+  "en": "MB",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MINUTES": {
+  "en": "min",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_APRIL": {
+  "en": "Apr",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_AUGUST": {
+  "en": "Aug",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_DECEMBER": {
+  "en": "Dec",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_FEBRUARY": {
+  "en": "Feb",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_JANUARY": {
+  "en": "Jan",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_JULY": {
+  "en": "Jul",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_JUN": {
+  "en": "Jun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_JUNE": {
+  "en": "Jun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_MARCH": {
+  "en": "Mar",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_MAY": {
+  "en": "May",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_NOVEMBER": {
+  "en": "Nov",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_OCTOBER": {
+  "en": "Oct",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_MONTH_ABV_SEPTEMBER": {
+  "en": "Sep",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_NEEDSTATS": {
+  "en": "Error synchronizing game settings",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_NETSOURCE": {
+  "en": "Source:     &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_NO": {
+  "en": "No",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_NOSAVEGAMES": {
+  "en": "(no savegames)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_OF": {
+  "en": "of",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_OFFLINE": {
+  "en": "offline",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_ONLINE": {
+  "en": "online",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_PARTYNOTHOSTING": {
+  "en": "Not hosting",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_PENDING": {
+  "en": "pending",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_PLAYERKICKED": {
+  "en": "Player kicked",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_PLAYERKICKED_COOP": {
+  "en": "You were kicked for unsportsmanlike conduct",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_PLAYERKICKED_COOP_NOTIFICATION": {
+  "en": "was kicked",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_READY": {
+  "en": "Ready",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_REFRESHTIME": {
+  "en": "Refresh Time: &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SAY": {
+  "en": "say",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SAYTEAM": {
+  "en": "say_team",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SECONDS": {
+  "en": "sec",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERCOMMANDOVERFLOW": {
+  "en": "Server command overflow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERDIDNTHAVECD": {
+  "en": "Server didn't have CD",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERDISCONNECTREASON": {
+  "en": "&&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERFILTER": {
+  "en": "Filter: &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERISFULL": {
+  "en": "Server is full.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERKILLED": {
+  "en": "Server killed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERMESSAGEOVERFLOW": {
+  "en": "Server message overflow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERQUIT": {
+  "en": "Server quit",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERRESTARTMISC": {
+  "en": "Restarting server due to &&1 wrapping.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVERRESTARTTIMEWRAP": {
+  "en": "Restarting server due to time wrapping",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVER_DISCONNECTED": {
+  "en": "Server Disconnected",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVER_FATAL_CRASHED": {
+  "en": "Server fatal crashed:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SERVER_IS_DIFFERENT_VER": {
+  "en": "Server is a different version:\n&&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_ADDRESS": {
+  "en": "IP Address",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_ALLOWANON": {
+  "en": "Allow Anonymous",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_ANTILAG": {
+  "en": "Anti Lag",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_CLIENT_CONSOLE": {
+  "en": "Client Console",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_COMPASS_ENEMIES": {
+  "en": "Compass Enemies",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_FLOODPROTECT": {
+  "en": "Flood Protect",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_FRIENDLY_FIRE": {
+  "en": "Friendly Fire",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_GAMENAME": {
+  "en": "Game Name",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_GAMETYPE": {
+  "en": "Game Type",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_KILLCAM": {
+  "en": "Killcam",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MAP": {
+  "en": "Map",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MAXCLIENTS": {
+  "en": "Max Clients",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MAXPING": {
+  "en": "Max Ping",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MAXRATE": {
+  "en": "Max Rate",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MINPING": {
+  "en": "Min Ping",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_MOD": {
+  "en": "Mod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_NAME": {
+  "en": "name",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_NUM": {
+  "en": "num",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_PASSWORD": {
+  "en": "Password Protected",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_PING": {
+  "en": "ping",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_PRIVATECLIENTS": {
+  "en": "Private Clients",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_PROTOCOL": {
+  "en": "Protocol Version",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_PURE": {
+  "en": "Pure Server",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_SCORE": {
+  "en": "score",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_SERVERNAME": {
+  "en": "Server Name",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_VERSION": {
+  "en": "Version",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SV_INFO_VOICE": {
+  "en": "Voice",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_SYNCHRONIZING": {
+  "en": "Synchronizing",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_TIMEDOUT": {
+  "en": "Timed out",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_TOOFEWPLAYERS": {
+  "en": "There are not enough players to continue the game.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_TRANSMITERROR": {
+  "en": "has left the game.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_TRANS_RATE": {
+  "en": "Transfer rate:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_UNPURECLIENTDETECTED": {
+  "en": "Impure client detected. Invalid .IWD files referenced!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_UPLOADINGSTATS": {
+  "en": "Synchronizing game settings",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_WAITINGFORMASTERSERVERRESPONSE": {
+  "en": "Waiting for response from Master Server",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "EXE_YES": {
+  "en": "Yes",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_ALLIES": {
+  "en": "Allies",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_AXIS": {
+  "en": "Axis",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_BADCLIENTSLOT": {
+  "en": "Bad client slot:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_BUTTON_TO_REVIVE_PLAYER": {
+  "en": "Press & hold &&1 to revive player",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CALLEDAVOTE": {
+  "en": "&&1 called a vote.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CANNOTUSEVEHICLE": {
+  "en": "Carrier can not enter vehicle.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CANT_GET_GRENADE_WEAP_MESSAGE": {
+  "en": "You must have the grenades selected to pickup a different type of grenades.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CANT_GET_PISTOL_WEAP_MESSAGE": {
+  "en": "You must have the pistol selected to pickup a different pistol.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CANT_GET_PRIMARY_WEAP_MESSAGE": {
+  "en": "You must have a primary weapon selected to pickup a different primary weapon.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CANT_GET_SMOKER_WEAP_MESSAGE": {
+  "en": "You must have the smoke grenades selected to pickup a different type of smoke grenades.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CHANGEDTO": {
+  "en": "changed to",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CHEATSNOTENABLED": {
+  "en": "Cheats are not enabled on this server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CLIENTNOTACTIVE": {
+  "en": "Client &&1 is not active",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CLIENTNOTONSERVER": {
+  "en": "Client not on server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_COMPLAINTFILEDAGAINST": {
+  "en": "Complaint filed against you. (&&1 until kicked)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_COOP_WARP_PLAYER_HINT": {
+  "en": "Regrouping With Squad...",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CROUCH_BLOCKED": {
+  "en": "Can't Crouch Here",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_CUSTOM_GAMEMODE": {
+  "en": "Call of Duty: World at War Custom Game Mode",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DEAD": {
+  "en": "Dead",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DEMI_GODMODE_OFF": {
+  "en": "demigod mode OFF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DEMI_GODMODE_ON": {
+  "en": "demigod mode ON",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DIFFICULTY_EASY": {
+  "en": "Difficulty: Greenhorn",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DIFFICULTY_FU": {
+  "en": "Difficulty: Veteran",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DIFFICULTY_HARD": {
+  "en": "Difficulty: Hardened",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DIFFICULTY_MEDIUM": {
+  "en": "Difficulty: Regular",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DIFFICULTY_UNKNOWN": {
+  "en": "Difficulty: Unknown",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_DROPPEDFORINACTIVITY": {
+  "en": "Kicked from server due to inactivity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_ENDED_GAME": {
+  "en": "Ended game",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_ERR_SAVEGAME_BAD": {
+  "en": "Savegame is out-of-date or corrupt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_COMEHERE": {
+  "en": "Come here.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_COVERME": {
+  "en": "Cover me.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_GUARDLOCATION": {
+  "en": "Guard location.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_HOLDTHISPOSITION": {
+  "en": "Hold this position.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_HOLDYOURPOSITION": {
+  "en": "Hold your position.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_REPORT": {
+  "en": "Report.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GC_SEARCHDESTROY": {
+  "en": "Search and destroy.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GET_TO_COVER": {
+  "en": "You are Hurt. Get to Cover!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GODMODE_OFF": {
+  "en": "godmode OFF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_GODMODE_ON": {
+  "en": "godmode ON",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_HEALTH": {
+  "en": "Health",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_HOST_ENDED_GAME": {
+  "en": "Host ended game",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_INACTIVEDROPWARNING": {
+  "en": "Warning: You are about to be kicked due to inactivity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_INVALIDGAMETYPE": {
+  "en": "Invalid gametype.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_INVALIDPASSWORD": {
+  "en": "Invalid Password.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_INVALIDVOTESTRING": {
+  "en": "Invalid vote string.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_KICKEDFROMCOMPLAINTS": {
+  "en": "kicked after too many complaints.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_LEVELTIME": {
+  "en": "Level Time",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_MARINES": {
+  "en": "Marines",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_MAXVOTESCALLED": {
+  "en": "You have called the maximum number of votes.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_MISSIONFAILED": {
+  "en": "Mission Failed",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_MUSTBEALIVECOMMAND": {
+  "en": "You must be alive to use this command.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NEXTMAPNOTSET": {
+  "en": "nextmap not set.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOCLIPOFF": {
+  "en": "noclip OFF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOCLIPON": {
+  "en": "noclip ON",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOSPECTATORCALLVOTE": {
+  "en": "Not allowed to call a vote as spectator.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOSPECTATORVOTE": {
+  "en": "Not allowed to vote as spectator.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOTARGETOFF": {
+  "en": "notarget OFF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOTARGETON": {
+  "en": "notarget ON",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_NOVOTEINPROGRESS": {
+  "en": "No vote in progress.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_OBJECTIVECOMPLETED": {
+  "en": "Objective Completed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_OBJECTIVEFAILED": {
+  "en": "Objective Failed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_OBJECTIVESUPDATED": {
+  "en": "Objectives Updated.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_OPFOR": {
+  "en": "Opposition",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PICKUP_AMMO": {
+  "en": "Got &&1 ammo.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PICKUP_CANTCARRYMOREAMMO": {
+  "en": "&&1 ammo full.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PICKUP_CLIPONLY_AMMO": {
+  "en": "Got &&1 ammo",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PLAYER_IS_ALREADY_BEING_REVIVED": {
+  "en": "&&1 is already being revived",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PLAYER_IS_BEING_REVIVED": {
+  "en": "&&1 is being revived",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PLAYER_IS_REVIVING_YOU": {
+  "en": "&&1 is reviving you",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_PLAYER_NEEDS_TO_BE_REVIVED": {
+  "en": "&&1 needs to be revived",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_REVIVING": {
+  "en": "Reviving",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SAVE_DESCRIPTION": {
+  "en": "Call of Duty: World at War",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SAVE_INSUFFICIENT_FREE_DISK": {
+  "en": "Insufficient free disk space.\n\nPlease free at least 5mb of free space on game drive.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SAVE_UNABLE_TO_READ_FROM_DEVICE": {
+  "en": "Unable to read from memory device. Please check that the device is inserted correctly.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SERVER": {
+  "en": "Server",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SPAMPROTECT": {
+  "en": "Spam Protection",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_SPECTATOR": {
+  "en": "Spectator",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_STAND_BLOCKED": {
+  "en": "Can't Stand Here",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_TEAMMATE_DIED": {
+  "en": "&&1 has died.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_THANKS_FOR_PLAYING": {
+  "en": "Thanks for playing!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_TO_BE_CONTINUED": {
+  "en": "To be continued...",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_TYPEMAP_NOCHANGE": {
+  "en": "Vote would not change Game Type or Map.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_UFOOFF": {
+  "en": "ufomode OFF",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_UFOON": {
+  "en": "ufomode ON",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_UNKNOWNCLIENTCOMMAND": {
+  "en": "Unknown cmd &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_USAGE": {
+  "en": "usage",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_USERNOTONSERVER": {
+  "en": "User &&1 is not on the server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOICECHATIGNORED": {
+  "en": "VoiceChat ignored",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTEALREADYCAST": {
+  "en": "Vote already cast.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTEALREADYINPROGRESS": {
+  "en": "A vote is already in progress.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTECAST": {
+  "en": "Vote cast.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTECOMMANDSARE": {
+  "en": "Vote commands are:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTEFAILED": {
+  "en": "Vote failed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTEPASSED": {
+  "en": "Vote passed.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTE_GAMETYPE": {
+  "en": "Game Type: ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTE_KICK": {
+  "en": "Kick Player: &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTE_MAP": {
+  "en": "Map: ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTE_MAPRESTART": {
+  "en": "Map Restart",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTE_NEXTMAP": {
+  "en": "Next Map",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTINGNOTENABLED": {
+  "en": "Voting not enabled on this server.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_VOTINGNOTENOUGHPLAYERS": {
+  "en": "Not enough players to start a vote",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_WARNING": {
+  "en": "WARNING",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "GAME_YOU_DIED": {
+  "en": "You have died.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_ALT": {
+  "en": "Alt",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX1": {
+  "en": "Auxiliary 1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX10": {
+  "en": "Auxiliary 10",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX11": {
+  "en": "Auxiliary 11",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX12": {
+  "en": "Auxiliary 12",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX13": {
+  "en": "Auxiliary 13",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX14": {
+  "en": "Auxiliary 14",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX15": {
+  "en": "Auxiliary 15",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX16": {
+  "en": "Auxiliary 16",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX2": {
+  "en": "Auxiliary 2",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX3": {
+  "en": "Auxiliary 3",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX4": {
+  "en": "Auxiliary 4",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX5": {
+  "en": "Auxiliary 5",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX6": {
+  "en": "Auxiliary 6",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX7": {
+  "en": "Auxiliary 7",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX8": {
+  "en": "Auxiliary 8",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_AUX9": {
+  "en": "Auxiliary 9",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_BACKSPACE": {
+  "en": "Backspace",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_CAPSLOCK": {
+  "en": "Caps Lock",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_COMMAND": {
+  "en": "Command",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_CTRL": {
+  "en": "Ctrl",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_DEL": {
+  "en": "Del",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_DOWNARROW": {
+  "en": "Down Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_END": {
+  "en": "End",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_ENTER": {
+  "en": "Enter",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_ESCAPE": {
+  "en": "Escape",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F1": {
+  "en": "F1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F10": {
+  "en": "F10",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F11": {
+  "en": "F11",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F12": {
+  "en": "F12",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F2": {
+  "en": "F2",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F3": {
+  "en": "F3",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F4": {
+  "en": "F4",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F5": {
+  "en": "F5",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F6": {
+  "en": "F6",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F7": {
+  "en": "F7",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F8": {
+  "en": "F8",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_F9": {
+  "en": "F9",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_HOME": {
+  "en": "Home",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_INS": {
+  "en": "Ins",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY1": {
+  "en": "Joystick 1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY10": {
+  "en": "Joystick 10",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY11": {
+  "en": "Joystick 11",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY12": {
+  "en": "Joystick 12",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY13": {
+  "en": "Joystick 13",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY14": {
+  "en": "Joystick 14",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY15": {
+  "en": "Joystick 15",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY16": {
+  "en": "Joystick 16",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY17": {
+  "en": "Joystick 17",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY18": {
+  "en": "Joystick 18",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY19": {
+  "en": "Joystick 19",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY2": {
+  "en": "Joystick 2",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY20": {
+  "en": "Joystick 20",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY21": {
+  "en": "Joystick 21",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY22": {
+  "en": "Joystick 22",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY23": {
+  "en": "Joystick 23",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY24": {
+  "en": "Joystick 24",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY25": {
+  "en": "Joystick 25",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY26": {
+  "en": "Joystick 26",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY27": {
+  "en": "Joystick 27",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY28": {
+  "en": "Joystick 28",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY29": {
+  "en": "Joystick 29",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY3": {
+  "en": "Joystick 3",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY30": {
+  "en": "Joystick 30",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY31": {
+  "en": "Joystick 31",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY32": {
+  "en": "Joystick 32",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY4": {
+  "en": "Joystick 4",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY5": {
+  "en": "Joystick 5",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY6": {
+  "en": "Joystick 6",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY7": {
+  "en": "Joystick 7",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY8": {
+  "en": "Joystick 8",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_JOY9": {
+  "en": "Joystick 9",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_5": {
+  "en": "KP 5",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_DEL": {
+  "en": "KP Del",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_DOWNARROW": {
+  "en": "KP Down Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_END": {
+  "en": "KP End",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_ENTER": {
+  "en": "KP Enter",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_EQUALS": {
+  "en": "KP Equals",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_HOME": {
+  "en": "KP Home",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_INS": {
+  "en": "KP Ins",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_LEFTARROW": {
+  "en": "KP Left Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_MINUS": {
+  "en": "KP Minus",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_NUMLOCK": {
+  "en": "Num Lock",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_PGDN": {
+  "en": "KP Page Down",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_PGUP": {
+  "en": "KP Page Up",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_PLUS": {
+  "en": "KP Plus",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_RIGHTARROW": {
+  "en": "KP Right Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_SLASH": {
+  "en": "KP Slash",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_STAR": {
+  "en": "KP Star",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_KP_UPARROW": {
+  "en": "KP Up Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_LEFTARROW": {
+  "en": "Left Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MOUSE1": {
+  "en": "Left Mouse",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MOUSE2": {
+  "en": "Right Mouse",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MOUSE3": {
+  "en": "Middle Mouse",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MOUSE4": {
+  "en": "Mouse 4",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MOUSE5": {
+  "en": "Mouse 5",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MWHEELDOWN": {
+  "en": "Wheel Down",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_MWHEELUP": {
+  "en": "Wheel Up",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_OR": {
+  "en": "or",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_PAUSE": {
+  "en": "Pause",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_PGDN": {
+  "en": "Page Down",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_PGUP": {
+  "en": "Page Up",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_RIGHTARROW": {
+  "en": "Right Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_SEMICOLON": {
+  "en": "Semicolon",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_SHIFT": {
+  "en": "Shift",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_SPACE": {
+  "en": "Space",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_TAB": {
+  "en": "Tab",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_UNBOUND": {
+  "en": "Unbound",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_UPARROW": {
+  "en": "Up Arrow",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "KEY_USE": {
+  "en": "use",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "MENU_1000_POINTS": {
+  "en": "1000 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_100_INITIAL_GEO": {
+  "en": "100% initial geo",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_100_POINTS": {
+  "en": "100 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_100_POINTS_DEFAULT": {
+  "en": "100 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1024768": {
+  "en": "1024*768",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_10_MINUTES": {
+  "en": "10 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_10_POINTS": {
+  "en": "10 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_10_POINTS_DEFAULT": {
+  "en": "10 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_10_ROUNDS": {
+  "en": "10 Rounds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_10_SCRIPTED": {
+  "en": "10% scripted",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1152864": {
+  "en": "1152*864",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_11KHZ": {
+  "en": "11KHZ (Low)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_11KHZ__": {
+  "en": "11khz (Low Quality, Least Memory)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_12801024": {
+  "en": "1280*1024",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_15_MINUTES": {
+  "en": "15 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_15_MINUTES_DEFAULT": {
+  "en": "15 Minutes (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_15_POINTS": {
+  "en": "15 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_15_ROUNDS": {
+  "en": "15 Rounds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_16001200": {
+  "en": "1600*1200",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_16BIT": {
+  "en": "16 bit",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1941": {
+  "en": "1941",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1942": {
+  "en": "1942",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1943": {
+  "en": "1943",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1944": {
+  "en": "1944",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1945": {
+  "en": "1945",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1ST_PASS": {
+  "en": "1st pass",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1_BOMB_IN_THE_CENTER": {
+  "en": "1 bomb in the center of the map. Grab it and destroy the enemy objective.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_1_HOUR": {
+  "en": "1 Hour",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_200_POINTS": {
+  "en": "200 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_20481536": {
+  "en": "2048*1536",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_20_POINTS": {
+  "en": "20 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_20_ROUNDS": {
+  "en": "20 Rounds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_22KHZ": {
+  "en": "22KHZ (Medium)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_22KHZ__": {
+  "en": "22khz (Normal Quality, Medium Memory)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_25_POINTS": {
+  "en": "25 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_25_POINTS_DEFAULT": {
+  "en": "25 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_25_SCRIPTED": {
+  "en": "25% scripted",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_288K": {
+  "en": "<=28.8k",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_2X": {
+  "en": "2x",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_2_MINUTES": {
+  "en": "2 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_30": {
+  "en": "30%",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_300_POINTS": {
+  "en": "300 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_300_POINTS_DEFAULT": {
+  "en": "300 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_30_MINUTES": {
+  "en": "30 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_30_MINUTES_DEFAULT": {
+  "en": "30 Minutes (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_30_POINTS": {
+  "en": "30 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_32BIT": {
+  "en": "32 bit",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_336K": {
+  "en": "33.6k",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_35_INITIAL_GEO": {
+  "en": "35% initial geo",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_3_MINUTES": {
+  "en": "3 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_400_POINTS": {
+  "en": "400 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_400_POINTS_DEFAULT": {
+  "en": "400 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_40_INITIAL_GEO": {
+  "en": "40% initial geo",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_44KHZ": {
+  "en": "44KHZ (High)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_44KHZ__": {
+  "en": "44khz (High Quality, Most Memory)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_450_POINTS": {
+  "en": "450 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_450_POINTS_DEFAULT": {
+  "en": "450 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_45_MINUTES": {
+  "en": "45 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_4X": {
+  "en": "4x",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_4_MINUTES": {
+  "en": "4 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_4_MINUTES_DEFAULT": {
+  "en": "4 Minutes (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_50_POINTS": {
+  "en": "50 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_50_POINTS_DEFAULT": {
+  "en": "50 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_56K": {
+  "en": "56k",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_5_MINUTES": {
+  "en": "5 Minutes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_5_POINTS": {
+  "en": "5 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_5_POINTS_DEFAULT": {
+  "en": "5 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_5_ROUNDS": {
+  "en": "5 Rounds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_5_SCRIPTED": {
+  "en": "5% scripted",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_600_POINTS": {
+  "en": "600 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_600_POINTS_DEFAULT": {
+  "en": "600 Points (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_640480": {
+  "en": "640*480",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_800600": {
+  "en": "800*600",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_800_POINTS": {
+  "en": "800 Points",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ABBREVIATED_TEAM_INDICATOR": {
+  "en": "Abbreviated",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AC130": {
+  "en": "AC130",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPT": {
+  "en": "Accept",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPTINVITE": {
+  "en": "Leave Party",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPTINVITETITLE": {
+  "en": "Leave Party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPTINVITETITLE_PARTY": {
+  "en": "Leave Party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPTINVITE_PARTY": {
+  "en": "Leave Party",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPT_ALL": {
+  "en": "Accept all",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCEPT_INVITE": {
+  "en": "Accept Game Invite",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCOUNT_NOT_AVAILABLE": {
+  "en": "Account could not be created. The name you have entered is not available.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCURACY": {
+  "en": "Accuracy",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCURACY1": {
+  "en": "Accuracy",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCURACY_FRIENDS_CAP": {
+  "en": "Accuracy :: Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACCURACY_GLOBAL_CAP": {
+  "en": "Accuracy :: Global",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACTIONSLOT1": {
+  "en": "TBD",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACTION_INVENTORY": {
+  "en": "Rifle Grenade/Inventory",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACT_I": {
+  "en": "Act I",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACT_II": {
+  "en": "Act II",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ACT_III": {
+  "en": "Act III",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ADD_SELECTED_SERVER_TO_FAVORITES": {
+  "en": "Add selected server to favorites?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ADD_TO_FAVORITES": {
+  "en": "Add To Favorites",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AFTERMATH": {
+  "en": "Aftermath",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AGGRESSIVE": {
+  "en": "Aggressive",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AIM_ASSIST": {
+  "en": "Aim Assist",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AIM_DOWN_SIGHT": {
+  "en": "Aim Down Sight",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AIM_DOWN_THE_SIGHT": {
+  "en": "Aim Down Sight (ADS)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AIM_DOWN_THE_SIGHT_AUTOAIM": {
+  "en": "Autoaim when Aiming Down the Sight",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALL": {
+  "en": "All",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_DOWNLOAD": {
+  "en": "Allow Downloading",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_ENEMY_SPECTATING": {
+  "en": "Allow Enemy Spectating:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_FG42S": {
+  "en": "Allow FG42s:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_FREE_SPECTATING": {
+  "en": "Allow Free Spectating:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_PANZERFAUSTS": {
+  "en": "Allow Panzerfausts:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_SNIPER_RIFLES": {
+  "en": "Allow Sniper Rifles:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALLOW_VOTING": {
+  "en": "Allow Voting:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ALL_CURRENT_PROGRESS_WILL_BE_LOST": {
+  "en": "All current progress will be lost.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AMERICANS": {
+  "en": "Americans",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AND_RETURN_TO_SOLO_COOP_MENU": {
+  "en": "and return to the Solo/Co-op",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AND_RETURN_TO_THE_MAIN_MENU": {
+  "en": "and return to the Main Menu.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ANISOTROPIC": {
+  "en": "Anisotropic",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ANTIALIASING": {
+  "en": "Anti-aliasing",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPEARANCE": {
+  "en": "Appearance",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPLY": {
+  "en": "Apply",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPLYING_CHANGES": {
+  "en": "Applying Changes...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPLY_LANGUAGE_CHANGE": {
+  "en": "Apply Language Change",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPLY_LANGUAGE_SETTINGS": {
+  "en": "Apply Language Settings?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_APPLY_SETTINGS": {
+  "en": "Apply Settings?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADEMODE": {
+  "en": "Arcade Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_FULL": {
+  "en": "Full Challenge",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_FULL_DESC": {
+  "en": "Earn points by quickly playing through the\ngame in order. Best score: &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_LBSCORE": {
+  "en": "Score",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_MODE": {
+  "en": "Arcade Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_MODE_DESC": {
+  "en": "Compete with other co-op players for the high score as you fight your way through the campaign missions.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_SCORE": {
+  "en": "Best Arcade Score: &&1",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_SINGLE": {
+  "en": "Level Challenge",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_SINGLE_DESC": {
+  "en": "Try to earn the highest score\nin a level of your choice.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARCADE_UNLOCK_DESC": {
+  "en": "Complete the game to unlock Arcade Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARE_TOO_LOW_TO_SUPPORT_VOICE_CHAT": {
+  "en": "are too low to support voice chat.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARE_YOU_SURE": {
+  "en": "Are you sure?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARE_YOU_SURE_QUIT": {
+  "en": "Any unsaved progress will be lost. Are you sure you want to quit? ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ARSENAL": {
+  "en": "Arsenal",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ASPECT_RATIO": {
+  "en": "Aspect Ratio",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ATTACK": {
+  "en": "Attack",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTHORISING_ACCOUNT": {
+  "en": "Authorizing account",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTO": {
+  "en": "Auto",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTOAIM": {
+  "en": "Auto-aim",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTOASSIGN": {
+  "en": "Auto-Assign",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTOBALANCE_TEAMS": {
+  "en": "Auto-Balance Teams:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTOMATIC": {
+  "en": "Automatic",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AUTO_UPDATE": {
+  "en": "Auto-Update",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_AXIS_VS_ALLIES_ELIMINATE_THE_ENEMY_TEAM": {
+  "en": "Axis vs. Allies.  Eliminate the enemy team.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_A_GAME_TYPE_WILL_BE_SELECTED_AT_RANDOM": {
+  "en": "A game type will be selected at random.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_A_PROFILE_WITH_THE_SAME_NAME_ALREADY_EXISTS": {
+  "en": "A gamer profile with the same name already exists",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BACK": {
+  "en": "Back",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BACKPEDAL": {
+  "en": "Backpedal",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BACKTOGAME": {
+  "en": "Back To Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BELTOT_FRANCE": {
+  "en": "Beltot, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BELTOT_FRANCE_MP": {
+  "en": "Beltot, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BILINEAR": {
+  "en": "Bilinear",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BIND_KEY_PENDING": {
+  "en": "???",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BINOCULARS": {
+  "en": "Binoculars",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BOG": {
+  "en": "Bog",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BOTH": {
+  "en": "Both",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRECOURT_FRANCE": {
+  "en": "Brecourt, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRECOURT_FRANCE_MP": {
+  "en": "Brecourt, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS": {
+  "en": "Brightness",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS1": {
+  "en": "Brightness...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_BARELY_VISIBLE": {
+  "en": "Barely Visible",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_CAP": {
+  "en": "Brightness",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_DESC1": {
+  "en": "Move the slider to adjust the brightness of your screen.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_DESC2": {
+  "en": "Only the text in the two lower boxes should be visible.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_EASILY_VISIBLE": {
+  "en": "Easily Visible",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIGHTNESS_NOT_VISIBLE": {
+  "en": "Not Visible",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRITISH": {
+  "en": "British",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIT_NAME": {
+  "en": "Sergeant John Davis",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BRIT_NAME_2": {
+  "en": "Commander David Welsh, \"Fox Three\"",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BUNKER": {
+  "en": "Bunker",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BUNKER_DEFENCE": {
+  "en": "Bunker Defense",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BUNKER_DEFENCE_MODE_DESC": {
+  "en": "Fight for the survival of your team against the horde of undead Nazis.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BURGUNDY_FRANCE": {
+  "en": "Burgundy, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BURGUNDY_FRANCE_MP": {
+  "en": "Burgundy, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BUTTON_LAYOUT": {
+  "en": "Button Layout",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_BUTTON_LAYOUT_CAP": {
+  "en": "Button Layout",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAEN_FRANCE": {
+  "en": "Caen, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAEN_FRANCE_MP": {
+  "en": "Caen, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAMPAIGN": {
+  "en": "Cooperative Campaign",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAMPAIGN_FRIENDS_CAP": {
+  "en": "Competitive Co-Op :: Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAMPAIGN_GLOBAL_CAP": {
+  "en": "Competitive Co-Op :: Global",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAMPAIGN_MODE_DESC": {
+  "en": "Work together as a team to fight your way through the campaign missions.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CANCEL": {
+  "en": "Cancel",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CANT_CHANGE_SETTINGS_WHILE_DEAD": {
+  "en": "Can't change settings while dead",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CANT_SWITCH_PROFILES_INGAME": {
+  "en": "Cannot switch gamer profiles while in game.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAN_NOT_CHANGE_SETTINGS": {
+  "en": "Can not change settings",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_AND_HOLD_THE": {
+  "en": "Capture and hold the designated positions to gain points.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_LIMIT": {
+  "en": "Capture Limit:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_THE_ENEMY_BASE": {
+  "en": "Capture battlefield command points.  Secure and hold all positions to achieve victory.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_THE_ENEMY_BASE_VEHICLES": {
+  "en": "Capture battlefield command points using tanks and other combat vehicles.  Secure and hold all positions to achieve victory.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_THE_FLAG": {
+  "en": "Capture the Flag",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CAPTURE_THE_HEADQUARTERS": {
+  "en": "Capture the headquarters and defend it from the enemy.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CARENTAN_FRANCE": {
+  "en": "Carentan, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CARENTAN_FRANCE_MP": {
+  "en": "Carentan, France",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CARGOSHIP": {
+  "en": "Cargoship",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CARRIER_INDICATOR": {
+  "en": "Carrier Indicator:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CDKEY": {
+  "en": "CD KEY",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CENTER_VIEW": {
+  "en": "Center View",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHALLENGES": {
+  "en": "Challenges",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHALLENGES_CAP": {
+  "en": "CHALLENGES",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHANGE_DIFFICULTY": {
+  "en": "Change Difficulty",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHANGE_GAME_TYPE": {
+  "en": "Change Game Type",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHANGE_GRENADE_TYPE": {
+  "en": "Change Grenade Type",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHANGE_RATE_OF_FIRE": {
+  "en": "Change Rate of Fire",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHANGE_WEAPON": {
+  "en": "Change Weapon",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHARACTER_TEXTURES": {
+  "en": "Character Textures",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHAT": {
+  "en": "Chat",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHAT_ICON_TIME": {
+  "en": "Chat Icon Time:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS": {
+  "en": "Cheats",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC1": {
+  "en": "For that arthouse feel.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC2": {
+  "en": "Reprints not available.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC3": {
+  "en": "Try combos of this and the other two color cheats for different effects.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC4": {
+  "en": "Activates secret protocol CHAPLIN OMEGA.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC5": {
+  "en": "Throw a frag grenade and enjoy the show.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC6": {
+  "en": "Shoot some enemies, see what happens.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC7": {
+  "en": "Melee to turn on/off.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_DESC8": {
+  "en": "No reloading, no worries.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_HOWTO": {
+  "en": "To unlock cheats, you must complete the game at least once in any difficulty.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_LOWCASE": {
+  "en": "Cheats",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME1": {
+  "en": "CoD Noir",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME2": {
+  "en": "Photo-Negative",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME3": {
+  "en": "Super Contrast",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME4": {
+  "en": "Ragtime Warfare",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME5": {
+  "en": "Cluster Bombs",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME6": {
+  "en": "A Bad Year",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME7": {
+  "en": "Slow-Mo Ability",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_NAME8": {
+  "en": "Infinite Ammo",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK1": {
+  "en": "Find 2 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK2": {
+  "en": "Find 4 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK3": {
+  "en": "Find 6 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK4": {
+  "en": "Find 8 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK5": {
+  "en": "Find 10 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK6": {
+  "en": "Find 15 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK7": {
+  "en": "Find 20 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_UNLOCK8": {
+  "en": "Find 30 pieces of enemy intel to unlock.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEATS_WARNING": {
+  "en": "You can't earn achievements while cheats are enabled.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEAT_DESC": {
+  "en": "Cheat Description:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEAT_ENABLED": {
+  "en": "Cheat Enabled",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEAT_POINTS": {
+  "en": "You have collected &&1 piece(s) of enemy intel.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEAT_POINTS_LEVEL": {
+  "en": "You have found &&1 of &&2 enemy intel items in this mission.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHEAT_UNLOCKED": {
+  "en": "Co-op Cheat Unlocked:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHECHNYA_ESCAPE": {
+  "en": "Chechnya Escape",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHECKPOINT_RESTART_TEXT": {
+  "en": "If you restart now, you will lose any progress that you have made since your last saved checkpoint.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHECK_HOW_YOUR_SCORE": {
+  "en": "Check how your score stacks up against your friends and the world.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHINESE": {
+  "en": "Chinese",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHOOSESKILLLEVEL": {
+  "en": "Choose Your Skill Level",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CHOOSE_MAP_CAP": {
+  "en": "CHOOSE MAP",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CINEMATICS_VOLUME": {
+  "en": "Cinematics Volume",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLAN_TAG@code_post_gfx": {
+  "en": "Clan tag",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "MENU_CLAN_TAG@localized_code_post_gfx_mp": {
+  "en": "Clan Tag",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MENU_CLAN_TAG@ui": {
+  "en": "Clan tag",
+  "zones": [
+   "ui"
+  ]
+ },
+ "MENU_CLASSIC": {
+  "en": "Classic",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLASSIC_SPRINTING": {
+  "en": "Classic",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLICK_FOR_AUTOUPDATE": {
+  "en": "Click for Auto-Update",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLICK_ON_START_MATCH": {
+  "en": "Click on 'Start Match' to begin the mission",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLICK_TO_CONTINUE": {
+  "en": "Click to Continue",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLICK_TO_START_THE_MISSION": {
+  "en": "Click to Start the Mission",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLIENT_QUIT_WARNING_DESC": {
+  "en": "Are you sure you want to leave this game?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLOSE": {
+  "en": "Closed",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLOSE1": {
+  "en": "Close",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CLOSE_DESC": {
+  "en": "No one may join your party. ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COLOR_DEPTH": {
+  "en": "Color Depth",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMBAT": {
+  "en": "Combat...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMBAT_CAP": {
+  "en": "COMBAT",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPETITIVE_CAMPAIGN": {
+  "en": "Competitive Campaign",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPETITIVE_COOP": {
+  "en": "Competitive Co-Op",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED": {
+  "en": "Completed",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_CHEAT": {
+  "en": "Cheat Unlocked",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_EASY": {
+  "en": "Completed Easy",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_GREENHORN": {
+  "en": "Completed Greenhorn",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_HARDENED": {
+  "en": "Completed Hardened",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_REGULAR": {
+  "en": "Completed Regular",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_SKILLED": {
+  "en": "Completed Skilled",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COMPLETED_VETERAN": {
+  "en": "Completed Veteran",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONGRATULATIONS": {
+  "en": "Congratulations",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONNECTING_DW": {
+  "en": "Connecting to Online Service",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONNECTING_TO_LOBBY": {
+  "en": "Connecting to Game Lobby",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONNECTION": {
+  "en": "Connection",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONNECTION_COLON": {
+  "en": "Connection:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONNECTION_TYPE": {
+  "en": "Connection Type:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTENT_WARNING": {
+  "en": "Call of Duty: World at War contains graphic content and historical footage which some players may find disturbing. Player discretion is advised.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE": {
+  "en": "Continue",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUEGAME_NOSAVE": {
+  "en": "Continue without saving",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE_MISSION": {
+  "en": "Continue Mission",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE_QUIT": {
+  "en": "Quit Game?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE_RESTART": {
+  "en": "Continue restart?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE_RESTART_CHECKPOINT": {
+  "en": "Restart From Last Checkpoint?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTINUE_SAVING": {
+  "en": "Continue saving?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROLLER_DISCONNECTED": {
+  "en": "Please reconnect your controller.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROLLER_VIBRATION": {
+  "en": "Vibration",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROLS": {
+  "en": "Controls",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROLS_CAP": {
+  "en": "CONTROLS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROLS_OPTIONS": {
+  "en": "Controls/Options",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CONTROL_DEFAULTS": {
+  "en": "Control Defaults",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOPERATIVE": {
+  "en": "COOPERATIVE",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOPERATIVE_CONTROLS": {
+  "en": "Cooperative Controls...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOPERATIVE_CONTROLS_CAP": {
+  "en": "COOPERATIVE CONTROLS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOPERATIVE_OPTIONS": {
+  "en": "Cooperative Options...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOPERATIVE_OPTIONS_CAP": {
+  "en": "COOPERATIVE OPTIONS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOP_CAMPAIGN": {
+  "en": "Cooperative Campaign",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOP_CAMPAIGN_CAP": {
+  "en": "COOPERATIVE CAMPAIGN",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOP_CONTROLS": {
+  "en": "Cooperative Controls...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_COOP_SERVER_SETUP": {
+  "en": "GAME SETUP",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CQB_TEST": {
+  "en": "CQB Test",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATEAMODE": {
+  "en": "Create-a-Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_GAME": {
+  "en": "Create Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_ONLINE_PLAYER_PROFILE": {
+  "en": "Create Online Profile",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_PARTY": {
+  "en": "Create Party",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_PLAYER_PROFILE": {
+  "en": "Create Gamer Profile",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_SERVER": {
+  "en": "Create Server",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATE_SQUAD": {
+  "en": "Create Squad",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREATING_PROFILE": {
+  "en": "Creating Profile",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CREDITS": {
+  "en": "CREDITS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CROSSHAIR": {
+  "en": "Crosshair",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CROSSHAIR_COLOR": {
+  "en": "Crosshair Color",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CROUCH": {
+  "en": "Crouch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CROUCH_PRONE": {
+  "en": "Crouch/Prone",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CROUCH_SPRINTING": {
+  "en": "Crouch Sprinting",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CTF_DESC": {
+  "en": "Get the enemy flag while defending your flag.  Touching your flag while holding the enemy flag is a capture.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CURRENTLYINAGAME": {
+  "en": "You are currently in a game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM": {
+  "en": "Custom",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOMCLASS_KEYBOARD": {
+  "en": "Name Your custom class",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOMMODE_KEYBOARD": {
+  "en": "Name your custom game mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM_CLASS_RESET_WARNING": {
+  "en": "This will override your current settings for this class. Would you like proceed?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM_MATCH": {
+  "en": "Create Match",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM_MATCH_RANKED": {
+  "en": "Custom Match: Ranked",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM_MATCH_STANDARD": {
+  "en": "Custom Match: Standard",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CUSTOM_N": {
+  "en": "Custom (&&1)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_CYCLE_ITEMS": {
+  "en": "Cycle Items:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DAMAGE": {
+  "en": "Damage",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DASHBOARD": {
+  "en": "Quit to Xbox Dashboard?",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MENU_DATE": {
+  "en": "Date",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEATHCARDS": {
+  "en": "DEATH CARDS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEATHMATCH": {
+  "en": "Deathmatch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEATHS": {
+  "en": "Deaths",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DECLINE": {
+  "en": "Decline",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DECLINE_ALL": {
+  "en": "Decline all",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEDICATED": {
+  "en": "Dedicated:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEDICATEDONLY": {
+  "en": "Dedicated Only:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEFAULT": {
+  "en": "Default",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEFAULT_ALT": {
+  "en": "Default Flipped",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DELETE": {
+  "en": "Delete",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DELETEFRIEND": {
+  "en": "Delete Friend",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DELETE_PROFILE": {
+  "en": "Delete selected gamer profile?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DELETING_PROFILE": {
+  "en": "Deleting Profile",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEL_FAVORITE": {
+  "en": "Del. Favorite",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEL_SEL_FAVORITE": {
+  "en": "Delete selected favorite from list?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEL_SEL_SAVEGAME": {
+  "en": "Delete selected save game?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DESCRIPTION_CUSTOMMATCH": {
+  "en": "Find a session with the game settings you specify.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DESCRIPTION_PLAYERMATCH": {
+  "en": "Play for fun with people who share similar gamer profiles.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DESCRIPTION_QUICKMATCH": {
+  "en": "Get into a game quickly. Game settings are chosen randomly.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DESCRIPTION_RANKEDMATCH": {
+  "en": "Play competitive matches to improve your TrueSkill rankings.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DEV": {
+  "en": "Dev. only",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY": {
+  "en": "Difficulty:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_EASY": {
+  "en": "Difficulty: Easy",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_HARDENED": {
+  "en": "Difficulty: Hardened",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_REGULAR": {
+  "en": "Difficulty: Regular",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_SKILLED": {
+  "en": "Difficulty: Skilled",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_VETERAN": {
+  "en": "Difficulty: Veteran",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIFFICULTY_WARNING": {
+  "en": "The difficulty you have selected is not recommended. Do you wish to continue?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIRECTX_7": {
+  "en": "DirectX® 7",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIRECTX_9": {
+  "en": "DirectX® 9",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DISABLED": {
+  "en": "Disabled",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DISABLED_DEFAULT": {
+  "en": "Disabled (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DISCONNECT": {
+  "en": "Disconnect",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DIVER": {
+  "en": "Diver",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DOWNLOADING": {
+  "en": "Downloading...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DOWNLOADING_ACCOUNT_DATA": {
+  "en": "Downloading account data",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DOWNLOADING_GAME_SETTINGS": {
+  "en": "DOWNLOADING GAME SETTINGS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DOWNLOAD_AUTOUPDATE_PATCH": {
+  "en": "Download Auto-Update Patch?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DOYOUWISHTOCONTINUE": {
+  "en": "Do you wish to continue?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DRAW_CROSSHAIR": {
+  "en": "Draw Crosshair",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DRAW_HUD": {
+  "en": "Draw HUD",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DRIVERINFO": {
+  "en": "Driver Info",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DW_ERROR_CANNOTCONNECT": {
+  "en": "Can not connect to Online Service.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DW_ERROR_TITLE": {
+  "en": "Online Service Error",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_DYNAMIC_LIGHTS": {
+  "en": "Dynamic Lights",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EASY": {
+  "en": "Easy",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EFFECTS_VOLUME": {
+  "en": "Effects Volume",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EJECTING_BRASS": {
+  "en": "Ejecting Brass",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EL_ALAMEIN_EGYPT": {
+  "en": "El Alamein, Egypt",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EL_ALAMEIN_EGYPT_MP": {
+  "en": "El Alamein, Egypt",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENABLED": {
+  "en": "Enabled",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENABLED_DEFAULT": {
+  "en": "Enabled (Default)",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENABLE_CONSOLE": {
+  "en": "Enable Console",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENABLE_CROSSHAIR": {
+  "en": "Enable Crosshair",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_END_GAME": {
+  "en": "End Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENGLISH": {
+  "en": "English",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENTER CD-KEY": {
+  "en": "Enter CD-Key",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENTER_KEY_CODE": {
+  "en": "Enter Key Code",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENTER_YOUR_ENCRYPTION_KEY_IN_THE_FIELD_BELOW": {
+  "en": "Enter your encryption key in the field below.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ENTER_YOUR_KEY_CODE_IN_THE_FIELD_BELOW": {
+  "en": "Enter your key code in the field below.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EPD_TEXT@code_post_gfx": {
+  "en": "Welcome! You have been selected to participate in this online beta test as an early sneak peek at the game that is currently in development. Enjoy, have fun, and keep the online play clean. Visit www.callofduty.com for the latest news and updates regarding \"Call of Duty: World at War\". Thanks!\n\n- Treyarch Dev Team",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "MENU_EPD_TEXT@localized_code_post_gfx_mp": {
+  "en": "This Call of Duty: World at War demo showcases the campaign mission \"Hard Landing\", which is available for single player and online cooperative play. Enjoy the demo, and we'll see you online!\n\n- Treyarch Development Team",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MENU_EPD_TEXT@ui": {
+  "en": "Welcome! You have been selected to participate in this online beta test as an early sneak peek at the game that is currently in development. Enjoy, have fun, and keep the online play clean. Visit www.callofduty.com for the latest news and updates regarding \"Call of Duty: World at War\". Thanks!\n\n- Treyarch Dev Team",
+  "zones": [
+   "ui"
+  ]
+ },
+ "MENU_EPD_TITLE@code_post_gfx": {
+  "en": "Call of Duty: World at War",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "MENU_EPD_TITLE@localized_code_post_gfx_mp": {
+  "en": "WELCOME!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MENU_EPD_TITLE@ui": {
+  "en": "Call of Duty: World at War",
+  "zones": [
+   "ui"
+  ]
+ },
+ "MENU_EPILOGUE": {
+  "en": "Epilogue",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EQUIPMENT": {
+  "en": "Equipment",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ERROR": {
+  "en": "Error",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ERROR_CREATING_PROFILE": {
+  "en": "Profile could not be created.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ERROR_DELETING_PROFILE": {
+  "en": "Profile could not be deleted.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EVERYTHING": {
+  "en": "Everything",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXIT": {
+  "en": "Exit",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXPERIENCE": {
+  "en": "Experience",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXPERIMENTAL": {
+  "en": "Experimental",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXPIRED_INVITE": {
+  "en": "Friend is not online.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXTRA": {
+  "en": "Extra",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXTRAS": {
+  "en": "Extras",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_EXTRA_LOW": {
+  "en": "Extra Low",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FAST": {
+  "en": "Fast",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FASTEST": {
+  "en": "Fastest",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FILTER_SERVERS": {
+  "en": "Filter Servers",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FILTER_SERVERS_CAP": {
+  "en": "FILTER SERVERS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_FRIEND": {
+  "en": "Find Friend",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_GAME": {
+  "en": "FIND GAME",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_RANKED_GAME": {
+  "en": "Find Ranked Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_RANKED_MATCH": {
+  "en": "Find Ranked Match",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_STANDARD_GAME": {
+  "en": "Find Standard Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIND_STANDARD_MATCH": {
+  "en": "Find Standard Match",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FINEST_HOUR": {
+  "en": "Finest Hour",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIRE_RATE": {
+  "en": "Fire Rate",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIRE_WEAPON": {
+  "en": "Fire Weapon",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FIVE_ONE_SPEAKERS": {
+  "en": "5.1 Speakers",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FORCE_DX7_MODE": {
+  "en": "Force DirectX® 7 Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FORCE_RESPAWNING": {
+  "en": "Force Respawning:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FORWARD": {
+  "en": "Forward",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FOUR_SPEAKERS": {
+  "en": "4 Speakers",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FREE_FOR_ALL": {
+  "en": "Free for All",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FREE_LOOK": {
+  "en": "Free Look",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRENCH": {
+  "en": "French",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIENDLY_FIRE": {
+  "en": "Friendly Fire:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIENDLY_INDICATORS": {
+  "en": "Friendly Indicators:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIENDS": {
+  "en": "Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIENDSLIMIT": {
+  "en": "You have exceeded the limit of 100 friends. You must remove some existing friends in order to add more.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIENDS_CAP": {
+  "en": "FRIENDS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FRIEND_NAME": {
+  "en": "Friend Name",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FULLSCREEN": {
+  "en": "Full Screen",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_FULL_TEAM_INDICATOR": {
+  "en": "Full Name",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_EXPERIENCE_MAY_CHANGE": {
+  "en": "Online Interactions Not Rated by the ESRB.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_EXPERIENCE_MAY_CHANGE_EU": {
+  "en": "Game experience may change during online play.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_INVITE": {
+  "en": "Game Invite",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_INVITES": {
+  "en": "Game Invites",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_INVITES_CAP": {
+  "en": "GAME INVITES",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_MODE_CAP": {
+  "en": "GAME MODE",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_OPTIONS": {
+  "en": "Game Options...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_OPTIONS_CAP": {
+  "en": "GAME OPTIONS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_RULES": {
+  "en": "Game Rules",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_RULES_CAP": {
+  "en": "GAME RULES",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_SETUP": {
+  "en": "GAME SETUP",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_TYPE": {
+  "en": "Game Mode:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_TYPE1": {
+  "en": "Game Mode",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_TYPES": {
+  "en": "Game Modes",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAME_TYPE_SETTINGS": {
+  "en": "Game Mode Settings",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GAS": {
+  "en": "Gas",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GENERAL_TEXTURES": {
+  "en": "General Textures",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GEOMETRIC_DETAIL": {
+  "en": "Geometric Detail",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GERMAN": {
+  "en": "German",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GET_NEW_LIST": {
+  "en": "Get New List",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GET_THE_ENEMY_FLAG_AND": {
+  "en": "Get the enemy flag and return it to yours to capture it.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GET_THE_VEHICLE_TO_SAFETY": {
+  "en": "A vehicle will spawn randomly on the map, once it spawns take the vehicle to the safe zone to gain points.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GOTO_NEXT": {
+  "en": ">>>",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GO_TO_CROUCH": {
+  "en": "Go to Crouch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GO_TO_PRONE": {
+  "en": "Go to Prone",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GO_TO_SINGLE_PLAYER_CALL_OF_DUTY": {
+  "en": "Go to single player Call of Duty?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GRACE_PERIOD": {
+  "en": "Grace Period (seconds):  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GRAPHICS": {
+  "en": "Graphics...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GRAPHICS_CAP": {
+  "en": "GRAPHICS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GRAPHICS_WARNING": {
+  "en": "We recommend using \"Optimal System Settings.\"  Manually changing settings could result in poor performance.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GREENHORN": {
+  "en": "Greenhorn",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_GROUND_SUPPORT": {
+  "en": "Ground Support",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HANDBREAK": {
+  "en": "Handbreak",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HARDCORE_PRE": {
+  "en": "Hardcore Mode:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HARDENED": {
+  "en": "Hardened",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HARDENED_DESC": {
+  "en": "Your skills will be strained.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HARDENED_DESC_2": {
+  "en": "to the breaking point.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HEADQUARTERS": {
+  "en": "Headquarters",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HIGH": {
+  "en": "High",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HIGHEST_DIFFICULTY": {
+  "en": "Highest Difficulty Completed :",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HIGHQUALITY": {
+  "en": "High Quality",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HITS": {
+  "en": "Hits",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOLD_BREATH": {
+  "en": "Hold Breath",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOLD_DOWN_CROUCH": {
+  "en": "Hold Down Crouch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOLD_DOWN_PRONE": {
+  "en": "Hold Down Prone",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_CHANGING_SETTINGS": {
+  "en": "Host is changing the game settings",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_LAN": {
+  "en": "Host LAN",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_LAN_CAP": {
+  "en": "HOST LAN",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_NAME": {
+  "en": "Host",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_ONLINE": {
+  "en": "Host Online",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_ONLINE_CAP": {
+  "en": "HOST ONLINE",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BERSERKER": {
+  "en": "Berserker",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BERSERKER_CARD": {
+  "en": "Three of Diamonds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BERSERKER_CHEAT_DESC": {
+  "en": "You have an animal rage. Get 3 kills in 5 seconds to unleash the Berserker.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BERSERKER_HINT": {
+  "en": "Temporary invulnerability enabled with 3 kills in 5 seconds.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BODY_ARMOR": {
+  "en": "Body Armor",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BODY_ARMOR_CARD": {
+  "en": "Jack of Spades",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BODY_ARMOR_CHEAT_DESC": {
+  "en": "Hone your accuracy. Enemies die by headshot only.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_BODY_ARMOR_HINT": {
+  "en": "Enemies die by headshot only.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DEAD_HANDS": {
+  "en": "Cold Dead Hands",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DEAD_HANDS_CARD": {
+  "en": "Five of Diamonds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DEAD_HANDS_CHEAT_DESC": {
+  "en": "Save your brass. Enemies take their weapons with them to the grave.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DEAD_HANDS_HINT": {
+  "en": "Enemies never drop weapons or ammo.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DIRTYHARRY": {
+  "en": "Suicide King",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DIRTYHARRY_CARD": {
+  "en": "King of Hearts",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DIRTYHARRY_CHEAT_DESC": {
+  "en": "Go down fighting. Fire explosive pistol rounds while downed.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_DIRTYHARRY_HINT": {
+  "en": "Fire explosive pistol rounds while downed.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_FLAK_JACKET": {
+  "en": "Flak Jacket",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_FLAK_JACKET_CARD": {
+  "en": "Nine of Diamonds",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_FLAK_JACKET_CHEAT_DESC": {
+  "en": "No more easy grenade kills. Enemies take less explosive damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_FLAK_JACKET_HINT": {
+  "en": "Enemies take less explosive damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARDCORE": {
+  "en": "Victory",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARDCORE_CARD": {
+  "en": "Two of Spades",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARDCORE_CHEAT_DESC": {
+  "en": "You've defeated the entire Nazi empire at the Reichstag. Now go back and do it again with the merciless nature of real war. Limit your HUD, turn on friendly fire, and bleed out in half the time.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARDCORE_HINT": {
+  "en": "Limited HUD, friendly fire enabled, and reduced bleed out time.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARD_HEADED": {
+  "en": "Hard Headed",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARD_HEADED_CARD": {
+  "en": "Four of Clubs",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARD_HEADED_CHEAT_DESC": {
+  "en": "Keep your finger on the trigger. Enemies take less bullet damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_HARD_HEADED_HINT": {
+  "en": "Enemies take less bullet damage.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_MEDUSA": {
+  "en": "Medusa",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_MORPHINE": {
+  "en": "Painkiller",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_MORPHINE_HINT": {
+  "en": "Shoot downed co-op teammates to revive them.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_MORPHINE_SHOT_CARD": {
+  "en": "Ten of Clubs",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_MORPHINE_SHOT_CHEAT_DESC": {
+  "en": "Make your weapon useful for a change. Shoot downed co-op teammates to revive them.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_PAINTBALL": {
+  "en": "Paintball",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_PAINTBALL_CARD": {
+  "en": "Six of Clubs",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_PAINTBALL_CHEAT_DESC": {
+  "en": "Can't handle the brutality of war? Try paintball guns.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_PAINTBALL_HINT": {
+  "en": "Bullet ammo is replaced with paintballs.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_STICKSSTONES": {
+  "en": "Sticks & Stones",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_STICKSSTONES_CARD": {
+  "en": "Joker",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_STICKSSTONES_CHEAT_DESC": {
+  "en": "Hope you've got a strong arm. Your weapon arsenal consists of a knife and a bunch of rocks.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_STICKSSTONES_HINT": {
+  "en": "Knives and unlimited dud grenades only.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_THUNDER": {
+  "en": "Thunder",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_THUNDER_CARD": {
+  "en": "Eight of Hearts",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_THUNDER_CHEAT_DESC": {
+  "en": "Steady hands pack a powerful punch. Headshots cause enemies to explode.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_THUNDER_HINT": {
+  "en": "Headshots cause enemies to explode.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_VAMPIRE": {
+  "en": "Vampire",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_VAMPIRE_CARD": {
+  "en": "Queen of Hearts",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_VAMPIRE_CHEAT_DESC": {
+  "en": "Steal life from your prey. Only recharge your health by getting kills.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_VAMPIRE_HINT": {
+  "en": "Constant health degeneration; recharge your health by getting kills.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_ZOMBIE": {
+  "en": "Undead Soldier",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_ZOMBIE_CARD": {
+  "en": "Ace of Spades",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_ZOMBIE_CHEAT_DESC": {
+  "en": "This is a different kind of war. Enemies are back from the dead with a vengeance.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_OPTION_ZOMBIE_HINT": {
+  "en": "Enemies regenerate health and appear zombified.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HOST_QUIT_WARNING_DESC": {
+  "en": "If you quit, you will end the game for all players. Are you sure you want to quit?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_HQ_DESC": {
+  "en": "Teams race to set up a radio and defend it for points.  If the enemy team sets up a radio, you must destroy it.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ICON_TEAM_INDICATOR": {
+  "en": "Icon Only",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INFANTRY": {
+  "en": "Infantry",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INGAME_DIFFICULTY_CHANGING": {
+  "en": "Changing difficulty will restart the current level.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INITIAL_GEO_IN_PROGRESS": {
+  "en": "Initial geo in progress",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INSANE": {
+  "en": "Insane",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INTEL": {
+  "en": "INTEL",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INTERACT": {
+  "en": "Interact...",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INTERACT_CAP": {
+  "en": "INTERACT",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INTERMISSION": {
+  "en": "Intermission",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INTERNET": {
+  "en": "Internet",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVALIDCHARS": {
+  "en": "Text is blank or contains illegal characters.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVALID_FRIEND_ID": {
+  "en": "Person with the entered ID does not exist.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVENTORY": {
+  "en": "Inventory",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVERT_MOUSE": {
+  "en": "Invert Mouse",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_ACCEPTED": {
+  "en": "Invitation to join a game was accepted.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_FRIEND": {
+  "en": "Invite Friend",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_FRIENDS": {
+  "en": "Invite Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_FRIEND_CAP": {
+  "en": "INVITE FRIEND",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_ONLY_DESC": {
+  "en": "Players must be invited to join your party.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_INVITE_SENT": {
+  "en": "Invitation to join a game was sent to friend.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_IN_PROGRESS": {
+  "en": "In Progress",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_IP_ADDRESS": {
+  "en": "IP Address: ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ISDN": {
+  "en": "ISDN",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_IS_STARTED": {
+  "en": "is started.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_ITALIAN": {
+  "en": "Italian",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JAPANESE": {
+  "en": "Japanese",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN": {
+  "en": "Join",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOININGLOBBY": {
+  "en": "Trying to join potential matches",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_AN_INTERNET_GAME": {
+  "en": "Join an Internet Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_A_GAME": {
+  "en": "Join a Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_A_LAN_GAME": {
+  "en": "Join a LAN Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_GAME": {
+  "en": "Join Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_GAME1": {
+  "en": "Join Game",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_SERVER": {
+  "en": "Join Server",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JOIN_SERVER_CAP": {
+  "en": "JOIN SERVER",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JUMP": {
+  "en": "Jump",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_JUMP_STANCE_UP": {
+  "en": "Jump/Stance Up",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KDRATIO": {
+  "en": "Kill/Death",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KEY": {
+  "en": "Key:",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KEY_CODE": {
+  "en": "Key Code",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KEY_CODE_WARNING": {
+  "en": "By changing your key-code, all your profiles will be lost, and stats will be reset to zero! Are you SURE you want to do this?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILLCAM": {
+  "en": "Killcam:  ",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILLS": {
+  "en": "Kills",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILLS_FRIENDS_CAP": {
+  "en": "Kills :: Friends",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILLS_GLOBAL_CAP": {
+  "en": "Kills :: Global",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILLS_PLAYERS_CAP": {
+  "en": "Kills :: Players",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILL_EVERYONE_FIRST_PLAYER": {
+  "en": "Kill everyone. First player to reach the score limit ends the game, the top 3 players win.",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILL_PLAYERS_AND_VEHICLES_ON_THE_OPPOSING": {
+  "en": "Kill players and vehicles on the opposing team. The first team to reach the score limit wins!",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KILL_PLAYERS_ON_THE_OPPOSING": {
+  "en": "Kill players on the opposing team. The first team to reach the score limit wins!",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_KOREAN": {
+  "en": "Korean",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LAN": {
+  "en": "LAN",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LANGUAGE": {
+  "en": "Language",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LANGUAGE_CHANGE_AND_RETURN": {
+  "en": "language change and return",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LAN_CABLE_XDSL": {
+  "en": "LAN/Cable/DSL",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LARGE": {
+  "en": "Large",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LAST_WEAPON_USED": {
+  "en": "Last Weapon Used",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LAUNCH": {
+  "en": "Launch",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEADERBOARDS_CAP": {
+  "en": "LEADERBOARDS",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEADERBOARD_TIME_TRIAL": {
+  "en": "Time Trial",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAN_LEFT": {
+  "en": "Lean Left",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAN_RIGHT": {
+  "en": "Lean Right",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAVEMPGAMEWARNING": {
+  "en": "If you accept this invite, you will quit your current game lobby.  Accept invitation?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAVEMPGAMEWARNINGPARTYHOST": {
+  "en": "If you join another session, you will disband your party.  Disband party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAVEMPGAMEWARNINGSQUADHOST": {
+  "en": "If you join another session, you will disband your party.  Disband party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAVEMPGAMEWARNINGSQUADLEADER": {
+  "en": "If you join another session, you will disband your party.  Disband party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ },
+ "MENU_LEAVEPARTYWARNING": {
+  "en": "If you join another session, you will leave your party.  Leave party?",
+  "zones": [
+   "code_post_gfx",
+   "localized_code_post_gfx_mp",
+   "ui"
+  ]
+ }
+}

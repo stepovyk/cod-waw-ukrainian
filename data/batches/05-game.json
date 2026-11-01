@@ -1,0 +1,3306 @@
+{
+ "SCRIPT_PLATFORM_HINT_USEARTILLERY": {
+  "en": "Press^3 [{+activate}] ^7to call in Artillery.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_USECINDERBLOCKWALL": {
+  "en": "Approach the cinder block wall and press your USE key^3 &&1 ^7to plant the explosives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_USERADIO": {
+  "en": "Press^3 &&1 ^7to use the radio.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW": {
+  "en": "To plant C4, approach the glowing objective marker and hold^3 [{+activate}] ^7.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE": {
+  "en": "Throw smoke^3 [{+smoke}] ^7to safely approach the enemy vehicle.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2": {
+  "en": "Press^3 [{+attack}] ^7to give attack coordinates.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_OFF_TANK": {
+  "en": "Press and hold [{+activate}] to get off tank",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_PBY_FLY_ADS_HINT": {
+  "en": "Press^3 [{+toggleads_throw}] ^7to use Reflector and Iron Sights.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_PEL1B_PLAYER_DISMOUNT": {
+  "en": "Press^3 [{+activate}] ^7to get off the tank",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_PIANO": {
+  "en": "Press^3 &&1]",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_SNIPER_HINT_CROUCH": {
+  "en": "Press^3 [{gocrouch}] ^7to crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_SPOOL_MINIGUN": {
+  "en": "Press and hold ^3[{+speed_throw}]^7 to spool up the minigun.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLUS": {
+  "en": "+",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLUS_AMOUNT": {
+  "en": "+%s",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLUS_DOLLAR": {
+  "en": "+$",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_RADIATION_DEATH": {
+  "en": "Avoid the radiation zones.\nListen for the clicks of the Geiger counter.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_SHOT_TEAMMATE": {
+  "en": "You shot a team mate!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_TAKELEFTFLANK": {
+  "en": "Take the left flank.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_TANKSHELL_DEATH": {
+  "en": "You were killed by a tank shell!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_TIME_REMAINING": {
+  "en": "TIME REMAINING:",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_TOTAL_SCORE": {
+  "en": "TOTAL SCORE:",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_USE_THE_PANZERFAUST_ANTITANK": {
+  "en": "Use the Panzerfaust anti-tank weapons behind the bunker to destroy the tanks.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_X2": {
+  "en": "x2",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_X3": {
+  "en": "x3",
+  "zones": [
+   "common"
+  ]
+ },
+ "SEE1_ACHIEVEMENT_UNLOCK": {
+  "en": "Achievement Unlocked",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_INTROSCREEN_DATE": {
+  "en": "April 18th, 1945",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_INTROSCREEN_INFO": {
+  "en": "3rd Shock Army",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_INTROSCREEN_NAME": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_INTROSCREEN_PLACE": {
+  "en": "Seelow Heights, Germany",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_INTROSCREEN_TITLE": {
+  "en": "'Their Land, Their Blood'",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_LATER": {
+  "en": "Train Station: Boarding for Berlin",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_MANTLE_TANK": {
+  "en": "Press and hold X button to climb enemy tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_MANTLE_TANK_PC": {
+  "en": "Press and hold F button to climb enemy tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE1": {
+  "en": "Advance to the River",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE10A": {
+  "en": "Destroy German Halftracks (2 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE10B": {
+  "en": "Destroy German Halftracks (1 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE10C": {
+  "en": "Destroy German Halftracks",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE11": {
+  "en": "Eliminate fleeing Germans",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE12": {
+  "en": "Get to the Train Station",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE1_B": {
+  "en": "Break through the German Defenses",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE1_C": {
+  "en": "Climb on and destroy the Tiger tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE2": {
+  "en": "Choose a Path to Advance, LEFT or RIGHT",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE3A": {
+  "en": "Eliminate All Enemy Tanks (4 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE3B": {
+  "en": "Eliminate All Enemy Tanks (3 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE3C": {
+  "en": "Eliminate All Enemy Tanks (2 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE3D": {
+  "en": "Eliminate All Enemy Tanks (1 remaining)",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE3E": {
+  "en": "Eliminate All Enemy Tanks",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE4": {
+  "en": "Regroup at the Barn Entrance",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE5": {
+  "en": "Destroy the Last German Tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE6": {
+  "en": "Follow Reznov into the Barn",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE7": {
+  "en": "Advance up the Road",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE8": {
+  "en": "Enter the German Camp",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OBJECTIVE9": {
+  "en": "Clear the German Camp",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OFF_TANK": {
+  "en": "Press and hold [{+activate}] to get off tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_OFF_TANK_PC": {
+  "en": "Press and hold F button to get off tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_RIDE_TANK": {
+  "en": "Press [{+activate}] to ride tank",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_RIDE_TANK_PC": {
+  "en": "Press and hold F button at the back of the tank to ride it.",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE1_USE_MOLOTOV": {
+  "en": "Press  [{+smoke}]  to throw molotovs",
+  "zones": [
+   "see1"
+  ]
+ },
+ "SEE2_ADS_HINT": {
+  "en": "Aim Down Sight (ADS) to look at distant targets",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_ADVANCE_TIGER_SEELOW": {
+  "en": "Advance towards Seelow using the Tiger tank",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_ADVANCE_TOWARDS_SEELOW": {
+  "en": "Advance towards Seelow",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_ASSAULT_THE_TOWN": {
+  "en": "Assault the town",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_BREAK_THE_LINE": {
+  "en": "Break the German line and reach the train station",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_CLEAR_TRAIN_AREA": {
+  "en": "Clear enemy tanks around train",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_COMMANDEER_THE_TIGER": {
+  "en": "Commandeer the Tiger tank",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_DESTROY_ARTILLERY": {
+  "en": "Neutralize all enemy artillery (&&1 remaining)",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_DESTROY_FUELCACHES": {
+  "en": "Destroy the fuel supplies",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_DESTROY_INCOMING_PANTHER": {
+  "en": "Destroy incoming Panther tanks",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_DESTROY_RADIOTOWER": {
+  "en": "Destroy Radio Tower",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_DESTROY_SURVIVING_TANKS": {
+  "en": "Destroy surviving tanks",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_FLAMETHROWER_HINT": {
+  "en": "Press [{+frag}] to fire your flamethrower",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_INTROSCREEN_DATE": {
+  "en": "April 16, 1945",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_INTROSCREEN_INFO": {
+  "en": "3rd Shock Army",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_INTROSCREEN_NAME": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_INTROSCREEN_PLACE": {
+  "en": "Seelow Heights, Germany",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_INTROSCREEN_TITLE": {
+  "en": "'Blood & Iron'",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_MG_COOP_HINT": {
+  "en": "Press [{+frag}] to fire your machinegun",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_PROCEED_RADIOTOWER": {
+  "en": "Proceed to the Radio Tower",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_REJOIN_ARMY": {
+  "en": "Rejoin the main Russian Army",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SEE2_SCOUT_AHEAD": {
+  "en": "Scout ahead for any retreating enemies",
+  "zones": [
+   "see2"
+  ]
+ },
+ "SNIPER_EASY_PRONE_DESC": {
+  "en": "Press^3 [{goprone}] ^7to go prone",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_GENERAL_ESCAPED": {
+  "en": "The General escaped!",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_HINT_CROUCH": {
+  "en": "Press [{gocrouch}] To Crouch",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_INTROSCREEN_DATE": {
+  "en": "Sept. 17, 1942",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_INTROSCREEN_INFO": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_INTROSCREEN_INFO2": {
+  "en": "62nd Rifle Army",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_INTROSCREEN_PLACE": {
+  "en": "Stalingrad, Russia",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_INTROSCREEN_TITLE": {
+  "en": "'Vendetta'",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_JUMP_FARTHER": {
+  "en": "S",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_1": {
+  "en": "Stay with Sgt. Reznov",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_2": {
+  "en": "Eliminate all Germans in the street",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_3": {
+  "en": "Follow Sgt. Reznov",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_4": {
+  "en": "Defeat the enemy sniper",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_5": {
+  "en": "Support your comrades with sniper cover fire",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_OBJ_6": {
+  "en": "Kill General Amsel",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_REZNOV_KILLED": {
+  "en": "Your actions got Reznov killed.",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "SNIPER_TO_BE_CONTINUED": {
+  "en": "To Be Continued....",
+  "zones": [
+   "sniper"
+  ]
+ },
+ "VEHICLENAME_ARMORED_CAR": {
+  "en": "Armored Car",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLENAME_BUFFALO": {
+  "en": "Buffalo",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLENAME_CRUSADER_TANK": {
+  "en": "Crusader Tank",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLENAME_FLETCHER": {
+  "en": "Destroyer - Fletcher Class",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLENAME_SHERMAN_TANK": {
+  "en": "Sherman Tank",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLENAME_T34_TANK": {
+  "en": "T34 Tank",
+  "zones": [
+   "common",
+   "pby_fly"
+  ]
+ },
+ "VEHICLE_MANTLE": {
+  "en": "Press and hold ^3 &&1 ^7 to drop a grenade in the tank",
+  "zones": [
+   "common"
+  ]
+ },
+ "VEHICLE_PLATFORM_USE_TRIPLE25": {
+  "en": "Press and hold ^3 &&1 ^7 to use the Triple25",
+  "zones": [
+   "common"
+  ]
+ },
+ "VEHICLE_T34_GUNNER": {
+  "en": "Press and hold ^3 &&1 ^7 to use the T34 MG",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_ABOVE_ALL_THINGS_NEVER": {
+  "en": "\"Above all things, never be afraid. The enemy who forces you to retreat is himself afraid of you at that very moment.\" - Andre Maurois",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_ALL_WARS_ARE_CIVIL_WARS": {
+  "en": "\"All wars are civil wars, because all men are brothers.\" - Francois Fenelon",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_A_HERO_IS_NO_BRAVER_THAN": {
+  "en": "\"A hero is no braver than an ordinary man, but he is brave five minutes longer.\" - Ralph Waldo Emerson",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_BATTLES_ARE_WON_BY_SLAUGHTER": {
+  "en": "\"Battles are won by slaughter and maneuver. The greater the general, the more he contributes in maneuver, the less he demands in slaughter.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_BETTER_TO_FIGHT_FOR_SOMETHING": {
+  "en": "\"Better to fight for something than live for nothing.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_COURAGE_AND_PERSEVERANCE": {
+  "en": "\"Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air.\" - John Quincy Adams",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_COURAGE_IS_BEING_SCARED": {
+  "en": "\"Courage is being scared to death - but saddling up anyway.\" - John Wayne",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_COURAGE_IS_FEAR_HOLDING": {
+  "en": "\"Courage is fear holding on a minute longer.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_COWARDS_DIE_MANY_TIMES": {
+  "en": "\"Cowards die many times before their deaths; The valiant never taste of death but once.\" - William Shakespeare, Julius Caesar",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_EVERY_MANS_LIFE_ENDS": {
+  "en": "\"Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.\" - Ernest Hemingway",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_HE_CONQUERS_WHO_ENDURES": {
+  "en": "\"He conquers who endures.\" - Persius",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_HISTORY_WILL_BE_KIND": {
+  "en": "\"History will be kind to me for I intend to write it.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IF_A_MAN_DOES_HIS_BEST": {
+  "en": "\"If a man does his best, what else is there?\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IF_THE_OPPOSITION_DISARMS": {
+  "en": "\"If the opposition disarms, well and good. If it refuses to disarm, we shall disarm it ourselves.\" - Joseph Stalin",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IF_WE_DONT_END_WAR_WAR": {
+  "en": "\"If we don't end war, war will end us.\" - H. G. Wells",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IN_WAR_THERE_IS_NO_SUBSTITUTE": {
+  "en": "\"In war there is no substitute for victory.\" - General Douglas MacArthur",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IT_IS_BETTER_TO_DIE_ON": {
+  "en": "\"It is better to die on your feet than to live on your knees!\" - Emiliano Zapata",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_IT_IS_FOOLISH_AND_WRONG": {
+  "en": "\"It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_I_HAVE_NEVER_ADVOCATED": {
+  "en": "\"I have never advocated war except as a means of peace.\" - Ulysses S. Grant",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_I_HAVE_NEVER_MADE_BUT": {
+  "en": "\"I have never made but one prayer to God, a very short one: 'O Lord, make my enemies ridiculous.' And God granted it.\" - Voltaire",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_LIVE_AS_BRAVE_MEN_AND": {
+  "en": "\"Live as brave men; and if fortune is adverse, front its blows with brave hearts.\" - Cicero",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_NEVER_INTERRUPT_YOUR": {
+  "en": "\"Never interrupt your enemy when he is making a mistake.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_NOTHING_IN_LIFE_IS_SO": {
+  "en": "\"Nothing in life is so exhilarating as to be shot at without result.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_OUR_GREATEST_GLORY_IS": {
+  "en": "\"Our greatest glory is not in never failing, but in rising up every time we fail.\" - Ralph Waldo Emerson",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_SAFEGUARDING_THE_RIGHTS": {
+  "en": "\"Safeguarding the rights of others is the most noble and beautiful end of a human being.\" - Kahlil Gibran, \"The Voice of the Poet\"",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_SUCCESS_IS_NOT_FINAL": {
+  "en": "\"Success is not final, failure is not fatal: it is the courage to continue that counts.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THERE_ARE_NO_ATHEISTS": {
+  "en": "\"\"There are no atheists in foxholes\" isn't an argument against atheism, it's an argument against foxholes.\" - James Morrow",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THERE_ARE_ONLY_TWO_FORCES": {
+  "en": "\"There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THERE_WILL_ONE_DAY_SPRING": {
+  "en": "\"There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.\" - Thomas A. Edison",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THE_CHARACTERISTIC_OF": {
+  "en": "\"The characteristic of genuine heroism is its persistency. All men have wandering impulses, fits and starts of generosity. But when you have resolved to be great, abide by yourself, and do not weakly try to reconcile yourself with the world. The heroic cannot be the common, nor the common the heroic.\" - Ralph Waldo Emerson",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THE_OBJECT_OF_WAR_IS": {
+  "en": "\"The object of war is not to die for your country but to make the other bastard die for his.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THE_REAL_AND_LASTING": {
+  "en": "\"The real and lasting victories are those of peace, and not of war.\" - Ralph Waldo Emerson",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_THOSE_WHO_HAVE_LONG_ENJOYED": {
+  "en": "\"Those who have long enjoyed such privileges as we enjoy forget in time that men have died to win them.\" - Franklin D. Roosevelt",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_WAR_IS_A_SERIES_OF_CATASTROPHES": {
+  "en": "\"War is a series of catastrophes which result in victory.\" - Georges Clemenceau",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_WE_HAPPY_FEW_WE_BAND": {
+  "en": "\"We happy few, we band of brothers/For he today that sheds his blood with me/Shall be my brother.\" - William Shakespeare, King Henry V",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_WE_SHALL_DEFEND_OUR_ISLAND": {
+  "en": "\"We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_WHEN_YOU_GET_TO_THE_END": {
+  "en": "\"When you get to the end of your rope, tie a knot and hang on.\" - Franklin D. Roosevelt",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_WHEN_YOU_HAVE_TO_KILL": {
+  "en": "\"When you have to kill a man it costs nothing to be polite.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "VICTORYQUOTE_YOU_KNOW_THE_REAL_MEANING": {
+  "en": "\"You know the real meaning of peace only if you have been through the war.\" - Kosovar",
+  "zones": [
+   "common"
+  ]
+ },
+ "WEAPON_30CAL": {
+  "en": "Browning M1919",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_BIPOD_SP": {
+  "en": "Deployable Browning M1919",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_30CAL_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_357MAGNUM": {
+  "en": ".357 Magnum",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_357MAGNUM_NO_ATTACHMENT": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_ANM8_SMOKE_GRENADE": {
+  "en": "AN-M8 Smoke Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_ANTITANK_GUNNER": {
+  "en": "Anti-Tank Gunner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_APERTURE": {
+  "en": "Aperture Site",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_ARMYENGINEER": {
+  "en": "Army Engineer",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_ASSAULTRIFLES": {
+  "en": "Assault Rifles",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR": {
+  "en": "BAR",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_BIPOD_SP": {
+  "en": "Deployable BAR",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAR_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAZOOKA": {
+  "en": "M9A1 Bazooka",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BAZOOKA_MAN": {
+  "en": "Bazooka",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BINOCULARS": {
+  "en": "Binoculars",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_BREN": {
+  "en": "Bren LMG",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_COLT45": {
+  "en": "Colt M1911",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_COLT45_NO_ATTACHMENT": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_CONCUSSION_GRENADE": {
+  "en": "Stun Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_COOKOFF": {
+  "en": "Cook-Off",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DEFAULTWEAPON": {
+  "en": "Default Weapon",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28": {
+  "en": "DP-28",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_BIPOD_SP": {
+  "en": "Deployable DP-28",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_DP28_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FASTAUTO": {
+  "en": "Fast-Auto",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42": {
+  "en": "FG42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_BIPOD_SP": {
+  "en": "Deployable FG42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_NO_TELESCOPIC_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_SCOPED": {
+  "en": "Scoped FG42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_TELESCOPIC": {
+  "en": "Telescopic Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FG42_TELESCOPIC_DESC": {
+  "en": "Replaces default iron sights with an enhanced telescopic scope.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FIREBLOB": {
+  "en": "Napalm Blob (Fire on Ground)",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FLAMETHROWER_GUNNER": {
+  "en": "Flamethrower",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FLASH_GRENADE": {
+  "en": "Flash Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FRAGGRENADE": {
+  "en": "Frag",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_FULLAUTO": {
+  "en": "Full-Auto",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GERMANGRENADE": {
+  "en": "Stielhandgranate",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43": {
+  "en": "Gewehr 43",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman IV Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_SILENCED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_NO_TELESCOPIC_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_SILENCED": {
+  "en": "Suppressor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_SILENCED_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_TELESCOPIC": {
+  "en": "Telescopic Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GEWEHR43_TELESCOPIC_DESC": {
+  "en": "Replaces default iron sights with an enhanced telescopic scope.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GOLDEN_CAMO": {
+  "en": "Golden",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GREASEGUN": {
+  "en": "Grease Gun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GRENADE_LAUNCHER": {
+  "en": "Grenade Launcher",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_GRIP": {
+  "en": "Grip",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_HOLDPIN": {
+  "en": "Hold-Pin",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K": {
+  "en": "Kar98k",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_BAYONET_SP": {
+  "en": "Kar98k Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_NO_SCOPED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles. \nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_SCOPED": {
+  "en": "Sniper Scope",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_SCOPED_DESC": {
+  "en": "Increases accuracy and range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_KAR98K_SCOPED_SP": {
+  "en": "Scoped Kar98k",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_LEE_ENFIELD": {
+  "en": "Lee-Enfield",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_LEE_ENFIELD_SCOPED": {
+  "en": "Scoped Lee-Enfield",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_LOCATION_SELECTOR": {
+  "en": "Select a location",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_LOCKON_REQUIRED": {
+  "en": "Lock-On Required",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_LUGER": {
+  "en": "Luger",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M16A4_GRENADIER": {
+  "en": "M16A4 Grenadier",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE": {
+  "en": "M1A1 Carbine",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_BAYONET_SP": {
+  "en": "M1A1 Carbine Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_BIGAMMO": {
+  "en": "Box Magazine",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_BIGAMMO_DESC": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_FLASH": {
+  "en": "Flash Hider",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_FLASH_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_BIGAMMO_DESC": {
+  "en": "Complete the Marksman IV Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1A1CARBINE_NO_FLASH_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND": {
+  "en": "M1 Garand",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_BAYONET_SP": {
+  "en": "M1 Garand Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_FLASH": {
+  "en": "Flash Hider",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_FLASH_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_GL": {
+  "en": "M1 Garand w/ Launcher",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_FLASH_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman IV Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_NO_SCOPED_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles. \nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_SCOPED": {
+  "en": "Sniper Scope",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M1GARAND_SCOPED_DESC": {
+  "en": "Increases accuracy and range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M2FRAGGRENADE": {
+  "en": "M2 Frag Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M2_FLAMETHROWER": {
+  "en": "M2 Flamethrower",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M7_LAUNCHER": {
+  "en": "M7 Grenade Launcher",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_M8_WHITE_SMOKE": {
+  "en": "Smoke",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MEDICPLACEHOLDER": {
+  "en": "Medic",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42": {
+  "en": "MG42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_BIPOD_SP": {
+  "en": "Deployable MG42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MG42_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MINE_BOUNCING_BETTY": {
+  "en": "Bouncing Betty",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MINE_SHOEBOX": {
+  "en": "PMD-6",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MK1_FRAG_GRENADE": {
+  "en": "MK1 Frag Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOLOTOV": {
+  "en": "Molotov Cocktail",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MORTAR_ROUND": {
+  "en": "Mortar Round",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSINNAGANTAMMO": {
+  "en": "Mosin-Nagant Ammo",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_LAUNCHER": {
+  "en": "Mosin-Nagant w/ Launcher",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE": {
+  "en": "Mosin-Nagant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_BAYONET_SP": {
+  "en": "Mosin-Nagant Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_NO_SCOPED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_SCOPED": {
+  "en": "Sniper Scope",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_SCOPED_DESC": {
+  "en": "Increases accuracy and range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MOSIN_RIFLE_SCOPED_SP": {
+  "en": "Scoped Mosin-Nagant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40": {
+  "en": "MP40",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_BIGAMMO": {
+  "en": "Dual Magazines",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_BIGAMMO_DESC": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_NO_BIGAMMO_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_NO_SILENCED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_SILENCED": {
+  "en": "Suppressor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP40_SILENCED_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_MP44": {
+  "en": "MP44",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NAMBU": {
+  "en": "Nambu",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NAMBU_NO_ATTACHMENT": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NEBELHANDGRANATE": {
+  "en": "Nebelhandgranate",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO77_WP_SMOKE_GRENADE": {
+  "en": "No.77 WP Smoke Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_AMMO": {
+  "en": "No Ammo",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_CAMO": {
+  "en": "No Camo",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_FLASH_GRENADE": {
+  "en": "No Flashbang Grenades Remaining",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_FRAG_GRENADE": {
+  "en": "No Primary Grenades Remaining",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_SMOKE_GRENADE": {
+  "en": "No Smoke Grenades Remaining",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_NO_SPECIAL_GRENADE": {
+  "en": "No Special Grenades Remaining",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PANZERFAUST": {
+  "en": "Panzerfaust 60",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PANZERSCHREK": {
+  "en": "Panzerschrek",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PANZERSHREK": {
+  "en": "Panzershrek",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_POTATO": {
+  "en": "Potato",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPS42": {
+  "en": "PPS42",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH": {
+  "en": "PPSh-41",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_BIGAMMO": {
+  "en": "Round Drum",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_BIGAMMO_DESC": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PPSH_NO_BIGAMMO_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PRESTIGE_CAMO": {
+  "en": "Prestige",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PTRS41": {
+  "en": "PTRS-41",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_PTRS41_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_RAY_GUN": {
+  "en": "Ray Gun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_REMINGTONMODEL11": {
+  "en": "Remington Model 11",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_RGD1_SMOKE_GRENADE": {
+  "en": "RGD-1 Smoke Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_RIFLEMAN": {
+  "en": "Rifleman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_RUSSIANGRENADE": {
+  "en": "RGD-33 Stick Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_RUSSIAN_FLAG": {
+  "en": "Red Army Banner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SAILOR": {
+  "en": "Crewman",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SATCHEL": {
+  "en": "Satchel Charge",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SCOPEDG43": {
+  "en": "Scoped Gewehr 43",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SCOPEDKAR98K": {
+  "en": "Scoped Kar98k",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SEMIAUTO": {
+  "en": "Semi-Auto",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN": {
+  "en": "M1897 Trench Gun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUNNER": {
+  "en": "Shotgunner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUNS": {
+  "en": "Shotguns",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED": {
+  "en": "Double-Barreled Shotgun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_GRIP": {
+  "en": "Grip",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_GRIP_DESC": {
+  "en": "Vertical foregrip for reduced recoil.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_NO_GRIP_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_NO_SAWOFF_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP": {
+  "en": "Sawed-Off Double-Barreled Shotgun w/ Grip",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWOFF": {
+  "en": "Sawed-Off Shotgun",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWOFF_DESC": {
+  "en": "Increases weapon spread, but reduces accuracy.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_GRIP": {
+  "en": "Grip",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_GRIP_DESC": {
+  "en": "Vertical foregrip for reduced recoil.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SHOTGUN_NO_GRIP_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SIGNAL_FLARE": {
+  "en": "Signal Flare",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SILENCER": {
+  "en": "Suppressor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SLOWAUTO": {
+  "en": "Slow-Auto",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SMGS": {
+  "en": "Submachine Guns",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SMOKE_GRENADE": {
+  "en": "Smoke Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SNIPER": {
+  "en": "Sniper",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SNIPERRIFLES": {
+  "en": "Sniper Rifles",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD": {
+  "en": "Springfield",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_BAYONET_SP": {
+  "en": "Springfield Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_SCOPED": {
+  "en": "Sniper Scope",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_SCOPED_DESC": {
+  "en": "Increases accuracy and range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SPRINGFIELD_SCOPED_SP": {
+  "en": "Scoped Springfield",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STEN": {
+  "en": "Sten",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STEN_SILENCED": {
+  "en": "Silenced Sten",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44": {
+  "en": "STG-44",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_FLASH": {
+  "en": "Flash Hider",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_FLASH_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_NO_FLASH_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_NO_TELESCOPIC_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_SELECT_FIRE": {
+  "en": "Select Fire",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_SELECT_FIRE_DESC": {
+  "en": "Adds the ability to switch weapon fire rate.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_TELESCOPIC": {
+  "en": "Telescopic Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STG-44_TELESCOPIC_DESC": {
+  "en": "Replaces default iron sights with an enhanced telescopic scope.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_STICKY_GRENADE": {
+  "en": "Nº 74 ST",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SUBMACHINEGUNNER": {
+  "en": "Submachine Gunner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SUPPORTGUNNER": {
+  "en": "Support Gunner",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40": {
+  "en": "SVT-40",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_FLASH": {
+  "en": "Flash Hider",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_FLASH_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_NO_FLASH_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_NO_TELESCOPIC_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_SELECT_FIRE": {
+  "en": "Select Fire",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_SELECT_FIRE_DESC": {
+  "en": "Adds the ability to switch weapon fire rate.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_TELESCOPIC": {
+  "en": "Telescopic Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SVT40_TELESCOPIC_DESC": {
+  "en": "Replaces default iron sights with an enhanced telescopic scope.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_SYRETTE": {
+  "en": "Syrette",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TABUN_GRENADE": {
+  "en": "Tabun Gas",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TARGET_NOT_ENOUGH_CLEARANCE": {
+  "en": "Not Enough Room To Fire",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TARGET_TOO_CLOSE": {
+  "en": "Too Close to Target",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TESLA_GUN": {
+  "en": "The Undead Zapper",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON": {
+  "en": "Thompson",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_BIGAMMO": {
+  "en": "Round Drum",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_BIGAMMO_DESC": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_NO_BIGAMMO_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_NO_SILENCED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_SILENCED": {
+  "en": "Suppressor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_THOMPSON_SILENCED_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TOKAREV": {
+  "en": "Tokarev TT-33",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TOKAREV_NO_ATTACHMENT": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TOKAREV_TT30": {
+  "en": "Tokarev TT-33",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG": {
+  "en": "Type 100",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_APERTURE": {
+  "en": "Aperture Sight",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_APERTURE_DESC": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_BIGAMMO": {
+  "en": "Box Magazine",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_BIGAMMO_DESC": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_NO_APERTURE_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_NO_BIGAMMO_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_NO_SILENCED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_SILENCED": {
+  "en": "Suppressor",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE100_SMG_SILENCED_DESC": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG": {
+  "en": "Type 99",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_BIPOD": {
+  "en": "Bipod",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_BIPOD_DESC": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_BIPOD_SP": {
+  "en": "Deployable Type 99",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_LMG_NO_BIPOD_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE": {
+  "en": "Arisaka",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_BAYONET": {
+  "en": "Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_BAYONET_DESC": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_BAYONET_SP": {
+  "en": "Arisaka Bayonet",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_NO_ATTACHMENT": {
+  "en": "No Attachment",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_NO_ATTACHMENT_DESC": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_NO_BAYONET_DESC": {
+  "en": "Complete the Marksman II Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_NO_RIFLE_GRENADE_DESC": {
+  "en": "Complete the Marksman III Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_NO_SCOPED_DESC": {
+  "en": "Complete the Marksman I Challenge to Unlock.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_RIFLE_GRENADE": {
+  "en": "Rifle Grenade",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_RIFLE_GRENADE_DESC": {
+  "en": "Grenade launcher attachment for rifles.\nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_SCOPED": {
+  "en": "Sniper Scope",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_SCOPED_DESC": {
+  "en": "Increases accuracy and range.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_TYPE99_RIFLE_SCOPED_SP": {
+  "en": "Scoped Arisaka",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_WALTHER_P38": {
+  "en": "Walther P38",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_WALTHER_P38_NO_ATTACHMENT": {
+  "en": " ",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_WEBLEY": {
+  "en": "Webley",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "WEAPON_ZOMBIE_MELEE": {
+  "en": "BRAAAINS...",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ }
+}

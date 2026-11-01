@@ -1,0 +1,3392 @@
+{
+ "SUBTITLE_PEL2_IGD_303A_ROEB": {
+  "en": "^1ROEBUCK: ^7So, let's pick it up and take out\nthose damn guns.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_303A_ROEB_SAFE": {
+  "en": "^1ROEBUCK: ^7So, let's pick it up and take out\nthose guns.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_400A_ROEB": {
+  "en": "^1ROEBUCK: ^7Check it out...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_401A_ROEB": {
+  "en": "^1ROEBUCK: ^7BOOBY TRAP!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_500A_ROEB": {
+  "en": "^1ROEBUCK: ^7Arrangements are being made\nto take his body back to the states.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_501A_POLO": {
+  "en": "^1POLONSKY: ^7I thought Sullivan would make\nit through for sure.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_502A_ROEB": {
+  "en": "^1ROEBUCK: ^7We let our guard down, Polonsky.\nWe can't let it happen again.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_503A_ROEB": {
+  "en": "^1ROEBUCK: ^7Tojo's got a tight hold on pretty much\neverything to the west.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_504A_ROEB": {
+  "en": "^1ROEBUCK: ^75th and 7th Marines are about\nto launch their assault on the airfield...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_505A_ROEB": {
+  "en": "^1ROEBUCK: ^7We're surrounded!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_506A_POLO": {
+  "en": "^1POLONSKY: ^7It was a trap!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_507A_POLO": {
+  "en": "^1POLONSKY: ^7They're all around!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_508A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep 'em back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_509A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get that flamethrower on the bunker!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_510A_ROEB": {
+  "en": "^1ROEBUCK: ^7Use that Flamethrower",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_511A_ROEB": {
+  "en": "^1ROEBUCK: ^7Burn 'em out!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_512A_ROEB": {
+  "en": "^1ROEBUCK: ^7It's gonna blow!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_513A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get outta there!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_800A_USR1": {
+  "en": "^1US MARINE: ^7Miller, find a bazooka!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_801A_USR1": {
+  "en": "^1US MARINE: ^7Get a bazooka from the trenches!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_802A_USR1": {
+  "en": "^1US MARINE: ^7Bazooka those tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_IGD_803A_USR1": {
+  "en": "^1US MARINE: ^7C'mon... bazooka those tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_000A_ROOK": {
+  "en": "^1US MARINE: ^7Confirmed, Sir.\nAA guns knocked out.\nSkies clear all the way to Bloody Nose Ridge.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_001A_POLO_A": {
+  "en": "^1POLONSKY: ^7Aww shit... Sarge, we got a problem.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_001A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7Sarge, we got a problem.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_002A_ROEB": {
+  "en": "^1ROEBUCK: ^7Sir, Japanese reinforcements\ncoming in north of the airfield...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_003B_ROEB": {
+  "en": "^1ROEBUCK: ^7Request immediate air support.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_004A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Yes, Sir... understood.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_005A_ROEB_A": {
+  "en": "^1ROEBUCK: ^7Everyone take position.  Eyes forward.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_006B_ROEB": {
+  "en": "^1ROEBUCK: ^7Stay strong.\nWe are holding this airfield!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_007A_POLO_A": {
+  "en": "^1POLONSKY: ^7Holy... shit...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_007A_POLO_SAFE": {
+  "en": "^1POLONSKY: ^7Oh my god...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_008A_ROOK": {
+  "en": "^1US MARINE: ^7Yes, sir. The airfield has been held...\nRepeat, the airfield has been held.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_200A_POLO": {
+  "en": "^1POLONSKY: ^7More reinforcements!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_201A_ROEB": {
+  "en": "^1ROEBUCK: ^7They're taking positions on that tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_202A_ROEB": {
+  "en": "^1ROEBUCK: ^7Get some fire on that tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_203A_POLO": {
+  "en": "^1POLONSKY: ^7They're bringing up tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_204A_ROEB": {
+  "en": "^1ROEBUCK: ^7There's more infantry on their trucks!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_205A_POLO": {
+  "en": "^1POLONSKY: ^7Where the hell did all those\nreinforcements come from?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_206A_ROEB": {
+  "en": "^1ROEBUCK: ^7Keep fire on them!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_PEL2_OUT_207A_POLO": {
+  "en": "^1POLONSKY: ^7It's a whole damn convoy!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_ROE_ORDER_MOVE_FORWARD_04": {
+  "en": "^1ROEBUCK: ^7Keep it steady and move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_0_ORDER_ACTION_SUPPRESS_04": {
+  "en": "^1RUSSIAN SOLDIER: ^7All together, comrades!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_0_ORDER_ATTACK_INFANTRY_04": {
+  "en": "^1RUSSIAN SOLDIER: ^7Now's our chance! Attack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_0_ORDER_ATTACK_INFANTRY_07": {
+  "en": "^1RUSSIAN SOLDIER: ^7There's no stopping us now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_0_ORDER_ATTACK_INFANTRY_08": {
+  "en": "^1RUSSIAN SOLDIER: ^7Victory is at hand!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_0_ORDER_MOVE_FORWARD_05": {
+  "en": "^1RUSSIAN SOLDIER: ^7Quickly!  Advance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_1_ORDER_ACTION_BOOST_07": {
+  "en": "^1RUSSIAN SOLDIER: ^7Their defenses cannot hold!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_1_ORDER_ACTION_BOOST_08": {
+  "en": "^1RUSSIAN SOLDIER: ^7This is our chance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_1_ORDER_ATTACK_INFANTRY_05": {
+  "en": "^1RUSSIAN SOLDIER: ^7We have them on the run!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_1_THREAT_INFANTRY_MULTIPLE_03": {
+  "en": "^1RUSSIAN SOLDIER: ^7More Nazis!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_2_ORDER_ACTION_SUPPRESS_08": {
+  "en": "^1RUSSIAN SOLDIER: ^7We need more firepower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_2_ORDER_MOVE_FORWARD_00": {
+  "en": "^1RUSSIAN SOLDIER: ^7Move up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_2_RESPONSE_ACK_COVERING_05": {
+  "en": "^1REZNOV: ^7I have you covered!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_CHE_INFORM_RELOADING_GENERIC_00": {
+  "en": "^1CHERNOV: ^7Reloading!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_INFORM_SUPPRESSED_GENERIC_04": {
+  "en": "^1REZNOV: ^7More men to the front!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_LANDMARK_NEAR_BALCONY_00": {
+  "en": "^1REZNOV: ^7On the balcony!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_LANDMARK_NEAR_BALCONY_01": {
+  "en": "^1REZNOV: ^7There, on the balcony!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_LANDMARK_NEAR_EAGLE_00": {
+  "en": "^1REZNOV: ^7By the eagle!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_ACTION_BOOST_02": {
+  "en": "^1REZNOV: ^7Pound them to dust!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_ACTION_BOOST_06": {
+  "en": "^1REZNOV: ^7Destroy them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_ACTION_BOOST_08": {
+  "en": "^1REZNOV: ^7Spare no one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_ATTACK_INFANTRY_07": {
+  "en": "^1REZNOV: ^7We must advance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_ATTACK_INFANTRY_11": {
+  "en": "^1REZNOV: ^7Push them back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_MOVE_FOLLOW_00": {
+  "en": "^1REZNOV: ^7Follow me, now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_MOVE_FOLLOW_01": {
+  "en": "^1REZNOV: ^7Come with me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_MOVE_FORWARD_00": {
+  "en": "^1REZNOV: ^7Forward, men!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_ORDER_MOVE_FORWARD_04": {
+  "en": "^1REZNOV: ^7Move forward!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_THREAT_INFANTRY_EXPOSED_04": {
+  "en": "^1REZNOV: ^7Shoot them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_THREAT_INFANTRY_EXPOSED_08": {
+  "en": "^1REZNOV: ^7Kill them all!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_THREAT_INFANTRY_EXPOSED_10": {
+  "en": "^1REZNOV: ^7This is what you came here for!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_RU_REZ_THREAT_INFANTRY_MULTIPLE_02": {
+  "en": "^1REZNOV: ^7German reinforcements!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_000A_REZN": {
+  "en": "^1REZNOV: ^7See how things have changed, my friend?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_001A_REZN": {
+  "en": "^1REZNOV: ^7Now it is their land... Their people...\nTheir blood.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_002A_CHER": {
+  "en": "^1CHERNOV: ^7Sergeant! They are retreating!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_003A_REZN_A": {
+  "en": "^1REZNOV: ^7Yes, Chernov... But that will not save them.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_004A_REZN": {
+  "en": "^1REZNOV: ^7There will be no escape!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_005A_REZN_A": {
+  "en": "^1REZNOV: ^7Burn the wheatfields!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_006A_REZN_B": {
+  "en": "^1REZNOV: ^7Shoot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_007A_CHER": {
+  "en": "^1CHERNOV: ^7Are we to shoot them in the back?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_008A_REZN_A": {
+  "en": "^1REZNOV: ^7The back.  The front.  The head!...\nWherever you wish! Just so long as they are dead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_009A_REZN_A": {
+  "en": "^1REZNOV: ^7Hunt them down like the rats they are.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_010A_REZN": {
+  "en": "^1REZNOV: ^7Raise hell!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_010A_REZN_SAFE": {
+  "en": "^1REZNOV: ^7Kill them all!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_011A_REZN_A": {
+  "en": "^1REZNOV: ^7Into the river!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_012A_REZN_A": {
+  "en": "^1REZNOV: ^7After Stalingrad, I know to trust\nyour instincts, Dimitri.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_013A_REZN_B": {
+  "en": "^1REZNOV: ^7Left or right?... You lead the way.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_014A_REZN_A": {
+  "en": "^1REZNOV: ^7Drive them into the forest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_015A_REZN_A": {
+  "en": "^1REZNOV: ^7Let their burning country be the last\nthing they see!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_016A_REZN_B": {
+  "en": "^1REZNOV: ^7Kill them all!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_017A_REZN_A": {
+  "en": "^1REZNOV: ^7Clear the way for our armor!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_018A_REZN_A": {
+  "en": "^1REZNOV: ^7German MG right below us.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_019A_REZN_A": {
+  "en": "^1REZNOV: ^7Throw some Molotovs.\nLet them burn in their posts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_019B_REZN": {
+  "en": "^1REZNOV: ^7Use your Molotovs.\nLet them burn in their posts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_020A_REZN_A": {
+  "en": "^1REZNOV: ^7Drive them back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_021A_REZN_A": {
+  "en": "^1REZNOV: ^7These trenches will be their graves!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_022A_REZN": {
+  "en": "^1REZNOV: ^7Our tanks are moving into the fields!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_024A_REZN": {
+  "en": "^1REZNOV: ^7PANZERSHRECK!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_025A_REZN_A": {
+  "en": "^1REZNOV: ^7Up there!... On the balcony!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_026A_REZN_A": {
+  "en": "^1REZNOV: ^7MOVE!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_027A_REZN_A": {
+  "en": "^1REZNOV: ^7Dimitri! Lead the charge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_028A_REZN_A": {
+  "en": "^1REZNOV: ^7Protect our armor!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_029A_REZN_A": {
+  "en": "^1REZNOV: ^7More Panzershreck fire! Take them all out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_030A_CHER": {
+  "en": "^1CHERNOV: ^7German tanks approaching!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_031A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri! Turn their weapons against them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_032A_REZN": {
+  "en": "^1REZNOV: ^7Boil them in their steel coffins!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_033A_REZN": {
+  "en": "^1REZNOV: ^7MORE TANKS!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_034A_REZN": {
+  "en": "^1REZNOV: ^7Fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_035A_REZN": {
+  "en": "^1REZNOV: ^7Infantry in the wheatfields!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_036A_REZN_A": {
+  "en": "^1REZNOV: ^7Molotovs!... Torch them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_037A_REZN_A": {
+  "en": "^1REZNOV: ^7Dimitri, I see time has not weakened your aim!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_038A_REZN": {
+  "en": "^1REZNOV: ^7You assure our victory!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_039A_REZN_A": {
+  "en": "^1REZNOV: ^7Hero of Stalingrad!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_040A_REZN_B": {
+  "en": "^1REZNOV: ^7What threat are tanks to Dimitri?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_041A_REZN_A": {
+  "en": "^1REZNOV: ^7Their armor is no match for you!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_042A_CHER": {
+  "en": "^1CHERNOV: ^7Sergeant! Panzershreck at the window!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_043A_REZN": {
+  "en": "^1REZNOV: ^7Stay back! Let our armor deal it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_044A_REZN": {
+  "en": "^1REZNOV: ^7HA!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_045A_REZN_A": {
+  "en": "^1REZNOV: ^7Follow me! We will regroup at the barn!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_046A_REZN_A": {
+  "en": "^1REZNOV: ^7There... We will prepare for the final\npush to the train station.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_047A_REZN": {
+  "en": "^1REZNOV: ^7COMRADES!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_048A_REZN_B": {
+  "en": "^1REZNOV: ^7CHYORT! Another tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_049A_REZN_A": {
+  "en": "^1REZNOV: ^7Dimitri! Take it down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_050A_REZN": {
+  "en": "^1REZNOV: ^7You could learn much from this man, Chernov...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_051A_CHER": {
+  "en": "^1CHERNOV: ^7Sergeant Reznov,\nyou seem to relish in the slaughter.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_052A_REZN_A": {
+  "en": "^1REZNOV: ^7I have seen friends and neighbors\ndie at the hands of this vermin.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_052B_REZN": {
+  "en": "^1REZNOV: ^7I have seen my friends die\nin front me at the hands of this vermin.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_053A_REZN_A": {
+  "en": "^1REZNOV: ^7They deserve everything they get...\nand more.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_054A_REZN": {
+  "en": "^1REZNOV: ^7Enough talk.\nWe must push forward to the train station!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_055A_REZN_A": {
+  "en": "^1REZNOV: ^7This is it, men.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_057A_REZN": {
+  "en": "^1REZNOV: ^7When we clear this compound\nwe can revel in a great victory.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_058A_REZN": {
+  "en": "^1REZNOV: ^7CHARGE!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_059A_REZN_A": {
+  "en": "^1REZNOV: ^7Bring down those towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_060A_REZN_A": {
+  "en": "^1REZNOV: ^7Use the Panzershreck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_061A_REZN": {
+  "en": "^1REZNOV: ^7Halftrack!  Moving in fast!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_062A_REZN_A": {
+  "en": "^1REZNOV: ^7They are weakening!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_063A_REZN": {
+  "en": "^1REZNOV: ^7Finish them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_100A_CHER": {
+  "en": "^1CHERNOV: ^7Dimitri! Stay out of the wheatfields!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_102A_REZN": {
+  "en": "^1REZNOV: ^7Let them burn!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_104A_REZN": {
+  "en": "^1REZNOV: ^7As our planes lay waste this land,\nwe will deal with its animals on the ground!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_105A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri...\nFlank the MG before it cuts us all down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_106A_CHER": {
+  "en": "^1CHERNOV: ^7Sergeant! German trucks on the bridge!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_107A_REZN": {
+  "en": "^1REZNOV: ^7I told you Chernov! There will be no escape!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_109A_CHER": {
+  "en": "^1CHERNOV: ^7How? Our rifles are no match for their armor?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_110A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri, show Chernov what to do.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_112A_REZN": {
+  "en": "^1REZNOV: ^7Hurry!  Deal with the tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_113A_REZN": {
+  "en": "^1REZNOV: ^7Their fire stalls our advance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_114A_REZN": {
+  "en": "^1REZNOV: ^7Use the rockets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_115A_REZN": {
+  "en": "^1REZNOV: ^7Fire the Panzershreck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_116A_REZN": {
+  "en": "^1REZNOV: ^7AGAIN!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_117A_REZN": {
+  "en": "^1REZNOV: ^7Keep going until the last one burns!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_118A_REZN": {
+  "en": "^1REZNOV: ^7Drop a grenade inside!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_119A_REZN": {
+  "en": "^1REZNOV: ^7German sniper!  At the barn window!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_120A_REZN": {
+  "en": "^1REZNOV: ^7Push forward and clear them out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_121A_REZN": {
+  "en": "^1REZNOV: ^7Break open the door!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_122A_REZN": {
+  "en": "^1REZNOV: ^7Look out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_123A_REZN": {
+  "en": "^1REZNOV: ^7The cowards may hide in shadows,\nbut we will find them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_124A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri, ride on one of the tanks.\nYou have earned the rest.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_125A_REZN": {
+  "en": "^1REZNOV: ^7Chernov!  You have not.  You walk.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_126A_RUR1": {
+  "en": "^1RUSSIAN SOLDIER: ^7No room, Comrade.\nTry the tank behind.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_127A_RUR1": {
+  "en": "^1RUSSIAN SOLDIER: ^7Are you blind?  There is no space.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_128A_CHER": {
+  "en": "^1CHERNOV: ^7Germans in the field!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_128B_CHER": {
+  "en": "^1CHERNOV: ^7Germans in the field to the left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_129A_REZN": {
+  "en": "^1REZNOV: ^7HA! They scatter like cockroaches in the light!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_130A_REZN": {
+  "en": "^1REZNOV: ^7Pick them off, one by one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_131A_CHER": {
+  "en": "^1CHERNOV: ^7The path is blocked...\nOur tanks cannot move up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_132A_REZN": {
+  "en": "^1REZNOV: ^7They will find a way around!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_133A_REZN": {
+  "en": "^1REZNOV: ^7Find some rockets!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_134A_REZN": {
+  "en": "^1REZNOV: ^7Blow up those towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_135A_REZN": {
+  "en": "^1REZNOV: ^7Comrades, follow Dimitri's example.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_136A_REZN": {
+  "en": "^1REZNOV: ^7Destroy the towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_137A_CHER": {
+  "en": "^1CHERNOV: ^7Reinforcements!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_138A_CHER": {
+  "en": "^1CHERNOV: ^7German truck approaching!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_139A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri!  Blow it to pieces\nbefore they take positions!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_140A_REZN": {
+  "en": "^1REZNOV: ^7You may be the Red army's greatest asset!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_141A_REZN": {
+  "en": "^1REZNOV: ^7The Halftrack is their strongest weapon!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_142A_REZN": {
+  "en": "^1REZNOV: ^7MG on the halfrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_143A_REZN": {
+  "en": "^1REZNOV: ^7If you are out of rockets,\nthen put a bullet in the gunner's head!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_144A_CHER": {
+  "en": "^1CHERNOV: ^7They are pulling back!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_145A_REZN": {
+  "en": "^1REZNOV: ^7It matters not where they choose to die!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_146A_REZN": {
+  "en": "^1REZNOV: ^7Hunt them down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_147A_CHER": {
+  "en": "^1CHERNOV: ^7They are ready to surrender.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_148A_REZN": {
+  "en": "^1REZNOV: ^7We are not ready to let them.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_149A_REZN": {
+  "en": "^1REZNOV: ^7No mercy was shown to my\ncomrades in Stalingrad.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_150A_REZN": {
+  "en": "^1REZNOV: ^7No mercy will be shown here.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_151A_REZN": {
+  "en": "^1REZNOV: ^7An eye for an eye!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_200A_REZN": {
+  "en": "^1REZNOV: ^7Victory is at hand! The German cowards \ndesert their posts, but they have nowhere left to run!\nSmash all that remains of their broken line \nand seize the train station. From this moment on...\nEvery step we take brings us closer to Berlin.\nCloser to victory! Closer to revenge! URA!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_200B_REZN": {
+  "en": "^1REZNOV: ^7Victory is at hand! The German cowards \ndesert their posts, but they have nowhere left to run!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_200C_REZN": {
+  "en": "^1REZNOV: ^7From this moment on...  \nEvery step we take brings us closer to Berlin.\nCloser to victory! Closer to revenge! URA!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_300A_REZN": {
+  "en": "^1REZNOV: ^7Use the Panzershrecks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_301A_REZN": {
+  "en": "^1REZNOV: ^7Use the Panzershrecks on those towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_302A_REZN": {
+  "en": "^1REZNOV: ^7Fire the Panzershrecks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_700A_RURS": {
+  "en": "^1RUSSIAN SOLDIERS: ^7URA!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_701A_RURS": {
+  "en": "^1RUSSIAN SOLDIERS: ^7URA!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_702A_RURS": {
+  "en": "^1RUSSIAN SOLDIERS: ^7URA!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_IGD_703A_RURS": {
+  "en": "^1RUSSIAN SOLDIERS: ^7(walla)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_011A_REZN_C": {
+  "en": "^1REZNOV: ^7Dimitri?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_012A_REZN_CA": {
+  "en": "^1REZNOV: ^7Finish those rats...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_013A_REZN_E": {
+  "en": "^1REZNOV: ^7Once again, you cheat death.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_014A_REZN_A_CA": {
+  "en": "^1REZNOV: ^7Our tanks are ready to smash this line and...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_015A_REZN": {
+  "en": "^1REZNOV: ^7CHERNOV!  I am not hearing gunshots.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_016A_CHER": {
+  "en": "^1CHERNOV: ^7There is no point, Sergeant...\nThey are already bleeding to death.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_017A_REZN_A": {
+  "en": "^1REZNOV: ^7Then maybe our friend will help\nthem to bleed faster.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE1_INT_018A_REZN_D": {
+  "en": "^1REZNOV: ^7It is your choice.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_000A_COMM": {
+  "en": "^1COMMISSAR: ^7Brave Comrades of the 3rd Shock Army...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_001A_COMM": {
+  "en": "^1COMMISSAR: ^7Today we lay waste to the German line!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_002A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri, ready the flamethrower.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_003A_REZN": {
+  "en": "^1REZNOV: ^7Good.  Now, take a closer look\nat those rats on the horizon!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_004A_REZN": {
+  "en": "^1REZNOV: ^7They will be the first to burn this day!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_005A_REZN": {
+  "en": "^1REZNOV: ^7Fire the flamethrower! Incinerate them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_006A_REZN": {
+  "en": "^1REZNOV: ^7Burn! Burn! BURN!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_007A_REZN": {
+  "en": "^1REZNOV: ^7First 88...southwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_007B_REZN": {
+  "en": "^1REZNOV: ^7First 88",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_008A_REZN": {
+  "en": "^1REZNOV: ^7Take aim!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_009A_REZN": {
+  "en": "^1REZNOV: ^7Ha! The first of many, my friend!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_010A_REZN_A": {
+  "en": "^1REZNOV: ^7Keep moving!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_011A_REZN_A": {
+  "en": "^1REZNOV: ^7Remember, we are vulnerable\nwhen reloading. Make every shell count!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_012A_REZN": {
+  "en": "^1REZNOV: ^7Panther! Moving in from the west!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_013A_REZN": {
+  "en": "^1REZNOV: ^7Destroy it!  The Panther's speed\nmakes it a deadly adversary!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_014A_REZN": {
+  "en": "^1REZNOV: ^7Fire!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_015A_REZN": {
+  "en": "^1REZNOV: ^7Again!  Before it targets our position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_016A_REZN": {
+  "en": "^1REZNOV: ^7Good hunting!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_017A_REZN": {
+  "en": "^1REZNOV: ^7Second 88 on the hill!... Southwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_017B_REZN": {
+  "en": "^1REZNOV: ^7Second 88 on the hill!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_018A_REZN": {
+  "en": "^1REZNOV: ^7Fire!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_019A_REZN": {
+  "en": "^1REZNOV: ^7Two down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_020A_COMM": {
+  "en": "^1COMMISSAR: ^7Push forward!!!\nMore 88s remain, west and south of your position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_020B_COMM": {
+  "en": "^1COMMISSAR: ^7Push forward!!! More 88s remain!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_021A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri, choose our route!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_022A_REZN_A": {
+  "en": "^1REZNOV: ^7Stay on the road or push through the field!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_023A_REZN": {
+  "en": "^1REZNOV: ^7Two more 88s southwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_024A_REZN": {
+  "en": "^1REZNOV: ^7Ha! On to the next one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_025A_REZN": {
+  "en": "^1REZNOV: ^7Two more remain, over to the north!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_025B_REZN": {
+  "en": "^1REZNOV: ^7Two more remain!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_026A_REZN": {
+  "en": "^1REZNOV: ^7Two more 88s northwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_026B_REZN": {
+  "en": "^1REZNOV: ^7Two more 88s still remain!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_027A_REZN": {
+  "en": "^1REZNOV: ^7Finish them!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_028A_REZN": {
+  "en": "^1REZNOV: ^7Dasvidania!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_029A_REZN_A": {
+  "en": "^1REZNOV: ^7Ura!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_030A_REZN": {
+  "en": "^1REZNOV: ^7Two more. Two more, over to the south!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_030B_REZN": {
+  "en": "^1REZNOV: ^7Move in on the last two 88s!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_031A_REZN": {
+  "en": "^1REZNOV: ^7German tanks all around, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_032A_REZN": {
+  "en": "^1REZNOV: ^7We are vulnerable to attack from all sides!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_033A_REZN": {
+  "en": "^1REZNOV: ^7Keep moving!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_034A_REZN_A": {
+  "en": "^1REZNOV: ^7Panzershreck! In the tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_035A_REZN": {
+  "en": "^1REZNOV: ^7More Panzershrecks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_036A_REZN": {
+  "en": "^1REZNOV: ^7Bring down the towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_037A_COMM": {
+  "en": "^1COMMISSAR: ^7Fire on them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_038A_REZN": {
+  "en": "^1REZNOV: ^7Push on!  Destroy the last two 88s!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_039A_REZN": {
+  "en": "^1REZNOV: ^7Only one left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_040A_REZN": {
+  "en": "^1REZNOV: ^7Excellent work, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_041A_REZN": {
+  "en": "^1REZNOV: ^7Onward!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_042A_COMM": {
+  "en": "^1COMMISSAR: ^7Attention, Comrades!\nPush forward and obliterate the Fascist radio tower.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_043A_REZN": {
+  "en": "^1REZNOV: ^7Follow the road to the northwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_044A_REZN": {
+  "en": "^1REZNOV: ^7Radio tower to the North!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_045A_REZN": {
+  "en": "^1REZNOV: ^7Annihilate it!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_046A_REZN": {
+  "en": "^1REZNOV: ^7Good work Dimitri, there will\nbe no cry for reinforcements!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_047A_COMM": {
+  "en": "^1COMMISSAR: ^7Today, we  break this line!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_048A_COMM": {
+  "en": "^1COMMISSAR: ^7Move in to destroy the fuel depot!\nCripple their military machine!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_100A_COMM": {
+  "en": "^1COMMISSAR: ^7Remember, you are vulnerable\nwhen reloading!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_101A_COMM": {
+  "en": "^1COMMISSAR: ^7Push forward to the train station!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_102A_REZN": {
+  "en": "^1REZNOV: ^7See, our infantry advances!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_103A_COMM": {
+  "en": "^1COMMISSAR: ^7Keep pushing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_104A_REZN": {
+  "en": "^1REZNOV: ^7On to Berlin!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_105A_REZN": {
+  "en": "^1REZNOV: ^7German infantry!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_106A_REZN": {
+  "en": "^1REZNOV: ^7Crush them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_107A_REZN": {
+  "en": "^1REZNOV: ^7Rip the flesh from their bones!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_108A_REZN": {
+  "en": "^1REZNOV: ^7Get moving!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_109A_REZN": {
+  "en": "^1REZNOV: ^7Don't just sit here, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_110A_REZN": {
+  "en": "^1REZNOV: ^7Hurry... Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_111A_REZN": {
+  "en": "^1REZNOV: ^7We could be burning Germans right now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_112A_REZN": {
+  "en": "^1REZNOV: ^7What are you waiting for?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_113A_REZN": {
+  "en": "^1REZNOV: ^7Get us out of here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_200A_REZN": {
+  "en": "^1REZNOV: ^7Rain fire on their wretched heads!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_201A_REZN": {
+  "en": "^1REZNOV: ^7Give them a taste of hell!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_202A_REZN": {
+  "en": "^1REZNOV: ^7Show them the fury they have unleashed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_500A_REZN": {
+  "en": "^1REZNOV: ^7More infantry!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_501A_REZN": {
+  "en": "^1REZNOV: ^7Ha!  They have nowhere to run!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_502A_REZN": {
+  "en": "^1REZNOV: ^7Roll over them!  Break their bones!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_503A_REZN_A": {
+  "en": "^1REZNOV: ^7German armor!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_504A_REZN": {
+  "en": "^1REZNOV: ^7Enemy tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_505A_REZN": {
+  "en": "^1REZNOV: ^7Another tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_506A_REZN": {
+  "en": "^1REZNOV: ^7King Tiger!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_507A_REZN": {
+  "en": "^1REZNOV: ^7The hide of the King Tiger is strong!\nFIRE AGAIN!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_508A_REZN": {
+  "en": "^1REZNOV: ^7Panzer!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_509A_REZN": {
+  "en": "^1REZNOV: ^7Infantry transport!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_510A_REZN": {
+  "en": "^1REZNOV: ^7Do not let them escape!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_511A_REZN": {
+  "en": "^1REZNOV: ^7Blow them to pieces!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_512A_REZN": {
+  "en": "^1REZNOV: ^7North!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_513A_REZN": {
+  "en": "^1REZNOV: ^7Northeast!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_514A_REZN": {
+  "en": "^1REZNOV: ^7East!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_515A_REZN": {
+  "en": "^1REZNOV: ^7Southeast!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_516A_REZN": {
+  "en": "^1REZNOV: ^7South!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_517A_REZN": {
+  "en": "^1REZNOV: ^7Southwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_518A_REZN": {
+  "en": "^1REZNOV: ^7West!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_519A_REZN_A": {
+  "en": "^1REZNOV: ^7Northwest!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_520A_REZN": {
+  "en": "^1REZNOV: ^7Straight ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_521A_REZN": {
+  "en": "^1REZNOV: ^7Behind us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_522A_REZN_A": {
+  "en": "^1REZNOV: ^7In the field!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_523A_REZN": {
+  "en": "^1REZNOV: ^7On the hill!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_524A_REZN": {
+  "en": "^1REZNOV: ^7In the marshland!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_525A_REZN": {
+  "en": "^1REZNOV: ^7We are in his sights!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_526A_REZN": {
+  "en": "^1REZNOV: ^7Move to a better position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_527A_REZN": {
+  "en": "^1REZNOV: ^7We are taking fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_528A_REZN": {
+  "en": "^1REZNOV: ^7We are taking damage!  MOVE!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_529A_REZN": {
+  "en": "^1REZNOV: ^7Our armor is weakening!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_530A_REZN": {
+  "en": "^1REZNOV: ^7If we take much more, we will burn to death!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_531A_REZN": {
+  "en": "^1REZNOV: ^7Move!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_532A_REZN": {
+  "en": "^1REZNOV: ^7We will fight on to the train station...\nAnd then, onto Berlin!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_533A_REZN": {
+  "en": "^1REZNOV: ^7More Panzershreck fire! Take them all out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_534A_REZN": {
+  "en": "^1REZNOV: ^7There... We will prepare for the final\npush to the train station.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_535A_REZN": {
+  "en": "^1REZNOV: ^7Enough talk. We must push\nforward to the train station!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_536A_REZN": {
+  "en": "^1REZNOV: ^7The final push before we move onto Berlin.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_537A_REZN": {
+  "en": "^1REZNOV: ^7Bring down those towers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_600A_REZN": {
+  "en": "^1REZNOV: ^7Shoot!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_601A_REZN": {
+  "en": "^1REZNOV: ^7Fire!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_602A_REZN": {
+  "en": "^1REZNOV: ^7Blow it to pieces!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_603A_REZN": {
+  "en": "^1REZNOV: ^7Fire now!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_604A_REZN": {
+  "en": "^1REZNOV: ^7Take them out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_605A_REZN": {
+  "en": "^1REZNOV: ^7Burn them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_606A_REZN": {
+  "en": "^1REZNOV: ^7Flame them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_607A_REZN": {
+  "en": "^1REZNOV: ^7Incinerate them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_608A_REZN": {
+  "en": "^1REZNOV: ^7German bunker!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_609A_REZN": {
+  "en": "^1REZNOV: ^7German stronghold!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_610A_REZN": {
+  "en": "^1REZNOV: ^7Tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_611A_REZN": {
+  "en": "^1REZNOV: ^7Take down that tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_612A_REZN": {
+  "en": "^1REZNOV: ^7Destroy the tower!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_613A_REZN": {
+  "en": "^1REZNOV: ^7Turn right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_614A_REZN": {
+  "en": "^1REZNOV: ^7To the right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_615A_REZN": {
+  "en": "^1REZNOV: ^7Right of us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_616A_REZN": {
+  "en": "^1REZNOV: ^7Hard right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_617A_REZN": {
+  "en": "^1REZNOV: ^7Turn left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_618A_REZN": {
+  "en": "^1REZNOV: ^7To the left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_619A_REZN": {
+  "en": "^1REZNOV: ^7Left of us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_620A_REZN": {
+  "en": "^1REZNOV: ^7Hard left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_621A_REZN": {
+  "en": "^1REZNOV: ^7Straight ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_622A_REZN": {
+  "en": "^1REZNOV: ^7Behind us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_623A_COMM": {
+  "en": "^1COMMISSAR: ^7Good work, comrades!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_624A_COMM": {
+  "en": "^1COMMISSAR: ^7Show no mercy!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_625A_REZN": {
+  "en": "^1REZNOV: ^7Dasvidanya, Scum!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_626A_REZN": {
+  "en": "^1REZNOV: ^7Good Aim!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_627A_REZN": {
+  "en": "^1REZNOV: ^7Direct hit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_628A_REZN": {
+  "en": "^1REZNOV: ^7Perfect shot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_629A_REZN": {
+  "en": "^1REZNOV: ^7Ha Ha!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_630A_REZN": {
+  "en": "^1REZNOV: ^7Destroyed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_700A_REZN": {
+  "en": "^1REZNOV: ^7We have lost power!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_701A_REZN": {
+  "en": "^1REZNOV: ^7We are sitting ducks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_702A_REZN": {
+  "en": "^1REZNOV: ^7Chyort!  German tanks closing in...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_703A_COMM": {
+  "en": "^1COMMISSAR: ^7The train station is within our grasp!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_704A_COMM": {
+  "en": "^1COMMISSAR: ^7As our planes rain death from above,\ncrush their final positions!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_705A_COMM": {
+  "en": "^1COMMISSAR: ^7Comrades!  A great victory is ours!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_706A_COMM": {
+  "en": "^1COMMISSAR: ^7On to Berlin!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_707A_COMM": {
+  "en": "^1COMMISSAR: ^7Ura!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_800A_REZN": {
+  "en": "^1REZNOV: ^7Fire on those bunkers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_801A_REZN": {
+  "en": "^1REZNOV: ^7Burn them in their bunkers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_IGD_802A_REZN": {
+  "en": "^1REZNOV: ^7Send flames through those bunkers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_000A_REZN": {
+  "en": "^1REZNOV: ^7Today was just the beginning, Comrades...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_001A_REZN": {
+  "en": "^1REZNOV: ^7In Berlin, the Germans will truly\nsee what they have unleashed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_002A_REZN": {
+  "en": "^1REZNOV: ^7Fortune smiles on us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_004A_RUR1": {
+  "en": "^1RUSSIAN SOLDIER: ^7I killed at least twenty!\nThree of them with my bare hands!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_005A_RUR2": {
+  "en": "^1RUSSIAN SOLDIER: ^7Liar! When we were knee deep\nin blood, you were crawling on your belly!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_006A_RUR2": {
+  "en": "^1RUSSIAN SOLDIER: ^7You are lucky the Commissar\nwas not around!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_007A_RUR2": {
+  "en": "^1RUSSIAN SOLDIER: ^7He would have had\nyou shot for cowardice!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_008A_RUR1": {
+  "en": "^1RUSSIAN SOLDIER: ^7What about brave Chernov?\nHow many did you kill... Three?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_009A_RUR1": {
+  "en": "^1RUSSIAN SOLDIER: ^7Two?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_010A_CHER": {
+  "en": "^1CHERNOV: ^7I wasn't counting.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_011A_RUR2": {
+  "en": "^1RUSSIAN SOLDIER: ^7Were you firing?!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_012A_REZN": {
+  "en": "^1REZNOV: ^7In the midst of all the blood,\nthe bullets and the dead... I found that\nan old friend was still very much alive...\nDimitri Petrenko!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_013A_REZN_B": {
+  "en": "^1REZNOV: ^7I saw this man cheat death... \nTime after time at the siege of Stalingrad.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_014A_REZN_B": {
+  "en": "^1REZNOV: ^7As long as HE lives,\nthe heart of this army cannot be broken.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SEE2_OUT_015A_REZN_A": {
+  "en": "^1REZNOV: ^7He makes us all proud.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_000A_REZN": {
+  "en": "^1REZNOV: ^7Shhhh...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_001A_REZN": {
+  "en": "^1REZNOV: ^7I need your help.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_002A_REZN_A": {
+  "en": "^1REZNOV: ^7Stay low, and follow me.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_003A_REZN_B": {
+  "en": "^1REZNOV: ^7Take my rifle",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_003B_REZN": {
+  "en": "^1REZNOV: ^7Take my rifle and watch the road.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_004A_REZN": {
+  "en": "^1REZNOV: ^7The mudak in the car is\nGeneral Heinrich Amsel architect of Stalingrad's misery.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_005A_REZN": {
+  "en": "^1REZNOV: ^7He is responsible for the cold blooded \nmurder of men, women and children...\nNot just here, but throughout the motherland.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_006A_REZN_C": {
+  "en": "^1REZNOV: ^7For three days I have hunted him. \nFor three days luck alone has saved his wretched life.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_008A_REZN": {
+  "en": "^1REZNOV: ^7Now, load your rifle, but hold your fire.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_009A_REZN_A": {
+  "en": "^1REZNOV: ^7Wait until the bombers are directly overhead.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_010A_REZN": {
+  "en": "^1REZNOV: ^7The sound of their engines will\ndrown out your shot.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_011A_REZN_A": {
+  "en": "^1REZNOV: ^7Sniping your enemy is like hunting\nany other animal.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_012A_REZN_A": {
+  "en": "^1REZNOV: ^7Fire at the wrong moment and your\nchance will be forever lost.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_013A_REZN": {
+  "en": "^1REZNOV: ^7Patience.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_014A_REZN_A": {
+  "en": "^1REZNOV: ^7Not yet.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_015A_REZN_B": {
+  "en": "^1REZNOV: ^7SHOOT NOW!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_016A_REZN": {
+  "en": "^1REZNOV: ^7Again!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_017A_REZN_A": {
+  "en": "^1REZNOV: ^7More on the right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_018A_REZN_A": {
+  "en": "^1REZNOV: ^7To the left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_019A_REZN": {
+  "en": "^1REZNOV: ^7Aim left!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_020A_REZN_A": {
+  "en": "^1REZNOV: ^7Aim right!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_021A_REZN": {
+  "en": "^1REZNOV: ^7Straight ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_022A_REZN_B": {
+  "en": "^1REZNOV: ^7Four still stand!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_023A_REZN_A": {
+  "en": "^1REZNOV: ^7Hurry! Before the bombers pass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_024A_REZN_A": {
+  "en": "^1REZNOV: ^7HA!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_025A_REZN_A": {
+  "en": "^1REZNOV: ^7Three remain!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_026A_REZN": {
+  "en": "^1REZNOV: ^7Watch out! The dog!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_027A_REZN_A": {
+  "en": "^1REZNOV: ^7Your reactions could be quicker,\nbut the job is done.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_028A_REZN_A": {
+  "en": "^1REZNOV: ^7Your aim is good, Comrade.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_029A_REZN": {
+  "en": "^1REZNOV: ^7Excellent aim!  You are a natural hunter.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_030A_REZN_C": {
+  "en": "^1REZNOV: ^7Time to close in for the kill.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_031A_REZN": {
+  "en": "^1REZNOV: ^7Chyort!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_032A_REZN_B": {
+  "en": "^1REZNOV: ^7Armored patrol...\nWe must find another route to Amsel.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_033A_REZN_A": {
+  "en": "^1REZNOV: ^7This way, before they discover their dead.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_034A_REZN_B": {
+  "en": "^1REZNOV: ^7Now the real hunt begins.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_035A_REZN_C": {
+  "en": "^1REZNOV: ^7For days I have crept through\nshadows like a rat.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_037A_REZN_C": {
+  "en": "^1REZNOV: ^7This place once echoed\nwith conversations of friends and lovers.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_038A_REZN_B": {
+  "en": "^1REZNOV: ^7No longer.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_039A_REZN_D": {
+  "en": "^1REZNOV: ^7Mark my words, Comrade...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_040A_REZN_B": {
+  "en": "^1REZNOV: ^7One day things will change.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_041A_REZN_A": {
+  "en": "^1REZNOV: ^7We will take the fight to their land... \nto their people... to their blood.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_042A_REZN_A": {
+  "en": "^1REZNOV: ^7This way.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_043A_REZN": {
+  "en": "^1REZNOV: ^7Knowing the routines and movements\nof your prey tips the balance of a hunt.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_044A_REZN": {
+  "en": "^1REZNOV: ^7General Amsel is a creature of habit.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_045A_REZN": {
+  "en": "^1REZNOV: ^7He inspects each German garrison every day.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_046A_REZN": {
+  "en": "^1REZNOV: ^7We can use this building to flank his route.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_047A_REZN_A": {
+  "en": "^1REZNOV: ^7Sniper!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_048A_REZN": {
+  "en": "^1REZNOV: ^7Get inside now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_049A_REZN_A": {
+  "en": "^1REZNOV: ^7Svoloch almost got me.\nWe'll have to flush him out before we move on.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_050A_REZN_A": {
+  "en": "^1REZNOV: ^7Follow me.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_051A_REZN_A": {
+  "en": "^1REZNOV: ^7The shot came from across the river!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_052A_REZN_B": {
+  "en": "^1REZNOV: ^7Now the game is cat and mouse.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_053A_REZN_B": {
+  "en": "^1REZNOV: ^7I will draw his fire.\nKeep your eyes open for the flash.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_054A_REZN_A": {
+  "en": "^1REZNOV: ^7Ready?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_055A_REZN_B": {
+  "en": "^1REZNOV: ^7Now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_056A_REZN_A": {
+  "en": "^1REZNOV: ^7He's on the fourth floor, right side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_056B_REZN_A": {
+  "en": "^1REZNOV: ^7He's on the top floor, right side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_057A_REZN_A": {
+  "en": "^1REZNOV: ^7Third floor!  Right side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_057B_REZN_A": {
+  "en": "^1REZNOV: ^7Second floor down!  Right side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_058A_REZN": {
+  "en": "^1REZNOV: ^7He's on the fourth floor, left side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_058B_REZN_A": {
+  "en": "^1REZNOV: ^7He's on the top floor, left side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_059A_REZN": {
+  "en": "^1REZNOV: ^7Third floor!  Left side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_059B_REZN_A": {
+  "en": "^1REZNOV: ^7Second floor down!  Left side!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_060A_REZN": {
+  "en": "^1REZNOV: ^7I'm going to draw his fire again,\nget ready to take him out...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_061A_REZN": {
+  "en": "^1REZNOV: ^7Chyort!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_062A_REZN_A": {
+  "en": "^1REZNOV: ^7Did you see him?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_063A_REZN_B": {
+  "en": "^1REZNOV: ^7He knows exactly where we are.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_064A_REZN_A": {
+  "en": "^1REZNOV: ^7I cannot risk it again...\nIt's up to you to find him now. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_065A_REZN_A": {
+  "en": "^1REZNOV: ^7Stay out of the light.  If he fires, move. ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_066A_REZN_B": {
+  "en": "^1REZNOV: ^7He's spotted you, get over to the window!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_067A_REZN": {
+  "en": "^1REZNOV: ^7Find another piece of cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_068A_REZN": {
+  "en": "^1REZNOV: ^7You need to take a different position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_069A_REZN": {
+  "en": "^1REZNOV: ^7MOOOOVE!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_070A_REZN_B": {
+  "en": "^1REZNOV: ^7Good hunting.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_071A_REZN_B": {
+  "en": "^1REZNOV: ^7The patrols will surely have\nheard those shots.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_072A_REZN": {
+  "en": "^1REZNOV: ^7We need to get moving.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_073A_REZN_E": {
+  "en": "^1REZNOV: ^7Shhhh... German patrol.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_074A_REZN_A": {
+  "en": "^1REZNOV: ^7They have found us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_075A_REZN_B": {
+  "en": "^1REZNOV: ^7We need to leave now!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_076A_REZN_A": {
+  "en": "^1REZNOV: ^7Hit the floor!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_077A_REZN": {
+  "en": "^1REZNOV: ^7They are trying to burn us out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_078A_REZN": {
+  "en": "^1REZNOV: ^7Stay low, try not to breathe!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_079A_REZN": {
+  "en": "^1REZNOV: ^7Jump!... GO!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_100A_REZN_A": {
+  "en": "^1REZNOV: ^7Do what I say, and we can\navenge this massacre.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_101A_REZN_A": {
+  "en": "^1REZNOV: ^7My injured hand means I can no longer aim.\nYou will do it for me.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_102A_REZN": {
+  "en": "^1REZNOV: ^7If we reveal our position to Amsel's men,\nthis fountain will be our grave.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_104A_REZN": {
+  "en": "^1REZNOV: ^7You have given away our position!\nGo down fighting!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_105A_REZN": {
+  "en": "^1REZNOV: ^7NOOOO!!! Our chance is lost!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_108A_REZN_A": {
+  "en": "^1REZNOV: ^7You've given away your position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_109A_REZN_A": {
+  "en": "^1REZNOV: ^7Your shots tell him exactly where you are!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_200A_REZN": {
+  "en": "^1REZNOV: ^7Two men! By the burning car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_201A_REZN": {
+  "en": "^1REZNOV: ^7Two more! By the stairs!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_202A_REZN": {
+  "en": "^1REZNOV: ^7There are two straight ahead!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_203A_REZN": {
+  "en": "^1REZNOV: ^7It is too late!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_204A_REZN": {
+  "en": "^1REZNOV: ^7You should have taken our chance!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_205A_REZN": {
+  "en": "^1REZNOV: ^7You have let our chance for vengeance\nslip through our fingers!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_206A_REZN": {
+  "en": "^1REZNOV: ^7Come on....",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_207A_REZN_C": {
+  "en": "^1REZNOV: ^7Let them pass...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_208A_REZN": {
+  "en": "^1REZNOV: ^7Quickly! Before we are burned alive!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_209A_REZN_A": {
+  "en": "^1REZNOV: ^7They are surrounding the building!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_210A_REZN": {
+  "en": "^1REZNOV: ^7There!... At the windows!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_211A_REZN": {
+  "en": "^1REZNOV: ^7Return fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_212A_REZN": {
+  "en": "^1REZNOV: ^7We must hurry!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_213A_REZN": {
+  "en": "^1REZNOV: ^7Move! Upstairs!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_214A_REZN": {
+  "en": "^1REZNOV: ^7We need to find a way out!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_215A_REZN_A": {
+  "en": "^1REZNOV: ^7Here my friend... Take my hand.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_216A_REZN": {
+  "en": "^1REZNOV: ^7I need you alive.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_217A_REZN_A": {
+  "en": "^1REZNOV: ^7We have to jump!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_218A_REZN_A": {
+  "en": "^1REZNOV: ^7We cannot stay here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_300A_DALE": {
+  "en": "^1DALETSKI: ^7Dimitri?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_301A_DALE": {
+  "en": "^1DALETSKI: ^7We thought you were among the\ndead in the massacre at the square!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_302A_REZN_A": {
+  "en": "^1REZNOV: ^7He was. Among them, but not one of them.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_303A_DALE": {
+  "en": "^1DALETSKI: ^7We're about to assault\nthe communication post north of here...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_304A_REZN_A": {
+  "en": "^1REZNOV: ^7Good. Such a move will prevent\nthe German command calling for help.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_305A_REZN_A": {
+  "en": "^1REZNOV: ^7Dimitri and I will provide cover from above...\nWait till you hear the screams of dying Germans.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_306A_REZN_A": {
+  "en": "^1REZNOV: ^7Dimitri... This way... Up the ladder.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_307A_REZN": {
+  "en": "^1REZNOV: ^7Hold your fire.  Do you see the flamethrowers?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_308A_REZN": {
+  "en": "^1REZNOV: ^7You must choose your moment.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_309A_REZN": {
+  "en": "^1REZNOV: ^7Exploding the fuel tank will incinerate\nanyone standing nearby.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_310A_REZN_A": {
+  "en": "^1REZNOV: ^7There is no time to waste!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_311A_REZN": {
+  "en": "^1REZNOV: ^7Take the shot, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_312A_REZN": {
+  "en": "^1REZNOV: ^7Quickly! Shoot the fuel tank!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_313A_REZN": {
+  "en": "^1REZNOV: ^7Do not let the moment pass!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_314A_REZN": {
+  "en": "^1REZNOV: ^7NOW!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_315A_REZN_B": {
+  "en": "^1REZNOV: ^7Ha! Ha! Ha! Ha!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_316A_REZN": {
+  "en": "^1REZNOV: ^7Another flamethrower!... Blow him to pieces!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_317A_REZN": {
+  "en": "^1REZNOV: ^7Give covering fire to our comrades below!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_318A_REZN": {
+  "en": "^1REZNOV: ^7More flamethrowers!  Taking position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_319A_REZN": {
+  "en": "^1REZNOV: ^7Another one!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_320A_REZN": {
+  "en": "^1REZNOV: ^7Make him burn!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_321A_REZN": {
+  "en": "^1REZNOV: ^7Keep firing!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_322A_REZN": {
+  "en": "^1REZNOV: ^7More infantry! Cut them down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_323A_REZN_A": {
+  "en": "^1REZNOV: ^7MG in the second floor window!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_324A_REZN": {
+  "en": "^1REZNOV: ^7German reinforcements!\nMoving on to the left balcony!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_325A_REZN": {
+  "en": "^1REZNOV: ^7More! On the high balcony!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_326A_REZN": {
+  "en": "^1REZNOV: ^7Our friends are moving up.\nWe must do the same!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_327A_REZN": {
+  "en": "^1REZNOV: ^7Up the stairs, quickly.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_328A_REZN_A": {
+  "en": "^1REZNOV: ^7Over here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_329A_REZN": {
+  "en": "^1REZNOV: ^7Do you feel your heart beat\nfaster as we get closer to our prey?",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_330A_REZN_A": {
+  "en": "^1REZNOV: ^7General Amsel will soon be in our sights.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_331A_REZN": {
+  "en": "^1REZNOV: ^7Get into position and give covering fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_332A_REZN": {
+  "en": "^1REZNOV: ^7Rip those vermin to shreds!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_333A_REZN": {
+  "en": "^1REZNOV: ^7Halftrack!  Take out its machine gun!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_334A_REZN": {
+  "en": "^1REZNOV: ^7They have taken the communication post.\nAmsel will try to run.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_335A_REZN": {
+  "en": "^1REZNOV: ^7Quickly! We must cut off his escape route!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_336A_REZN": {
+  "en": "^1REZNOV: ^7Look ahead...\nThe building adorned with flags is the German command post...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_340A_REZN": {
+  "en": "^1REZNOV: ^7The sounds of battle will flush him out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_343A_REZN": {
+  "en": "^1REZNOV: ^7Coward!  There he is!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_344A_REZN": {
+  "en": "^1REZNOV: ^7Do not let him escape.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_345A_REZN": {
+  "en": "^1REZNOV: ^7He is behind the truck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_345B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is behind the truck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_345C_REZN": {
+  "en": "^1REZNOV: ^7The mudak cowers behind the truck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_346A_REZN": {
+  "en": "^1REZNOV: ^7He is in the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_346B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is in the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_346C_REZN": {
+  "en": "^1REZNOV: ^7The Mudak is in the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_347A_REZN": {
+  "en": "^1REZNOV: ^7Shoot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_348A_REZN": {
+  "en": "^1REZNOV: ^7Kill him!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_349A_REZN": {
+  "en": "^1REZNOV: ^7His sins must not go unpunished!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_350A_REZN": {
+  "en": "^1REZNOV: ^7Quickly!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_353A_REZN_A": {
+  "en": "^1REZNOV: ^7We have struck a great blow for the city...\nfor all of Russia.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_355A_REZN_A": {
+  "en": "^1REZNOV: ^7Things will change, my friend.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_356A_REZN": {
+  "en": "^1REZNOV: ^7Run, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_357A_REZN": {
+  "en": "^1REZNOV: ^7Run!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_358A_REZN": {
+  "en": "^1REZNOV: ^7This way!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_400A_REZN_C": {
+  "en": "^1REZNOV: ^7(laughing) You are a true marksman, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_401A_REZN": {
+  "en": "^1REZNOV: ^7Excellent aim, Dimitri!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_402A_DALE": {
+  "en": "^1DALETSKI: ^7They are retreating!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_403A_DALE": {
+  "en": "^1DALETSKI: ^7Forward!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_404A_DALE": {
+  "en": "^1DALETSKI: ^7Charge!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_405A_DALE": {
+  "en": "^1DALETSKI: ^7Ura!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_406A_REZN": {
+  "en": "^1REZNOV: ^7Cover our, Comrades!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_407A_REZN_A": {
+  "en": "^1REZNOV: ^7Keep firing! Our friends below need cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_408A_REZN": {
+  "en": "^1REZNOV: ^7We will not let him.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_409A_REZN": {
+  "en": "^1REZNOV: ^7There is nothing we can do for our comrades...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_410A_REZN": {
+  "en": "^1REZNOV: ^7We are too close to our goal to reveal our position.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_411A_REZN": {
+  "en": "^1REZNOV: ^7Chyort! He is not alone!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_412A_REZN": {
+  "en": "^1REZNOV: ^7Put a bullet in his bodyguard's head!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_413A_REZN": {
+  "en": "^1REZNOV: ^7He is behind the tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_413B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is behind the tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_413C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is behind the tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_414A_REZN": {
+  "en": "^1REZNOV: ^7Behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_414B_REZN": {
+  "en": "^1REZNOV: ^7Amsel has moved behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_414C_REZN": {
+  "en": "^1REZNOV: ^7The Mudak is behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_415A_REZN": {
+  "en": "^1REZNOV: ^7Behind the smoking car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_415B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is behind the smoking car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_415C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is behind the smoking car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_416A_REZN_A": {
+  "en": "^1REZNOV: ^7He's getting into that car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_416B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is getting into that car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_416C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is getting into that car!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_417A_REZN": {
+  "en": "^1REZNOV: ^7Shoot the driver!  Stop him!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_418A_REZN": {
+  "en": "^1REZNOV: ^7(laughter)",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_419A_REZN": {
+  "en": "^1REZNOV: ^7They will be coming for us! We  must go!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_420A_REZN": {
+  "en": "^1REZNOV: ^7Quickly!  Before their tanks fire again!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_421A_REZN": {
+  "en": "^1REZNOV: ^7Into the river, Dimitri! It is our only chance!",
+  "zones": [
+   "common"
+  ]
+ }
+}

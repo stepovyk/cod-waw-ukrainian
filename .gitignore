@@ -1,0 +1,4 @@
+.deps/
+work/
+backup/
+__pycache__/

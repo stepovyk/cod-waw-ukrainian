@@ -1,0 +1,3906 @@
+{
+ "MP_NEXT_SQUAD": {
+  "en": "Next Squad",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOGOODHOST": {
+  "en": "No capable game host found. Please try again.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOSPECTATORCALLVOTE": {
+  "en": "Not allowed to call a vote as spectator.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOSPECTATORVOTE": {
+  "en": "Not allowed to vote as spectator.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOTIFY_TEXT_MESSAGE_AND": {
+  "en": "Notify text message and info.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOTIFY_TEXT_MESSAGE_AND1": {
+  "en": "Notify text message and info.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOTIFY_TITLE_MESSAGE": {
+  "en": "Notify Title Message",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NOVOTEINPROGRESS": {
+  "en": "No vote in progress.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NO_ATTACK_PLAYS_FOUND": {
+  "en": "No offensive plays found",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NO_DEFEND_PLAYS_FOUND": {
+  "en": "No defensive plays found",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NO_RESPAWN": {
+  "en": "No Respawning",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_NULL": {
+  "en": "%s",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_N_REMAINING": {
+  "en": "(&&1 remaining)",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_ATTACKERS": {
+  "en": "Destroy target A or B by planting explosives at either location. First team to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_ATTACKERS_NOSCORE": {
+  "en": "Destroy target A or B by planting explosives at either location.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_CTF_HINT": {
+  "en": "Capture the Enemy Flag!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_CTF_SCORE": {
+  "en": "Gain points by grabbing the enemy flag and touching it to your flag.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DEFENDERS": {
+  "en": "Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode. First team to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DEFENDERS_NOSCORE": {
+  "en": "Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DM_ELIMINATE_OTHERS": {
+  "en": "Gain points by eliminating other players.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DM_ELIMINATE_OTHERS_SCORE": {
+  "en": "Gain points by eliminating other players. First player to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DM_HINT": {
+  "en": "Eliminate other players.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DOM_CAPTURE_FLAGS": {
+  "en": "Capture and hold all of the the flags.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_DOM_CAPTURE_FLAGS_SCORE": {
+  "en": "Destroy target A or B by planting explosives at either location. First team to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SAB_DESTROY_TARGET": {
+  "en": "Recover the bomb and destroy the enemy hardpoint.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SAB_DESTROY_TARGET_SCORE": {
+  "en": "Recover the bomb and plant it on the enemy hardpoint.  First team to destroy the hardpoint wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SD_PLANT_BOMB": {
+  "en": "Plant explosives on a target and destroy it.  First team to ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SD_PLANT_BOMB_SCORE": {
+  "en": "Gain points by eliminating enemy players.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SPECTATOR_ALLIESATTACKING": {
+  "en": "Allies: Destroy target A or B by planting explosives at either location.\n\nAxis: Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_SPECTATOR_AXISATTACKING": {
+  "en": "Allies: Protect target A and B from being destroyed. If explosives are planted at either location, defuse them before they explode.\n\nAxis: Destroy target A or B by planting explosives at either location.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_TDM_ELIMINATE_ENEMIES": {
+  "en": "Gain points by eliminating enemy players.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_TDM_ELIMINATE_ENEMIES_SCORE": {
+  "en": "Gain points by eliminating enemy players. First team to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_TDM_HINT": {
+  "en": "Eliminate enemy players.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_TEXT": {
+  "en": "Gain points by capturing and defending neutral HQs for 2 minutes or by destroying enemy HQs. First team to &&1 points wins.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OBJ_TEXT_NOSCORE": {
+  "en": "Gain points by capturing and defending neutral HQs for 2 minutes or by destroying enemy HQs.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ONEFLAGWINS": {
+  "en": "One flag wins!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ONE_SQUAD": {
+  "en": "One Squad",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OPPONENT_FORFEITING_IN": {
+  "en": "Enemies forfeiting in &&1 seconds",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ORIGINALMAPS": {
+  "en": "Original Maps",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ORIGINAL_MAPS": {
+  "en": "Original Maps",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_OVERTIME": {
+  "en": "Overtime",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PANZER4_GUNNER": {
+  "en": "Hold &&1 to enter",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PERCENT": {
+  "en": " - &&1%",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PINCER": {
+  "en": "Pincer",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PIPEBOMB_HOLDING_DETONATOR": {
+  "en": "^1(Holding Detonator)",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PIPEBOMB_HOLDING_PIPEBOMB": {
+  "en": "^5(Holding Pipe Bomb)",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PIPEBOMB_PRESS_TO_SWITCH_TO_DETONATOR": {
+  "en": "(Press Use to switch to Detonator)",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PIPEBOMB_PRESS_TO_SWITCH_TO_PIPEBOMB": {
+  "en": "(Press Use to switch to Pipe Bomb)",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLACE_WAYPOINTS": {
+  "en": "Place Waypoints",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLANTING_CLAYMORE": {
+  "en": "Planting claymore...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLANTING_EXPLOSIVE": {
+  "en": "Planting...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLANTING_IED": {
+  "en": "Planting IED...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLAYERS_FORFEITED": {
+  "en": "Players forfeited",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLAYER_TOGGLE_MUTE": {
+  "en": "Toggle Mute",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLAY_TYPE": {
+  "en": "Choose Play Type",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLUS": {
+  "en": "+",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PLUS_AMOUNT": {
+  "en": "+%s",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_POINTS_TO_WIN": {
+  "en": "%s points to win.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_ACTIVATE_TO_RESPAWN": {
+  "en": "Press ^3[{+activate}]^7 to respawn",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_ACTIVATE_TO_SKIP": {
+  "en": "Press ^3[{+activate}]^7 to skip",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_ATTACK_TO_RESPAWN": {
+  "en": "Press Attack to respawn",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_ATTACK_TO_SKIP": {
+  "en": "Press Attack to skip",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_USERELOAD_TO_RESPAWN": {
+  "en": "Press ^3[{+usereload}]^7 to respawn",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_USERELOAD_TO_SKIP": {
+  "en": "Press ^3[{+usereload}]^7 to skip",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_USE_TO_RESPAWN": {
+  "en": "Press Use to respawn",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PRESS_USE_TO_SKIP": {
+  "en": "Press Use to skip",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PREVIOUS_SPAWN_ID": {
+  "en": "^5Previous spawn ID: ^3&&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PREV_OBJ": {
+  "en": "Previous Objective",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PREV_PLAY": {
+  "en": "Previous Play",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PREV_SQUAD": {
+  "en": "Previous Squad",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_PTS": {
+  "en": "pts",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RADAR_NOT_AVAILABLE": {
+  "en": "Recon Plane not available",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RADIOS_SPAWN_IN_SECONDS": {
+  "en": "Radios spawn in &&1 seconds",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RALLY_REACHED": {
+  "en": "Rally Point Reached",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RANK_REQUIRED": {
+  "en": "That Weapon Requires A Rank Of %s",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RD": {
+  "en": "rd",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_REINFORCEMENTS": {
+  "en": "Reinforcements spawn in &&1 seconds",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_REINFORCEMENTS_HUD": {
+  "en": "Reinforcements: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RESPAWN_WHEN_RADIO_NEUTRALIZED": {
+  "en": "Dead until HQ neutralized",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RETURN_EDITOR": {
+  "en": "Back to Mission List",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RIGHT_MIDDLE": {
+  "en": "Right Middle",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RIGHT_PLAYS": {
+  "en": "Right Plays",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RIGHT_SQUAD": {
+  "en": "Right Flank",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUNDCAM": {
+  "en": "ROUNDCAM",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUNDDRAW": {
+  "en": "Round draw",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUNDEND": {
+  "en": "Round Over",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUND_DRAW": {
+  "en": "Round Draw",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUND_LIMIT_REACHED": {
+  "en": "Round limit reached",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUND_LOSS": {
+  "en": "Round Loss",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ROUND_WIN": {
+  "en": "Round Win",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_DEFENDED_TARGET": {
+  "en": "Red Army defended target",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_DESTROYED_TARGET": {
+  "en": "Red Army destroyed target",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_ELIMINATED": {
+  "en": "Red Army eliminated",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_FORFEITED": {
+  "en": "Red Army forfeited",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_MISSION_ACCOMPLISHED": {
+  "en": "Red Army mission accomplished",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_NAME": {
+  "en": "Red Army",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_WIN": {
+  "en": "Red Army wins!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_WIN_MATCH": {
+  "en": "Red Army have won the match!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_RUSSIAN_WIN_ROUND": {
+  "en": "Red Army have won the round!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SABOTAGE": {
+  "en": "Sabotage Old",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SABOTAGE_COUNTDOWN": {
+  "en": "Sabotage",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SABOTAGE_TIMER": {
+  "en": "Sabotage - &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SAFEZONE_AVAILABLE_IN": {
+  "en": "Safe Zone online in: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SAFEZONE_DESPAWN_IN": {
+  "en": "Safe Zone offline in: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SAFEZONE_REVEALED": {
+  "en": "HQ location revealed.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SAVE_PLAY": {
+  "en": "Save Play",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SCORE_LIMIT_REACHED": {
+  "en": "Score limit reached",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SEARCHING_FOR_LOBBY_OF_TYPE_ORIGINAL": {
+  "en": "Searching for lobbies running original maps",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SEARCH_AND_DESTROY": {
+  "en": "Search and Destroy",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SEARCH_AND_DESTROY_CLASSIC": {
+  "en": "Search and Destroy Old",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SEARCH_AND_DESTROY_TIMER": {
+  "en": "Search and Destroy - &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SECONDPLACE_NAME": {
+  "en": "2nd. &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SECURING_CARGO": {
+  "en": "Securing the Cargo...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SELECT_MAP_PACKS": {
+  "en": "Select Map Packs",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SHERMAN_FLAME": {
+  "en": "Hold &&1 to use the Sherman Flamethrower",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SHERMAN_GUNNER": {
+  "en": "Hold &&1 to use the Sherman MG",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SLASH": {
+  "en": "/",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SLASHSCORE": {
+  "en": "/&&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SMALLGAME_SHORT": {
+  "en": "8 Players",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SPAWN_NEXT_ROUND": {
+  "en": "You will respawn next round.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_ST": {
+  "en": "st",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_STARTING_NEW_ROUND": {
+  "en": "Starting new round...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SUDDEN_DEATH": {
+  "en": "Sudden Death",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SUICIDE": {
+  "en": "Suicide",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SUICIDE_PREFIX": {
+  "en": "Suicide: ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_SWITCHING_SIDES": {
+  "en": "SWITCHING SIDES",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_T34_GUNNER": {
+  "en": "Hold &&1 to enter",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TARGET_DESTROYED": {
+  "en": "Target destroyed",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TDM": {
+  "en": "Team Deathmatch",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TDM_TIMER": {
+  "en": "Team Deathmatch - &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMBALANCE_NOTIFICATION_GERMAN": {
+  "en": "You were moved to the Wehrmacht to balance the teams",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMBALANCE_NOTIFICATION_JAPANESE": {
+  "en": "You were moved to the Imperial Army to balance the teams",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMBALANCE_NOTIFICATION_MARINE": {
+  "en": "You were moved to the Marine Raiders to balance the teams",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMBALANCE_NOTIFICATION_RUSSIAN": {
+  "en": "You were moved to the Red Army to balance the teams",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMKILL": {
+  "en": "Team Kill",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAMKILL_PREFIX": {
+  "en": "Team Kill: ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAM_HARDPOINT": {
+  "en": "Team Deathmatch",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAM_SCORED": {
+  "en": "Your team scored! ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEAM_TYPE": {
+  "en": "Choose Team Type",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TEMP_DRAW": {
+  "en": "Draw",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TH": {
+  "en": "th",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THE_ENEMY": {
+  "en": "The enemy",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THE_SERVER_DOES_NOT_HAVE": {
+  "en": "The server does not have that map.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THIRDPLACE_NAME": {
+  "en": "3rd. &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THIS_OBJ": {
+  "en": "This Objective",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THIS_PLAY": {
+  "en": "Pick This Play",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THIS_SPAWN_ID": {
+  "en": "^5This spawn ID: ^3&&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_THREE_SQUADS": {
+  "en": "Three Squads",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TIE": {
+  "en": "The game is a tie!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TIE_BREAKER": {
+  "en": "Tie Breaker",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TIME_EXPIRED": {
+  "en": "Time has expired",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TIME_LIMIT_REACHED": {
+  "en": "Time limit reached",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TIME_TILL_SPAWN": {
+  "en": "Spawn in ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TOGGLE_MAP_PACK": {
+  "en": "Toggle Map Pack",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TWO_SQUADS": {
+  "en": "Two Squads",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_TYPE97_GUNNER": {
+  "en": "Hold &&1 to use the Type97 MG",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_UNKNOWN": {
+  "en": "Unknown",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_UPTEAM": {
+  "en": "Marines",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_USEVEHICLE": {
+  "en": "Hold use_button to enter vehicle.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VICTORY": {
+  "en": "Victory!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTEALREADYINPROGRESS": {
+  "en": "A vote is already in progress.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTECAST": {
+  "en": "Vote cast.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTECOMMANDS": {
+  "en": "Vote commands: map_restart, map_rotate, map <mapname>, g_gametype <typename>, typemap <typename> <mapname>, kick <player>, clientkick <clientnum>, tempBanUser <player>, tempBanClient <clientNum>",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTEFAILED": {
+  "en": "Vote failed.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTEPASSED": {
+  "en": "Vote passed.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_CALLED": {
+  "en": "Vote Called:  ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_CHANGEMAP": {
+  "en": "Change Map: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_GAMETYPE": {
+  "en": "Game Type: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_KICK": {
+  "en": "Kick Player: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_MAPRESTART": {
+  "en": "Map Restart",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_NEXTMAP": {
+  "en": "Next Map",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_NO": {
+  "en": "(F2)  No:  ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_TEMPBAN": {
+  "en": "Temporarily Ban Player: &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_VOTE_YES": {
+  "en": "(F1) Yes:  ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_FOR_HQ": {
+  "en": "Waiting for HQ to be destroyed...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_FOR_PLAYERS": {
+  "en": "Waiting for more players...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_FOR_SAFEZONE": {
+  "en": "Waiting for Safe Zone to be destroyed...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_FOR_TEAMS": {
+  "en": "Waiting for teams to be ready...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_MATCH": {
+  "en": "Waiting for match to begin...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_RESUME": {
+  "en": "Waiting for Players to Resume Match",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAITING_TO_SPAWN": {
+  "en": "Waiting to respawn",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_CROSSHAIR": {
+  "en": "><",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_INBOUND": {
+  "en": "Artillery called in by &&1",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_INBOUND_NEAR_YOUR_POSITION": {
+  "en": "Artillery strike inbound near your position!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_INSTRUCTIONS1": {
+  "en": "Press ATTACK to call in artillery",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_INSTRUCTIONS2": {
+  "en": "Press USE to cancel",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ARTILLERY_INSTRUCTIONS3": {
+  "en": "Artillery will fall where you are aiming.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_CAPTURING_ARMOR": {
+  "en": "Capturing armor",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_CAPTURING_ARTILLERY": {
+  "en": "Capturing artillery",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_CAPTURING_COPTER": {
+  "en": "Capturing aerial support",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_CAPTURING_RADAR": {
+  "en": "Capturing radar",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_COPTER_INSTRUCTIONS1": {
+  "en": "Press ATTACK to send helicopter to this area",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_COPTER_INSTRUCTIONS2": {
+  "en": "Press USE to cancel",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ENEMY_ARMOR_CAPTURED": {
+  "en": "Enemy armor captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ENEMY_ARTILLERY_CAPTURED": {
+  "en": "Enemy artillery captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ENEMY_COPTER_CAPTURED": {
+  "en": "Enemy aerial support captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_ENEMY_RADAR_CAPTURED": {
+  "en": "Enemy radar captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_NEUTRAL_ARMOR_CAPTURED": {
+  "en": "Armor captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_NEUTRAL_ARTILLERY_CAPTURED": {
+  "en": "Artillery captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_NEUTRAL_COPTER_CAPTURED": {
+  "en": "Aerial support captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_NEUTRAL_RADAR_CAPTURED": {
+  "en": "Radar captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_NO_RESPAWN_PENALTY": {
+  "en": "It is a fair fight",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_OTHERTEAM_RESPAWN_PENALTY": {
+  "en": "The enemy has a respawn penalty",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_OTHERTEAM_WAS_LEADING": {
+  "en": "You were down",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_PRESS_TO_REPLENISH_AMMO": {
+  "en": "Press USE (...todo...) to replenish ammunition",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_RADAR_ACQUIRED": {
+  "en": "Recon Plane called in by &&1 for &&2 seconds",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_RADAR_ACQUIRED_ENEMY": {
+  "en": "Enemy acquired Recon Plane for &&1 seconds",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_RADAR_EXPIRED": {
+  "en": "Recon Plane expired",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_RADAR_EXPIRED_ENEMY": {
+  "en": "Enemy Recon Plane expired",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_TEAMS_WERE_EVEN": {
+  "en": "Teams were even",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_TEAM_RESPAWN_PENALTY": {
+  "en": "You will have a respawn penalty",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_TEAM_WAS_LEADING": {
+  "en": "You were leading",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_AMMO": {
+  "en": "Waiting for ammunition to be available...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_ARTILLERY": {
+  "en": "Waiting for artillery to be available...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_COPTER_TO_BE_AVAILABLE": {
+  "en": "Waiting for aerial support to be available...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_COPTER_TO_BE_READY_FOR_ORDERS": {
+  "en": "Waiting for helicopter to be ready for orders...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_COPTER_TO_REACH_DESTINATION": {
+  "en": "Waiting for helicopter to reach its destination...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_WAITING_FOR_RADAR": {
+  "en": "Waiting for Recon Plane to be available...",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_YOUR_ARMOR_CAPTURED": {
+  "en": "Your armor was captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_YOUR_ARTILLERY_CAPTURED": {
+  "en": "Your artillery was captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_YOUR_COPTER_CAPTURED": {
+  "en": "Your aerial support was captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WAR_YOUR_RADAR_CAPTURED": {
+  "en": "Your radar was captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WIN": {
+  "en": "Win",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WINS": {
+  "en": "&&1 Wins!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_WIN_PREFIX": {
+  "en": "Win: ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_X2": {
+  "en": "x2",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_X3": {
+  "en": "x3",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_FLAG_RETURNING_IN": {
+  "en": "Your flag returning in ",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_FLAG_WAS_CAPTURED": {
+  "en": "Your flag was captured",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_FLAG_WAS_RETURNED": {
+  "en": "Your flag was returned",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_FLAG_WAS_TAKEN": {
+  "en": "Your flag was taken!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_TEAM": {
+  "en": "Your team",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOUR_TEAM_HAS_RECOVERED_THE_BOMB": {
+  "en": "Your team has recovered the bomb.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_ALLIED_PLATOON_LEADER": {
+  "en": "You are the Allied platoon leader!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_ARE_THE_ONLY_REMAINING_PLAYER": {
+  "en": "You are the only remaining player on your team.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_AXIS_PLATOON_LEADER": {
+  "en": "You are the Axis platoon leader!",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_HAVE_RECOVERED_THE_BOMB": {
+  "en": "You have recovered the bomb.",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_WILL_BE_AUTOASSIGNED_NEXT_ROUND": {
+  "en": "You Will Be Autoassigned A Squad Next Round",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_WILL_JOIN_SQUAD_ONE_NEXT_ROUND": {
+  "en": "You Will Join Squad One Next Round",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "MP_YOU_WILL_JOIN_SQUAD_TWO_NEXT_ROUND": {
+  "en": "You Will Join Squad Two Next Round",
+  "zones": [
+   "localized_code_post_gfx_mp"
+  ]
+ },
+ "PERKS_2_PRIMARY_GRENADES": {
+  "en": "Two primary Grenades.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_30CAL_DESC": {
+  "en": "American heavy machine gun with moderate power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_357MAGNUM_DESC": {
+  "en": "American revolver with high power. Effective at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_FLASH_GRENADE": {
+  "en": "Flash x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_FRAGGRENADE": {
+  "en": "Frag x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_M8_WHITE_SMOKE": {
+  "en": "Smoke Grenade x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_MOLOTOV": {
+  "en": "Molotov x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_SIGNAL_FLARE": {
+  "en": "Signal Flare x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_SMOKE_GRENADE": {
+  "en": "Smoke x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_STICKY_GRENADE": {
+  "en": "Nº 74 ST x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_STUN_GRENADE": {
+  "en": "Stun x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3X_WEAPON_TABUN_GRENADE": {
+  "en": "Tabun Gas x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_3_SPECIAL_GRENADES_NO": {
+  "en": "Three special grenades. No smoke.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ABILITY_TO_SEEK_OUT_ENEMY": {
+  "en": "Ability to seek out enemy explosives.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ANTIPERSONNEL_DEVICE": {
+  "en": "Anti-personnel device that destroys the target with a burst of flying shrapnel.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_APERTURE": {
+  "en": "Replaces the default iron sights with a precision sight.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ATTACHMENT": {
+  "en": "Attachment",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BANDOLIER": {
+  "en": "Bandolier",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BAR_DESC": {
+  "en": "American fully automatic machine gun with high power. Effective at medium range to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BAYONET": {
+  "en": "Increases melee attack range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BAZOOKA_X_2": {
+  "en": "M9A1 Bazooka x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BETTY_X_2": {
+  "en": "Bouncing Betty x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BIGAMMO": {
+  "en": "Increases ammunition capacity.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BIPOD": {
+  "en": "When deployed, reduces motion to permit more accurate shooting.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BOMB_SQUAD": {
+  "en": "Bomb Squad",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BOOST": {
+  "en": "Coaxial Machine Gun",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_BOOST_DESCRIPTION": {
+  "en": "Driver controlled machine gun.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CARRY_TWO_PRIMARY_WEAPONS": {
+  "en": "Carry two primary guns, no pistol.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CHALLENGES": {
+  "en": "Challenges",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CLAN_TAG": {
+  "en": "Clan Tag",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CLAYMORE_X_2": {
+  "en": "Claymore x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CLOSEASSAULT": {
+  "en": "Close Assault",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_COLT_DESC": {
+  "en": "American semi-automatic pistol with a high capacity. Effective at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_COMP": {
+  "en": "Redirects propellent gasses with the effect of countering recoil.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_COMPLETE_THE_EXPERT_CHALLENGE": {
+  "en": "Complete the Expert challenge for this weapon.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_COMPLETE_THE_MARKSMAN": {
+  "en": "Complete the Marksman challenge for this weapon.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_CREATE_A_CLASS": {
+  "en": "Create a Class",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEAD_SILENCE": {
+  "en": "Dead Silence",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEEPER_BULLET_PENETRATION": {
+  "en": "Deeper bullet penetration.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEEP_IMPACT": {
+  "en": "Deep Impact",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_BLINDS_AND": {
+  "en": "Incendiary device that harms the target with a radius of fire.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_CREATES_A": {
+  "en": "Device that creates a smoke screen when detonated.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_DISORIENTS": {
+  "en": "Device that disorients the target when detonated. ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_FLARE": {
+  "en": "Device that sends a signal with a flare.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_POISONS": {
+  "en": "Device that unleashes a poisonous smoke screen which blurs the vision and impairs movement.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_THAT_STICKS": {
+  "en": "Device designed as an anti-tank grenade. Beware, very dangerous.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DEVICE_USED_TO_SIGNAL": {
+  "en": "Device that produces an intense light, blinding and disorienting any targets that are in its field of view.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DOUBLE_BARRELED_SHOTGUN_DESC": {
+  "en": "American double-barreled shotgun. Deadly at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DOUBLE_TAP": {
+  "en": "Double Tap",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DP28_DESC": {
+  "en": "Russian light machine gun with a large ammunition capacity. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_DROP_A_LIVE_GRENADE_WHEN": {
+  "en": "Drop a live grenade when killed.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ENHANCED_ZOOM_ACOG_SCOPE": {
+  "en": "Replaces default iron sights with an enhanced telescopic scope.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_EXTRA_AMMUNITION_MAGAZINES": {
+  "en": "Extra ammunition magazines.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_EXTREME_CONDITIONING": {
+  "en": "Extreme Conditioning",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_EYE_SHIELD": {
+  "en": "Reduces the intensity of signal flares.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FASTER_RELOADING": {
+  "en": "Faster reloads.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FG42_DESC": {
+  "en": "German fully automatic machine gun with a high rate of fire. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FIREPROOF": {
+  "en": "Fireproof",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FIREPROOF_DESC": {
+  "en": "Reduces fire based weapon damage.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FLAK_JACKET": {
+  "en": "Flak Jacket",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FLAMETHROWER": {
+  "en": "M2 Flamethrower",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FLAMETHROWER_DESC": {
+  "en": "Projects a controlled stream of fire.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FLASH": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1": {
+  "en": "Frag / &&1 x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_FLASH_GRENADE": {
+  "en": "Frag / Flash x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_M8_WHITE_SMOKE": {
+  "en": "Frag / Smoke x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_MOLOTOV": {
+  "en": "Frag / Molotov x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_STICKY_GRENADE": {
+  "en": "Frag / Sticky Grenade x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_STUN_GRENADE": {
+  "en": "Frag / Stun x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_1_WEAPON_TABUN_GRENADE": {
+  "en": "Frag / Tabun Gas x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_WEAPON_SIGNAL_FLARE": {
+  "en": "Frag / Signal Flare x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_X_1": {
+  "en": "Frag x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_FRAG_X_3": {
+  "en": "Frag x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GASMASK": {
+  "en": "Gas Mask",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GEWEHR43_DESC": {
+  "en": "German semi-automatic rifle with high accuracy and moderate power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GO_GET_SOME_SUN": {
+  "en": "Go get some sun.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GREASED_BEARINGS": {
+  "en": "Greased Bearings",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRENADES_COMBO1": {
+  "en": "Frag / &&1 x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRENADE_LAUNCHER": {
+  "en": "Grenade Launcher",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRENADE_LAUNCHER_ATTACHMENT1": {
+  "en": "Grenade launcher attachment.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRENADE_LAUNCHER_ATTACHMENT2": {
+  "en": "Grenade Launcher attachment for rifles. \nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRIP": {
+  "en": "Grip",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_GRIP_ATTACHMENT_": {
+  "en": "Grip attachment.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_HARDCORE_GAMETYPES": {
+  "en": "Hardcore Gametypes",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_HEAR_VOICE_CHAT_OF_NEARBY": {
+  "en": "Hear voice chat of nearby enemies.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_HIGHER_EXPLOSIVE_WEAPON": {
+  "en": "Higher explosive weapon damage.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INCREASED_BULLET_DAMAGE": {
+  "en": "Increased bullet damage.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INCREASED_FLAME_DAMAGE": {
+  "en": "Increases damage of flame weapons.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INCREASED_HEALTH": {
+  "en": "Increased health.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INCREASED_HIPFIRE_ACCURACY": {
+  "en": "Increased hip-fire accuracy.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INCREASED_RATE_OF_FIRE": {
+  "en": "Increased rate of fire.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_INVISIBLE_ON_GPS_WHEN": {
+  "en": "Invisible on radar when firing, reduced muzzle flash, but shorter range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_IRON_LUNGS": {
+  "en": "Iron Lungs",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_JUGGERNAUT": {
+  "en": "Juggernaut",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_KAR98K_DESC": {
+  "en": "German bolt action rifle with high power. Effective at long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_LAST_STAND": {
+  "en": "Second Chance",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_LEADFOOT": {
+  "en": "Leadfoot",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_LEADFOOT_DESCRIPTION": {
+  "en": "Increases tank top speed.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_LESS_DAMAGE_FROM_EXPLOSIVES": {
+  "en": "Reduces explosive damage.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_LONGER_BREATH_FOR_STEADIER": {
+  "en": "Longer breath hold while sniping.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_M1CARBINE_DESC": {
+  "en": "American semi-automatic rifle with high accuracy and power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_M1GARAND_DESC": {
+  "en": "American semi-automatic rifle with high power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MAKE_LESS_SOUND_WHEN": {
+  "en": "Make less sound when you move.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MARTYRDOM": {
+  "en": "Martyrdom",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MG42_DESC": {
+  "en": "German heavy machine gun with a high rate of fire and moderate power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MOLOTOV_X3": {
+  "en": "Molotov x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MOSIN_RIFLE_DESC": {
+  "en": "Russian bolt action rifle with a low rate of fire and high power. Effective at long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_MP40_DESC": {
+  "en": "German submachine gun with high power. Effective at close range. ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_NAMBU_DESC": {
+  "en": "Japanese semi-automatic pistol with medium capacity and power. Effective at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_NEEDS_REVIVE": {
+  "en": "Player needs revive",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_NONE": {
+  "en": "None",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_NO_ATTACHMENT": {
+  "en": "No attachment",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_OLDSCHOOL_GAMETYPES": {
+  "en": "Oldschool Gametypes",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_OPTION_NOT_AVAILABLE": {
+  "en": "Perk not available when Smoke Grenade is equipped.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ORDINANCE": {
+  "en": "Ordnance Training",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ORDINANCE_DESC": {
+  "en": "Decreases the reload time of turrets.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_OVERKILL": {
+  "en": "Overkill",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_PANZERSHREK_X_2": {
+  "en": "Panzershrek",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_POISON_SHIELD": {
+  "en": "Protects against Tabun Gas.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_PPSH_DESC": {
+  "en": "Russian submachine gun with a very high rate of fire. Effective at close to medium range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_PRIMARY_GRENADES_X_2": {
+  "en": "Primary Grenades x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_PTRS41_DESC": {
+  "en": "Russian gas operated rifle with high power. Effective at long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_PULL_OUT_YOUR_PISTOL": {
+  "en": "Revive downed allies.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_RECONNAISSANCE": {
+  "en": "Reconnaissance",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_RECONNAISSANCE_DESC": {
+  "en": "Shows enemy dogs, artillery, & tanks.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_REDUCE_OVERHEAT": {
+  "en": "Decreases turret overheat.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_REICH_CAMOUFLAGE": {
+  "en": " ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_REMOTE_DETONATION_EXPLOSIVE": {
+  "en": "Two remote detonation explosives.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ROCKET_LAUNCHER_WITH": {
+  "en": "M9A1 bazooka with two rockets.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_ROYAL_CAMOUFLAGE": {
+  "en": " ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SATCHEL_CHARGE": {
+  "en": "Satchel Charge",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SATCHEL_CHARGE_X_2": {
+  "en": "Satchel Charge x 2",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SAWOFF": {
+  "en": "Increases weapon spread, but reduces accuracy.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SCOPED": {
+  "en": "Increases range for sniping.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SHADES": {
+  "en": "Shades",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SHOTGUN_DESC": {
+  "en": "American pump action shotgun. Deadly at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SIBERIAN_CAMOUFLAGE": {
+  "en": " ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SLEIGHT_OF_HAND": {
+  "en": "Sleight of Hand",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SMOKE_SELECTION_WARNING": {
+  "en": "Smoke Grenade not available if Special Grenades x 3 is selected in Perk 1.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SNIPER": {
+  "en": "Sniper",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SONIC_BOOM": {
+  "en": "Fireworks",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SPECIAL_GRENADES_X_3": {
+  "en": "Special Grenades x 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SPRINGFIELD_DESC": {
+  "en": "American bolt action rifle with moderate accuracy and power. Effective at long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SPRINT_FOR_LONGER_DISTANCES": {
+  "en": "Sprint for longer distances.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_ALLSEEINGEYE": {
+  "en": "All Seeing Eye",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_COMMANDCONTROL": {
+  "en": "Commanding Squad Leader",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_COMMANDCONTROL_DESC": {
+  "en": "Give orders to your squad.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_TEMP_3": {
+  "en": "Squad Temp 3",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_TEMP_4": {
+  "en": "Squad Temp 4",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SQUAD_TEMP_5": {
+  "en": "Squad Temp 5",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_STANDARD_FINISH": {
+  "en": " ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_STEADY_AIM": {
+  "en": "Steady Aim",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_STG44_DESC": {
+  "en": "German assault rifle with a high rate of fire. Effective at medium range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_STOPPING_POWER": {
+  "en": "Stopping Power",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_SVT40_DESC": {
+  "en": "Russian semi-automatic rifle with moderate power. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_THOMPSON_DESC": {
+  "en": "American submachine gun with high accuracy and moderate power. Effective at close to medium range. ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TOKAREV_DESC": {
+  "en": "Russian semi-automatic pistol with medium capacity and power. Effective at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TOSSBACK": {
+  "en": "Toss Back",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TOSSBACK_DESC": {
+  "en": "Resets fuse of picked up grenades.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TRIP_ACTIVATED_EXPLOSIVE": {
+  "en": "Two pressure activated mines.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TURRET_SPEED_INCREASE": {
+  "en": "Increases turret rotation speed.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TYPE100_SMG_DESC": {
+  "en": "Japanese submachine gun with moderate accuracy and power. Effective at close to medium range. ",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TYPE99_LMG_DESC": {
+  "en": "Japanese light machine gun with a high rate of fire. Effective at medium to long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_TYPE99_RIFLE_DESC": {
+  "en": "Japanese bolt action rifle with a low rate of fire and moderate power. Effective at long range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UAV_JAMMER": {
+  "en": "Camouflage",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNDETECTABLE_ON_ENEMY": {
+  "en": "Undetectable to enemy recon planes.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV10": {
+  "en": "Unlocked at level 10.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV12": {
+  "en": "Unlocked at level 12.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV13": {
+  "en": "Unlocked at level 13.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV16": {
+  "en": "Unlocked at level 16.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV17": {
+  "en": "Unlocked at level 17.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV20": {
+  "en": "Unlocked at level 20.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV21": {
+  "en": "Unlocked at level 21.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV24": {
+  "en": "Unlocked at level 24.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV25": {
+  "en": "Unlocked at level 25.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV28": {
+  "en": "Unlocked at level 28.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV29": {
+  "en": "Unlocked at level 29.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV32": {
+  "en": "Unlocked at level 32.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV33": {
+  "en": "Unlocked at level 33.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV36": {
+  "en": "Unlocked at level 36.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV37": {
+  "en": "Unlocked at level 37.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV4": {
+  "en": "Unlocked at level 4.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV40": {
+  "en": "Unlocked at level 40.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV41": {
+  "en": "Unlocked at level 41.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV44": {
+  "en": "Unlocked at level 44.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV45": {
+  "en": "Unlocked at level 45.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV48": {
+  "en": "Unlocked at level 48.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV49": {
+  "en": "Unlocked at level 49.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV52": {
+  "en": "Unlocked at level 52.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV53": {
+  "en": "Unlocked at level 53.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV56": {
+  "en": "Unlocked at level 56.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV57": {
+  "en": "Unlocked at level 57.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV6": {
+  "en": "Unlocked at level 6.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV60": {
+  "en": "Unlocked at level 60.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV61": {
+  "en": "Unlocked at level 61.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV64": {
+  "en": "Unlocked at level 64.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV65": {
+  "en": "Unlocked at level 65.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV7": {
+  "en": "Unlocked at level 7.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCKED_AT_LV9": {
+  "en": "Unlocked at level 9.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_UNLOCK_EVERYTHING_IN": {
+  "en": "Complete all challenges for every weapon in this weapon category.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_VERTICAL_FOREGRIP_FOR": {
+  "en": "Vertical foregrip for reduced recoil. \nTHIS ATTACHMENT REPLACES PERK 1.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_WALTHER_DESC": {
+  "en": "German semi-automatic pistol with a high rate of fire. Effective at close range.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_WATER_COOLER": {
+  "en": "Water Cooler",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS_WEAPON_ATTACHMENT": {
+  "en": "Weapon attachment.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PERKS__X_1": {
+  "en": "&&1 x 1",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_1_COMMANDS": {
+  "en": "1. Commands",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_1_ENEMY_SPOTTED": {
+  "en": "1. Enemy spotted!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_1_FOLLOW_ME": {
+  "en": "1. Follow me!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_1_YES_SIR": {
+  "en": "1. Yes Sir!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_2_ENEMY_DOWN": {
+  "en": "2. Enemy down!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_2_MOVE_IN": {
+  "en": "2. Move in!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_2_NO_SIR": {
+  "en": "2. No Sir!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_2_STATEMENTS": {
+  "en": "2. Statements",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_3_FALL_BACK": {
+  "en": "3. Fall back!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_3_IM_IN_POSITION": {
+  "en": "3. I'm in position.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_3_IM_ON_MY_WAY": {
+  "en": "3. I'm on my way.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_3_ON_MY_WAY": {
+  "en": "3. On my way.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_3_RESPONSES": {
+  "en": "3. Responses",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_4_AREA_SECURE": {
+  "en": "4. Area secure!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_4_SORRY": {
+  "en": "4. Sorry.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_4_SUPPRESSING_FIRE": {
+  "en": "4. Suppressing fire!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_5_ATTACK_LEFT_FLANK": {
+  "en": "5. Attack left flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_5_GREAT_SHOT": {
+  "en": "5. Great shot!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_5_GRENADE": {
+  "en": "5. Grenade!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_5_SQUAD_ATTACK_LEFT_FLANK": {
+  "en": "5. Squad, attack left flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_6_ATTACK_RIGHT_FLANK": {
+  "en": "6. Attack right flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_6_SNIPER": {
+  "en": "6. Sniper!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_6_SQUAD_ATTACK_RIGHT_FLANK": {
+  "en": "6. Squad, attack right flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_6_TOOK_LONG_ENOUGH": {
+  "en": "6. Took long enough!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_7_ARE_YOU_CRAZY": {
+  "en": "7. Are you crazy?",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_7_HOLD_THIS_POSITION": {
+  "en": "7. Hold this position!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_7_NEED_REINFORCEMENTS": {
+  "en": "7. Need reinforcements!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_7_SQUAD_HOLD_THIS_POSITION": {
+  "en": "7. Squad, hold this position!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_8_HOLD_YOUR_FIRE": {
+  "en": "8. Hold your fire!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_8_REGROUP": {
+  "en": "8. Regroup!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_8_SQUAD_REGROUP": {
+  "en": "8. Squad, regroup!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_AREA_SECURE": {
+  "en": "Area secure!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ARE_YOU_CRAZY": {
+  "en": "Are you crazy?",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ATTACK_LEFT_FLANK": {
+  "en": "Attack left flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ATTACK_RIGHT_FLANK": {
+  "en": "Attack right flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ENEMY_DOWN": {
+  "en": "Enemy down!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ENEMY_GRENADE": {
+  "en": "Enemy grenade!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ENEMY_SPOTTED": {
+  "en": "Enemy spotted!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ESC_EXIT": {
+  "en": "Esc. Exit",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_FALL_BACK": {
+  "en": "Fall back!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_FOLLOW_ME": {
+  "en": "Follow Me!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_GREAT_SHOT": {
+  "en": "Great shot!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_GRENADE": {
+  "en": "Grenade!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_HOLD_THIS_POSITION": {
+  "en": "Hold this position!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_HOLD_YOUR_FIRE": {
+  "en": "Hold your fire!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_IM_IN_POSITION": {
+  "en": "I'm in position.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_IM_ON_MY_WAY": {
+  "en": "I'm on my way.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_MOVE_IN": {
+  "en": "Move in!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_NEED_REINFORCEMENTS": {
+  "en": "Need reinforcements!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_NO_SIR": {
+  "en": "No Sir!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_ON_MY_WAY": {
+  "en": "On my way.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_QUICK_MESSAGE": {
+  "en": "Quick Message",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_REGROUP": {
+  "en": "Regroup!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SNIPER": {
+  "en": "Sniper!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SORRY": {
+  "en": "Sorry.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SQUAD_ATTACK_LEFT_FLANK": {
+  "en": "Squad, attack left flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SQUAD_ATTACK_RIGHT_FLANK": {
+  "en": "Squad, attack right flank!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SQUAD_HOLD_THIS_POSITION": {
+  "en": "Squad, hold this position!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SQUAD_REGROUP": {
+  "en": "Squad, regroup!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SQUAD_STICK_TOGETHER": {
+  "en": "Squad, stick together!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_STICK_TOGETHER": {
+  "en": "Stick together!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_SUPPRESSING_FIRE": {
+  "en": "Suppressing fire!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_TOOK_LONG_ENOUGH": {
+  "en": "Took long enough!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_TOOK_YOU_LONG_ENOUGH": {
+  "en": "Took you long enough!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_YES_SIR": {
+  "en": "Yes Sir!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_YOURE_CRAZY": {
+  "en": "You're crazy!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_YOURE_NUTS": {
+  "en": "You're nuts!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "QUICKMESSAGE_YOU_OUTTA_YOUR_MIND": {
+  "en": "You outta your mind?",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT": {
+  "en": "1stLt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT_FULL": {
+  "en": "1st Lieutenant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT_FULL2": {
+  "en": "1st Lieutenant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT_FULL3": {
+  "en": "1st Lieutenant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT_FULL4": {
+  "en": "1st Lieutenant III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_1STLT_FULL_N": {
+  "en": "1st Lieutenant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT": {
+  "en": "2ndLt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT_FULL": {
+  "en": "2nd Lieutenant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT_FULL2": {
+  "en": "2nd Lieutenant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT_FULL3": {
+  "en": "2nd Lieutenant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT_FULL4": {
+  "en": "2nd Lieutenant III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_2NDLT_FULL_N": {
+  "en": "2nd Lieutenant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN": {
+  "en": "BGen.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN_FULL": {
+  "en": "Brigadier General",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN_FULL2": {
+  "en": "Brigadier General I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN_FULL3": {
+  "en": "Brigadier General II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN_FULL4": {
+  "en": "Brigadier General III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_BGEN_FULL_N": {
+  "en": "Brigadier General &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT": {
+  "en": "Capt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT_FULL": {
+  "en": "Captain",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT_FULL2": {
+  "en": "Captain I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT_FULL3": {
+  "en": "Captain II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT_FULL4": {
+  "en": "Captain III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CAPT_FULL_N": {
+  "en": "Captain &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL": {
+  "en": "Col.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL_FULL": {
+  "en": "Colonel",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL_FULL2": {
+  "en": "Colonel I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL_FULL3": {
+  "en": "Colonel II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL_FULL4": {
+  "en": "Colonel III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COL_FULL_N": {
+  "en": "Colonel &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COMM": {
+  "en": "Comm.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_COMM_FULL": {
+  "en": "Commander",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CPL": {
+  "en": "Cpl.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CPL_FULL": {
+  "en": "Corporal",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CPL_FULL2": {
+  "en": "Corporal I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CPL_FULL3": {
+  "en": "Corporal II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_CPL_FULL_N": {
+  "en": "Corporal &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GEN": {
+  "en": "Gen.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GEN_FULL": {
+  "en": "General",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT": {
+  "en": "GySgt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT_FULL": {
+  "en": "Gunnery Sergeant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT_FULL2": {
+  "en": "Gunnery Sergeant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT_FULL3": {
+  "en": "Gunnery Sergeant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT_FULL4": {
+  "en": "Gunnery Sergeant III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_GYSGT_FULL_N": {
+  "en": "Gunnery Sergeant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_KILL_STREAK_N": {
+  "en": "&&1 has a killstreak of &&2!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LCPL_FULL2": {
+  "en": "Lance Corporal I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LCPL_FULL3": {
+  "en": "Lance Corporal II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LCPL_FULL_N": {
+  "en": "Lance Corporal &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL": {
+  "en": "LtCol.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL_FULL": {
+  "en": "Lieutenant Colonel",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL_FULL2": {
+  "en": "Lieutenant Colonel I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL_FULL3": {
+  "en": "Lieutenant Colonel II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL_FULL4": {
+  "en": "Lieutenant Colonel III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTCOL_FULL_N": {
+  "en": "Lieutenant Colonel &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN": {
+  "en": "LtGen.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN_FULL": {
+  "en": "Lieutenant General",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN_FULL2": {
+  "en": "Lieutenant General I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN_FULL3": {
+  "en": "Lieutenant General II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN_FULL4": {
+  "en": "Lieutenant General III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_LTGEN_FULL_N": {
+  "en": "Lieutenant General &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ": {
+  "en": "Maj.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN": {
+  "en": "MajGen.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN_FULL": {
+  "en": "Major General",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN_FULL2": {
+  "en": "Major General I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN_FULL3": {
+  "en": "Major General II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN_FULL4": {
+  "en": "Major General III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJGEN_FULL_N": {
+  "en": "Major General &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ_FULL": {
+  "en": "Major",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ_FULL2": {
+  "en": "Major I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ_FULL3": {
+  "en": "Major II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ_FULL4": {
+  "en": "Major III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MAJ_FULL_N": {
+  "en": "Major &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MGYSGT_FULL2": {
+  "en": "Master Gunnery Sergeant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MGYSGT_FULL3": {
+  "en": "Master Gunnery Sergeant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MGYSGT_FULL_N": {
+  "en": "Master Gunnery Sergeant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT": {
+  "en": "MSgt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT_FULL": {
+  "en": "Master Sergeant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT_FULL2": {
+  "en": "Master Sergeant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT_FULL3": {
+  "en": "Master Sergeant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT_FULL4": {
+  "en": "Master Sergeant III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_MSGT_FULL_N": {
+  "en": "Master Sergeant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_NEWRANK": {
+  "en": "You have achieved a new rank:",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PFC": {
+  "en": "PFC.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PFC_FULL": {
+  "en": "Private First Class",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PFC_FULL2": {
+  "en": "Private First Class I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PFC_FULL3": {
+  "en": "Private First Class II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PFC_FULL_N": {
+  "en": "Private First Class &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PLAYER_WAS_PROMOTED": {
+  "en": "&&1 was promoted to &&2!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PLAYER_WAS_PROMOTED_N": {
+  "en": "&&1 was promoted to &&2 &&3!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PROMOTED": {
+  "en": "You've been promoted!",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PVT": {
+  "en": "Pvt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PVT_FULL": {
+  "en": "Private",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PVT_FULL2": {
+  "en": "Private I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PVT_FULL3": {
+  "en": "Private II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_PVT_FULL_N": {
+  "en": "Private &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_REC_FULL2": {
+  "en": "Recruit I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_REC_FULL3": {
+  "en": "Recruit II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_ROMANI": {
+  "en": "I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_ROMANII": {
+  "en": "II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_ROMANIII": {
+  "en": "III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGT": {
+  "en": "Sgt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM": {
+  "en": "SgtMaj.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM_FULL": {
+  "en": "Sergeant Major",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM_FULL2": {
+  "en": "Sergeant Major I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM_FULL3": {
+  "en": "Sergeant Major II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM_FULL4": {
+  "en": "Sergeant Major III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGTM_FULL_N": {
+  "en": "Sergeant Major &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGT_FULL": {
+  "en": "Sergeant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGT_FULL2": {
+  "en": "Sergeant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGT_FULL3": {
+  "en": "Sergeant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SGT_FULL_N": {
+  "en": "Sergeant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT": {
+  "en": "SSgt.",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT_FULL": {
+  "en": "Staff Sergeant",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT_FULL2": {
+  "en": "Staff Sergeant I",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT_FULL3": {
+  "en": "Staff Sergeant II",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT_FULL4": {
+  "en": "Staff Sergeant III",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ },
+ "RANK_SSGT_FULL_N": {
+  "en": "Staff Sergeant &&1",
+  "zones": [
+   "common",
+   "localized_common_mp"
+  ]
+ }
+}

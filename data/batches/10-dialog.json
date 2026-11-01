@@ -1,0 +1,1106 @@
+{
+ "SUBTITLE_SNI1_IGD_422A_REZN": {
+  "en": "^1REZNOV: ^7GO!!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_500A_REZN": {
+  "en": "^1REZNOV: ^7Over here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_501A_REZN_A": {
+  "en": "^1REZNOV: ^7They will see you!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_502A_REZN": {
+  "en": "^1REZNOV: ^7Stay close to me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_503A_REZN_C": {
+  "en": "^1REZNOV: ^7Are you trying to get us killed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_504A_REZN_A": {
+  "en": "^1REZNOV: ^7Stay with me.\nThe area is full of German patrols!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_505A_REZN_B": {
+  "en": "^1REZNOV: ^7NO! You idiot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_506A_REZN_A": {
+  "en": "^1REZNOV: ^7We cannot afford to be drawn\ninto needless battles.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_507A_REZN_B": {
+  "en": "^1REZNOV: ^7You nearly ruined everything!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_508A_REZN_A": {
+  "en": "^1REZNOV: ^7A hunter has to stay hidden from his prey!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_509A_REZN_A": {
+  "en": "^1REZNOV: ^7Do not draw attention to us.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_510A_REZN": {
+  "en": "^1REZNOV: ^7Killing Amsel is worth more than any other life...\nIncluding yours.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_511A_REZN_B": {
+  "en": "^1REZNOV: ^7Now move... quietly.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_512A_REZN": {
+  "en": "^1REZNOV: ^7DIE! You scum sucking animals!!!\nRRAAAAGH!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_700A_REZN": {
+  "en": "^1REZNOV: ^7There... The building with the banners!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_703A_REZN": {
+  "en": "^1REZNOV: ^7Our comrades are clearing the building!\nWatch your fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_704A_REZN": {
+  "en": "^1REZNOV: ^7Follow me... I know a perfect sniping position\noverlooking the command post.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_705A_REZN": {
+  "en": "^1REZNOV: ^7Hold fire!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_705B_REZN": {
+  "en": "^1REZNOV: ^7Hold your fire! Don't shoot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_706A_REZN": {
+  "en": "^1REZNOV: ^7Their sacrifice will not go unavenged...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_707A_REZN": {
+  "en": "^1REZNOV: ^7The death of General Amsel\nwill be just the beginning...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_708A_REZN": {
+  "en": "^1REZNOV: ^7He's hiding behind the destroyed tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_708B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is hiding behind the destroyed tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_708C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is hiding behind the destroyed tank!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_709A_REZN": {
+  "en": "^1REZNOV: ^7He's using the destroyed tank for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_709B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is using the destroyed tank for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_709C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is using the destroyed tank for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_710A_REZN": {
+  "en": "^1REZNOV: ^7There! At the burning truck!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_711A_REZN": {
+  "en": "^1REZNOV: ^7He's using the burning truck for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_712A_REZN": {
+  "en": "^1REZNOV: ^7He's cowering behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_712B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is cowering behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_712C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is cowering behind the artillery piece!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_713A_REZN": {
+  "en": "^1REZNOV: ^7He's using the halftrack for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_713B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is using the halftrack for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_713C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is using the halftrack for cover!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_714A_REZN": {
+  "en": "^1REZNOV: ^7He's taking cover by the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_714B_REZN": {
+  "en": "^1REZNOV: ^7Amsel is taking cover by the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_714C_REZN": {
+  "en": "^1REZNOV: ^7The mudak is taking cover by the halftrack!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_715A_REZN_A": {
+  "en": "^1REZNOV: ^7His bodyguard has a sniper rifle!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_716A_REZN": {
+  "en": "^1REZNOV: ^7He is firing on us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_717A_REZN": {
+  "en": "^1REZNOV: ^7Kill him!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_718A_REZN": {
+  "en": "^1REZNOV: ^7You must first kill his sniper to get a clear shot!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_719A_REZN": {
+  "en": "^1REZNOV: ^7He is running!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_720A_REZN": {
+  "en": "^1REZNOV: ^7He is on the move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_721A_REZN": {
+  "en": "^1REZNOV: ^7Amsel is running!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_722A_REZN_A": {
+  "en": "^1REZNOV: ^7No... You have failed, Dimitri.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_723A_REZN": {
+  "en": "^1REZNOV: ^7Amsel still lives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_724A_REZN": {
+  "en": "^1REZNOV: ^7Our chance is lost...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_725A_REZN": {
+  "en": "^1REZNOV: ^7Armored car outside!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_726A_REZN": {
+  "en": "^1REZNOV: ^7Keep moving before it tears us apart!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_800A_REZN_A": {
+  "en": "^1REZNOV: ^7It was just a decoy!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_801A_REZN_A": {
+  "en": "^1REZNOV: ^7Stay focussed!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_802A_REZN": {
+  "en": "^1REZNOV: ^7You only wounded him!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_803A_REZN": {
+  "en": "^1REZNOV: ^7You just grazed him!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_804A_REZN": {
+  "en": "^1REZNOV: ^7He still lives! Hit him again!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_805A_DALE": {
+  "en": "^1DALETSKI: ^7This way, Comrades...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_806A_DALE": {
+  "en": "^1DALETSKI: ^7Take positions and wait for the signal...",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_807A_REZN_A": {
+  "en": "^1REZNOV: ^7You see?!! They will still die and now\nyou have given away our position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_808A_REZN": {
+  "en": "^1REZNOV: ^7No scope?!! Nice!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_809A_REZN": {
+  "en": "^1REZNOV: ^7Only a true marksman nails his\ntarget with no scope!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_900A_REZN": {
+  "en": "^1REZNOV: ^7Dimitri! If you tire of sniping you can\nuse the mounted MG!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_901A_REZN": {
+  "en": "^1REZNOV: ^7Mow them down!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_902A_REZN": {
+  "en": "^1REZNOV: ^7Watch the building.\nHe will be coming out any second now.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_903A_REZN": {
+  "en": "^1REZNOV: ^7He's moving! Don't let him escape!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_904A_REZN": {
+  "en": "^1REZNOV: ^7Amsel is on the move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_905A_REZN": {
+  "en": "^1REZNOV: ^7Amsel is moving again!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_SNI1_IGD_906A_REZN": {
+  "en": "^1REZNOV: ^7He's on the move!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_1_INFORM_ATTACK_SATCHEL_02": {
+  "en": "^1US MARINE: ^7Satchel, going in!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_1_ORDER_ATTACK_INFANTRY_02": {
+  "en": "^1US MARINE: ^7We need to break through!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_1_ORDER_ATTACK_INFANTRY_04": {
+  "en": "^1US MARINE: ^7Take that position!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_1_ORDER_ATTACK_INFANTRY_05": {
+  "en": "^1US MARINE: ^7This is it Marines, let's get them!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_1_ORDER_MOVE_FOLLOW_00": {
+  "en": "^1US MARINE: ^7On me!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_2_ORDER_MOVE_GENERIC_04": {
+  "en": "^1US MARINE: ^7Come on! Hurry up!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_00B": {
+  "en": "^1ROEBUCK: ^7Everything that was asked\nof us, we've done.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_01B": {
+  "en": "^1ROEBUCK: ^7Every night we lay in a filthy foxhole...\nPrayin' the enemy won't slit our throats.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_02B": {
+  "en": "^1ROEBUCK: ^7Every day we spent crawling\nthrough the mud and dirt \nwhile bullets whistled all around.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_03C": {
+  "en": "^1ROEBUCK: ^7But this is the last time we're\ngonna have to put our lives on the line.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_04B": {
+  "en": "^1ROEBUCK: ^7This is the enemy's last stand.\nWhen we take Shuri Castle, we go home.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_LOADINGMOVIE_OKI3_05B": {
+  "en": "^1ROEBUCK: ^7All of us.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_DIRECTION_RELATIVE_EAST_00": {
+  "en": "^1POLONSKY: ^7East of us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_DIRECTION_RELATIVE_EAST_01": {
+  "en": "^1POLONSKY: ^7To the east!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_DIRECTION_RELATIVE_NORTH_00": {
+  "en": "^1POLONSKY: ^7North of us!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_DIRECTION_RELATIVE_NORTH_01": {
+  "en": "^1POLONSKY: ^7To the north!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_THREAT_TANKS_02": {
+  "en": "^1POLONSKY: ^7Japanese tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_POL_THREAT_TANKS_04": {
+  "en": "^1POLONSKY: ^7Armored vehicles!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_DIRECTION_RELATIVE_EAST_00": {
+  "en": "^1POLONSKY: ^7To the east!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_DIRECTION_RELATIVE_EAST_01": {
+  "en": "^1POLONSKY: ^7East of here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_DIRECTION_RELATIVE_NORTH_00": {
+  "en": "^1POLONSKY: ^7To the north!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_DIRECTION_RELATIVE_NORTH_01": {
+  "en": "^1POLONSKY: ^7North of here!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_LANDMARK_NEAR_MORTARPIT_00": {
+  "en": "^1ROEBUCK: ^7In the mortar pit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_ORDER_ACTION_GRENADE_03": {
+  "en": "^1ROEBUCK: ^7Blow 'em to hell!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_ORDER_ACTION_GRENADE_08": {
+  "en": "^1ROEBUCK: ^7What you waiting for?!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_THREAT_TANKS_00": {
+  "en": "^1ROEBUCK: ^7TANKS!!!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_ROE_THREAT_TANKS_01": {
+  "en": "^1ROEBUCK: ^7Enemy tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_SUL_LANDMARK_NEAR_MORTARPIT_00": {
+  "en": "^1SULLIVAN: ^7In the mortar pit!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_SUL_THREAT_TANKS_01": {
+  "en": "^1SULLIVAN: ^7Enemy tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SUBTITLE_US_SUL_THREAT_TANKS_02": {
+  "en": "^1SULLIVAN: ^7Japanese tanks!",
+  "zones": [
+   "common"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_A_VIDEO11": {
+  "en": "^1REZNOV: ^7With the line at Seelow now broken, nothing stands between the Red Army and Berlin.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_A_VIDEO12": {
+  "en": "^1REZNOV: ^7Every day, we carve deeper into German territory.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_A_VIDEO13": {
+  "en": "^1REZNOV: ^7Every day, fear and desperation erode their will.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_A_VIDEO14": {
+  "en": "^1REZNOV: ^7When our train reaches Berlin, they will have nowhere left to hide.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_B_VIDEO11": {
+  "en": "^1REZNOV: ^7Our grip tightens around the black heart of Berlin.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_B_VIDEO12": {
+  "en": "^1REZNOV: ^7The Fuhrer demands all to shed their last drop of blood in it's defense.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_B_VIDEO13": {
+  "en": "^1REZNOV: ^7The old...  the young...  the weak...",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_B_VIDEO14": {
+  "en": "^1REZNOV: ^7If they stand for Germany...  They die for Germany.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_B_VIDEO15": {
+  "en": "^1REZNOV: ^7Building by building...  Room by room...  One rat at a time.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_C_VIDEO11": {
+  "en": "^1REZNOV: ^7The Red army encircles the Reichstag - their parliament building and final stronghold of the fascist Reich.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_C_VIDEO12": {
+  "en": "^1REZNOV: ^7In the surrounding streets we choke the life from those who would still dare to defend it.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_C_VIDEO13": {
+  "en": "^1REZNOV: ^7It is an honor and a privilege to play a part in this glorious battle.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_C_VIDEO14": {
+  "en": "^1REZNOV: ^7When our flag flies over the city, our enemy's defeat and humiliation will be beyond question.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_C_VIDEO15": {
+  "en": "^1REZNOV: ^7Our vengeance will be complete... ",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_D_VIDEO11": {
+  "en": "^1REZNOV: ^7The path towards our glorious victory has been a journey of blood and brutality.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_D_VIDEO12": {
+  "en": "^1REZNOV: ^7All of it has been necessary.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_D_VIDEO14": {
+  "en": "^1REZNOV: ^7When the flag of our Motherland flies atop the Reichstag...",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_BERLIN_D_VIDEO15": {
+  "en": "^1REZNOV: ^7All of Berlin will know that the evil of the Fascist reich has been wiped from the face of the earth.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_MAKIN_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Makin Atoll - little more than sand, trees and a small Japanese Military base.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_MAKIN_VIDEO12": {
+  "en": "^1ROEBUCK: ^7Miller's reconnaissance team landed there almost a week ago. Since then - we've heard nothing.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_MAKIN_VIDEO13": {
+  "en": "^1ROEBUCK: ^7The waiting's over, we're going in. For all we know they're already dead.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_MAKIN_VIDEO14": {
+  "en": "^1ROEBUCK: ^7If what little we know about the Japanese is true, it might be better if they are.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Status report?",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO12": {
+  "en": "^1ROEBUCK: ^7The last few months on Okinawa have taken their toll...  ",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO13": {
+  "en": "^1ROEBUCK: ^7Morale is low.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO14": {
+  "en": "^1ROEBUCK: ^7It's the rain, sir... and the mud.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO15": {
+  "en": "^1ROEBUCK: ^7Tanks are getting bogged down.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO16": {
+  "en": "^1ROEBUCK: ^7Supplies aren't getting through.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO17": {
+  "en": "^1ROEBUCK: ^7We can't even get the wounded out.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_A_VIDEO18": {
+  "en": "^1ROEBUCK: ^7Yes, sir...  Understood...",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Everything that was asked of us - we've done.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO12": {
+  "en": "^1ROEBUCK: ^7Every night we lay in a filthy foxhole - prayin' the enemy won't slit our throats.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO13": {
+  "en": "^1ROEBUCK: ^7Every day we spent crawling through the mud and the dirt while bullets whistled all around.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO15": {
+  "en": "^1ROEBUCK: ^7But this is the last time we're gonna have to put our lives on the line.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO16": {
+  "en": "^1ROEBUCK: ^7This is the enemy's last stand. When we take Shuri Castle, we go home.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OKINAWA_B_VIDEO17": {
+  "en": "^1ROEBUCK: ^7All of us.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO11": {
+  "en": "^1PRESIDENT TRUMAN: ^7General Eisenhower informs me,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO12": {
+  "en": "^1PRESIDENT TRUMAN: ^7that the forces of Germany\nhave surrendered to the United Nations.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO13": {
+  "en": "^1PRESIDENT TRUMAN: ^7The victory won in the West,\nmust now be won in the East.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO14": {
+  "en": "^1GENERAL MACARTHUR: ^7We are gathered here,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO15": {
+  "en": "^1GENERAL MACARTHUR: ^7representatives of the major warring powers,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO16": {
+  "en": "^1GENERAL MACARTHUR: ^7to conclude a solemn agreement,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO17": {
+  "en": "^1GENERAL MACARTHUR: ^7whereby peace may be restored.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO18": {
+  "en": "^1GENERAL MACARTHUR: ^7It is my earnest hope,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO19": {
+  "en": "^1GENERAL MACARTHUR: ^7and indeed the hope of all mankind,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO20": {
+  "en": "^1GENERAL MACARTHUR: ^7that from this solemn occasion,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO21": {
+  "en": "^1GENERAL MACARTHUR: ^7a better world shall emerge out\nof the blood and carnage of the past.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO22": {
+  "en": "^1GENERAL MACARTHUR: ^7A world founded upon faith and understanding,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO23": {
+  "en": "^1GENERAL MACARTHUR: ^7of man and the fufillment \nof his most cherished wish,",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_OUTRO_VIDEO24": {
+  "en": "^1GENERAL MACARTHUR: ^7of freedom, tolerance and justice.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PBY_VIDEO11": {
+  "en": "^1ROEBUCK: ^7The battle of Peleliu finally came to an end in November of 1944.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PBY_VIDEO12": {
+  "en": "^1ROEBUCK: ^7Three bitter months after it was supposed to.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PBY_VIDEO13": {
+  "en": "^1ROEBUCK: ^7When we shipped out for Okinawa, the airfield became a vital asset in the campaign.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PBY_VIDEO14": {
+  "en": "^1ROEBUCK: ^7Among those stationed there are the  crews of US Navy Black Cats.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PBY_VIDEO15": {
+  "en": "^1ROEBUCK: ^7Men who would risk everything before they would leave any of us in enemy waters.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_A_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Years after the raid on Makin, we're heading up an all out assault on Peleliu Island... ",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_A_VIDEO12": {
+  "en": "^1ROEBUCK: ^7No POW's to rescue this time... Our mission: take the airfield and cripple their supply network.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_A_VIDEO13": {
+  "en": "^1ROEBUCK: ^7Alongside familiar faces, fresh faced recruits.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_A_VIDEO14": {
+  "en": "^1ROEBUCK: ^7The older guys like Miller, Sergeant Sullivan and myself, we're known as \"The old breed\".",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_A_VIDEO15": {
+  "en": "^1ROEBUCK: ^7\"Old\"... we're not even out of our twenties.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_B_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Though we've taken the airfield, the enemy still hold onto most of the inland areas of the island.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_B_VIDEO12": {
+  "en": "^1ROEBUCK: ^7A maze of trenches and artillery positions run right through the this whole Godforsaken rock.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_B_VIDEO13": {
+  "en": "^1ROEBUCK: ^7The enemy's dug in deep, and we have to get our hands dirty.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_B_VIDEO14": {
+  "en": "^1ROEBUCK: ^7Flamethrowers.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_B_VIDEO15": {
+  "en": "^1ROEBUCK: ^7We'll burn 'em out.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_C_VIDEO11": {
+  "en": "^1ROEBUCK: ^7Getting this far has been tougher than any of us could ever have imagined.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_C_VIDEO12": {
+  "en": "^1ROEBUCK: ^7Taking the airfield and the mortar pits showed us \nthat the enemy will fight to the death for every last inch of this rock.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_C_VIDEO13": {
+  "en": "^1ROEBUCK: ^7They're making their last stand in the jungles and caves that surround the heavy guns on the point.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_C_VIDEO14": {
+  "en": "^1ROEBUCK: ^7We take them... and we take Peleliu.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_D_VIDEO11": {
+  "en": "^1ROEBUCK: ^7We're all numbed by Sullivan's death.  We just never saw it coming, I still can't believe it.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_D_VIDEO12": {
+  "en": "^1ROEBUCK: ^7The most solid, dependable and courageous Marine we've ever known. Blink of an eye, gone.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_D_VIDEO13": {
+  "en": "^1ROEBUCK: ^7Now it's down to me, and me alone, to lead these men, my brothers, safely through this campaign.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_D_VIDEO14": {
+  "en": "^1ROEBUCK: ^7AA fire from Peleliu airfield is knocking our planes right out the sky. Taking this airfield is our only priority.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_PELELIU_D_VIDEO15": {
+  "en": "^1ROEBUCK: ^7Whatever the cost.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_A_VIDEO11": {
+  "en": "^1REZNOV: ^7The Red Army's advance into Germany is swift and brutal.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_A_VIDEO12": {
+  "en": "^1REZNOV: ^7In mere months, we have reached Seelow Heights - the last line of defense before the German capital.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_A_VIDEO13": {
+  "en": "^1REZNOV: ^7We outnumber the Germans ten to one!  Wave upon wave of our infantry are unleashed upon them to clear the way for our armor.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_A_VIDEO14": {
+  "en": "^1REZNOV: ^7Once we have control of Seelow, we will begin the march to Berlin.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_A_VIDEO15": {
+  "en": "^1REZNOV: ^7There, we will ensure that every sacrifice is repaid in blood.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_B_VIDEO11": {
+  "en": "^1REZNOV: ^7We have lost many brave men, but their sacrifice is not in vain.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_B_VIDEO12": {
+  "en": "^1REZNOV: ^7Our tanks now form a line of steel so powerful that all German resistance will be crushed beneath its mighty treads. ",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_B_VIDEO13": {
+  "en": "^1REZNOV: ^7Today - We will watch as Seelow falls.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SEELOW_B_VIDEO14": {
+  "en": "^1REZNOV: ^7Along with all those foolish enough to stand in our way.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SNIPER_VIDEO11": {
+  "en": "^1REZNOV: ^7The rotten cancer of the fascist Reich ravages Europe like a plague.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SNIPER_VIDEO12": {
+  "en": "^1REZNOV: ^7Their relentless drive into our motherland steals the lives of men, women and children alike.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SNIPER_VIDEO13": {
+  "en": "^1REZNOV: ^7The arrogance of their leaders is matched only by the brutality of their soldiers.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ },
+ "VIDSUBTITLES_SNIPER_VIDEO14": {
+  "en": "^1REZNOV: ^7These are the darkest days of the Nazi occupation of Stalingrad.",
+  "zones": [
+   "code_post_gfx"
+  ]
+ }
+}

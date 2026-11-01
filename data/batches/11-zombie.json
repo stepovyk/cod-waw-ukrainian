@@ -1,0 +1,2576 @@
+{
+ "PATCH_30CAL_UPGRADED": {
+  "en": "B115 accelerator",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_357MAGNUM_UPGRADED": {
+  "en": ".357 Plus 1 K1L-u",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_360ONLY_MISSINGMAP": {
+  "en": "You do not have this map or the content is damaged. You can get this map by downloading map packs from Xbox LIVE Marketplace.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_ADD_CURRENT_SERVER_TO_FAVORITES": {
+  "en": "Add current server to favorites",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_AMERICAN_HERO_DESC": {
+  "en": "Tank Dempsey: American hero. Hand him a loaded weapon, a good woman, and something to shoot at and he is happy. Enrage him and he will rip your guts out and use them as a bandolier. \n...\nDempsey was selected for this mission after he showed his true grit at the battle for Peleliu. Remarkable though it may seem, his unit was captured during the early raids before the main invasion, and he spent 2 weeks in a rat infested bamboo cage submerged in malarial water. Well that did not stop The Tank. After he gnawed his way through the cage, he then gnawed his way through his captors armed only with a Bobby pin and his Medal of Honor which he keeps secreted in various body cavities. \n...\nNow you know there is no before the war for Dempsey, and there is no after. There is only the legend of Tank Dempsey, and how he will win the war for the rest of us. \n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_AMERICAN_HERO_NAME": {
+  "en": "Tank Dempsey",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BAR_UPGRADED": {
+  "en": "The Widow Maker",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BGATE": {
+  "en": "Breach",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BGATE_CAPS": {
+  "en": "BREACH",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BRANDENBURG": {
+  "en": "Brandenburg",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BRANDENBURG_CAPS": {
+  "en": "BRANDENBURG",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_BROUGHT_TO_YOU": {
+  "en": "Brought to you by...",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_BGATE_A": {
+  "en": "Street",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_BGATE_B": {
+  "en": "Courtyard",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_BGATE_C": {
+  "en": "Gate House",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_BGATE_D": {
+  "en": "Park",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_BGATE_E": {
+  "en": "Car Lot",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DOCKS_A": {
+  "en": "Dock",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DOCKS_B": {
+  "en": "Sub Bow",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DOCKS_C": {
+  "en": "Plane Repair",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DOCKS_D": {
+  "en": "Sub Stern",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DOCKS_E": {
+  "en": "Planning Room",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DRUM_A": {
+  "en": "Crater",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DRUM_B": {
+  "en": "Battery E",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DRUM_C": {
+  "en": "Mess Hall",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DRUM_D": {
+  "en": "Tower",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_DRUM_E": {
+  "en": "Crane",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KNEEDEEP_A": {
+  "en": "Creek",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KNEEDEEP_B": {
+  "en": "Yard",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KNEEDEEP_C": {
+  "en": "Bridge",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KNEEDEEP_D": {
+  "en": "Bunker",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KNEEDEEP_E": {
+  "en": "Rice Paddy",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KWAI_A": {
+  "en": "East Side",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KWAI_B": {
+  "en": "Village",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KWAI_C": {
+  "en": "Waterfall",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KWAI_D": {
+  "en": "Well",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_KWAI_E": {
+  "en": "West Side",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_STALINGRAD_A": {
+  "en": "Trainyard",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_STALINGRAD_B": {
+  "en": "Factory",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_STALINGRAD_C": {
+  "en": "Sulfur Spill",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_SUBWAY_A": {
+  "en": "East Platform",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_SUBWAY_B": {
+  "en": "Service Stands",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_SUBWAY_C": {
+  "en": "Rubble Hill",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_SUBWAY_D": {
+  "en": "Boiler Room",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_SUBWAY_E": {
+  "en": "West Platform",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_A": {
+  "en": "Store Front",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_B": {
+  "en": "Balcony",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_C": {
+  "en": "Distillery",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_D@localized_common_mp": {
+  "en": "Factory",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_D@patch": {
+  "en": "Brandenburg",
+  "zones": [
+   "patch"
+  ]
+ },
+ "PATCH_CALLSIGN_VODKA_E": {
+  "en": "Loading Dock",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_CANNOT_FIND_ZONE": {
+  "en": "The content that you are attempting to load cannot be found or is from an incorrect region. Please ensure that your disc is clean and that you have the correct downloadable content.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_COLT45_UPGRADED": {
+  "en": "C-3000 b1at-ch35",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DLC_MAP_PACK_1": {
+  "en": "Map Pack One",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DLC_MAP_PACK_2": {
+  "en": "Map Pack Two",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DLC_MAP_PACK_3": {
+  "en": "Map Pack Three",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DOWNLOADABLE_CONTENT_DAMAGED": {
+  "en": "Downloadable content is damaged.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DRUM": {
+  "en": "Battery",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_DRUM_CAPS": {
+  "en": "BATTERY",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_FG42_UPGRADED": {
+  "en": "420 Impeller",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_GERMAN_HERO_DESC": {
+  "en": "\"Beware The Doc\". A message that was scrawled across walls of every town under Axis control. Starvation may cripple you, dysentery may wreck you, and gunfire may rip the flesh from your bones, but \"Beware The Doc\".\n\n...\nThis is Dr. Richtofen, known affectionately as The Butcher to his victims as they scream in agony moments before he snuffs out their light. All through his career, Richtofen has been at the forefront of torture and information extraction research. Richtofen is an incurable sociopath and sees no moral distinction between natural death and murder; the victim is the victim, regardless of how their demise manifests itself. \n...\nDoctor Richtofen has a collection of stuffed animals, most of them posed in positions of terror at the instant of their death.\n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_GERMAN_HERO_NAME": {
+  "en": "Doctor Richtofen",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_GET_DLC": {
+  "en": "DOWNLOAD MAPS",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_GEWEHR43_UPGRADED": {
+  "en": "G115 Compressor",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_HERO_BIO_CAP": {
+  "en": "CHARACTER BIOS",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_JAPANESE_HERO_DESC": {
+  "en": "Enter Takeo, for whom life has no meaning if not to perfect your discipline and to reveal true character and honor. Perhaps he ponders this and other philosophical questions as his Katana slices through the flesh and sinew of his enemy. \n...\nOur hero was born into wealth; his family dynasty dates back several centuries, and throughout that time they have been highly decorated Samurai and Bushi. Well Takeo is no exception to this celebrated bloodline. Even when the family first saw the young, life-filled 5 year old Takeo playing in the street with his Katana and slicing the tails off terrified kittens, it was obvious he was destined to bring honor to the Masaki name. \n...\nReserved and reflective, the war is a perfect opportunity for Takeo to explore his bloodlust and study the nature of those less honorable than himself, so if you fall victim to his swift action and might know that you have helped a man better than you reach enlightenment. \n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_JAPANESE_HERO_NAME": {
+  "en": "Takeo Masaki",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_KAR98K_UPGRADED": {
+  "en": "Armageddon",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_KNEEDEEP": {
+  "en": "Knee Deep",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_KNEEDEEP_CAPS": {
+  "en": "KNEE DEEP",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_KWAI": {
+  "en": "Banzai",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_KWAI_CAPS": {
+  "en": "BANZAI",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_ASYLUM": {
+  "en": "Electroshock therapy. Chemically engineered beverages. Hordes of undead Nazis. Find the power to unite and send them back to their graves!",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_COAST": {
+  "en": "Zombie Coast Description",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_FACTORY": {
+  "en": "The Giant is rising. Face the might of the Nazi Zombies in their heartland. This is where it all began. This is where the master plan took shape. Is this where it all ends?",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_PARIS": {
+  "en": "Zombie Paris Description",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_SUMPF": {
+  "en": "Maggot ridden corpses. Bug infested swamp. Hundreds of undead Imperial Army. Choose your tactic and defend for your lives!",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_TEST_MAP": {
+  "en": "See all the newest features here.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_DESC_ZOM_THEATER": {
+  "en": "Hello, and welcome to another episode of Zombie Piece Theater",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_ASYLUM": {
+  "en": "Zombie Verrückt",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_COAST": {
+  "en": "Zombie Coast",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_FACTORY": {
+  "en": "Der Riese",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_PARIS": {
+  "en": "Zombie Paris",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_SUMPF": {
+  "en": "Shi No Numa",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_TEST": {
+  "en": "Feature Test Map (Dev Only)",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LEVEL_ZOMBIE_THEATER": {
+  "en": "Zombie Theater",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LOADMOD_DEMO": {
+  "en": "This demo is running the mod ^3&&1^7.\nYou need to load the mod before you can watch the demo.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_LOADMOD_JOIN": {
+  "en": "This server is running the mod ^3&&1^7.\nYou need to load the mod before you can join the server.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_M1A1CARBINE_UPGRADED": {
+  "en": "Widdershins RC-1",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_M1GARAND_UPGRADED": {
+  "en": "M1000",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_M2_FLAMETHROWER_UPGRADED": {
+  "en": "FIW Nitrogen cooled\n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_M7_LAUNCHER_UPGRADED": {
+  "en": "The Imploder",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_M7_LAUNCHER_UPGRADED_NONADE@localized_common_mp": {
+  "en": "The Imploder",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "PATCH_M7_LAUNCHER_UPGRADED_NONADE@patch": {
+  "en": "Longinus",
+  "zones": [
+   "patch"
+  ]
+ },
+ "PATCH_MAKIN_BONUS_MAP": {
+  "en": "Makin Bonus Map",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_MAKIN_DAY": {
+  "en": "Makin Day",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_MAKIN_DAY_CAPS": {
+  "en": "MAKIN DAY",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_MG42_UPGRADED": {
+  "en": "Barracuda FU-A11",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_MISSINGMAP": {
+  "en": "You do not have this map. You can get this map by downloading map packs from PlayStation®Store.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_MP40_UPGRADED": {
+  "en": "The Afterburner",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_NACHTFEUER": {
+  "en": "Nightfire",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_NACHTFEUER_CAPS": {
+  "en": "NIGHTFIRE",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_NAZI_ZOMBIES_CAP": {
+  "en": "NAZI ZOMBIES",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_NOMAD": {
+  "en": "Nomad",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_OFFLINE": {
+  "en": "^1offline^7",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_ONLINE": {
+  "en": "^2online^7",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_PANZERSCHREK_UPGRADED": {
+  "en": "Longinus",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_PLAYER_DOESNT_HAVE_MAP_PACK": {
+  "en": "&&2 disabled!\n&&1 does not have the map pack.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_PLAYLIST_REQUIRES_DLC": {
+  "en": "This playlist requires a map pack that you do not have. You can download map packs from the PlayStation®Store.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_PPSH_UPGRADED": {
+  "en": "The Reaper",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_PTRS41_UPGRADED": {
+  "en": "The Penetrator",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_RAY_GUN_UPGRADED": {
+  "en": "Porter's X2 Ray Gun",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_RUSSIAN_HERO_DESC": {
+  "en": "Stalin himself cannot stare Nikolai in the eye, no one can. There, in his eyes, you will see the soul of a man burning with the hatred of all things living. His closet is full of skeletons, many of them with the flesh still attached. \n...\nEarly in his career, Nikolai had quickly made his way up through the party ranks by killing the next man in line, and by marrying politically. Ultimately, his aspirations all came crashing down after his fifth wife mysteriously died while cleaning his axe with her neck. Little did he know that she had been sleeping with a high ranking party official on the side. This made Nikolai infamous, and his reputation spread quickly through the party. It was not long before Stalin himself had heard about Nikolai. More importantly, he feared Nikolai. As soon as the war started, our hero was dropped on the front lines and forgotten about, where he wallowed in self pity and Vodka for several years.  \n...\nThere are many weapons in his arsenal, not least of which is his breath.\n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_RUSSIAN_HERO_NAME": {
+  "en": "Nikolai Belinski",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SCRIPTS_OUT_OF_DATE": {
+  "en": "Save game data is incompatible with the current version of the game. You may continue from the beginning of your most recent mission or exit to the menus.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SERVER_AUTHFAIL": {
+  "en": "Server authentication failure. Please try again.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED": {
+  "en": "The Snuff Box",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SHOTGUN_DOUBLE_BARRELED_UPGRADED": {
+  "en": "24 Bore long range",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SHOTGUN_UPGRADED": {
+  "en": "Gut Shot",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SP_UNLOCK_DESC": {
+  "en": "Access this co-op game mode in the Online playlists and Custom Match game settings.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_STALINGRAD": {
+  "en": "Corrosion",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_STALINGRAD_CAPS": {
+  "en": "CORROSION",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_STATSERROR": {
+  "en": "It appears as though the persistent rank data for '&&4' has been corrupted. Your rank has been restored to the most recently stored backup: &&1 Lvl &&2.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_STATSERRORPRESTIGE": {
+  "en": "It appears as though the persistent rank data for '&&4' has been corrupted. Your rank has been restored to the most recently stored backup: &&1 Lvl &&2 Prestige &&3.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_STG-44_UPGRADED": {
+  "en": "Spatz-447 +",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SUBWAY": {
+  "en": "Station",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SUBWAY_CAPS": {
+  "en": "STATION",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SUB_PENS": {
+  "en": "Sub Pens",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SUB_PENS_CAPS": {
+  "en": "SUB PENS",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_SYSTEMLINK_WARNING": {
+  "en": "All users must have the same game version to play System Link games. Please sign into Xbox LIVE to ensure that you have the latest update to the game.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_TEAM_ALTERNATE_COLOR": {
+  "en": "Alternative Color Scheme",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_TESLA_GUN": {
+  "en": "Wunderwaffe DG-2",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_TESLA_GUN_UPGRADED": {
+  "en": "Wunderwaffe DG-3 JZ\n",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_THOMPSON_UPGRADED": {
+  "en": "Gibs-o-matic",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_TYPE100_SMG_UPGRADED": {
+  "en": "1001 Samurais",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_TYPE99_RIFLE_UPGRADED": {
+  "en": "The Eviscerator",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_UNHANDLEDEXCEPTION": {
+  "en": "There was a problem reading your data. Please ensure all storage devices are connected properly and your game disc is clean.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_UNLOADMOD": {
+  "en": "This server is not running a mod.\nYou need to unload your mod before you can join the server.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_VODKA": {
+  "en": "Revolution",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_VODKA_CAPS": {
+  "en": "REVOLUTION",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_WRONGNETCODE": {
+  "en": "The game versions are incompatible for online play in this mode.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_ZOMBIE_MAPS": {
+  "en": "Nazi Zombies",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "PATCH_ZOMBIE_MAPS_DESC": {
+  "en": "Select a Nazi Zombies level to play in Solo mode.",
+  "zones": [
+   "localized_common_mp",
+   "patch"
+  ]
+ },
+ "ZOMBIE_ACTIVATE_TELEPORTER": {
+  "en": "Press & hold &&1 to activate teleporter",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_ACTIVATE_TRAP": {
+  "en": "Press & hold &&1 to Activate Trap [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_AMMO_BOX": {
+  "en": "Press & Hold &&1 to buy Max Ammo: [Costs everything you have - minimum 10,000]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_AUTO_TURRET": {
+  "en": "Press & hold [{+activate}] to activate automatic Turret [Cost &&1]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_BETTY_ALREADY_PURCHASED": {
+  "en": "You have already purchased Bouncing Betties",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BETTY_HOWTO": {
+  "en": "Press [{+actionslot 4}] then [{+attack}] to place a bouncing betty",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BETTY_PURCHASE": {
+  "en": "Press & hold &&1 to buy Bouncing Betty  [Cost: 1000 - one time only ]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BUILD_BRIDGE": {
+  "en": "Press & hold &&1 to Build Bridge [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_BACK_BARRIER_10": {
+  "en": "Press & hold &&1 to buy back Barrier [Cost: 10]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_BACK_BARRIER_100": {
+  "en": "Press & hold &&1 to buy back Barrier [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_BACK_BARRIER_20": {
+  "en": "Press & hold &&1 to buy back Barrier [Cost: 20]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_BACK_BARRIER_50": {
+  "en": "Press & hold &&1 to buy back Barrier [Cost: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 1250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 1750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750": {
+  "en": "Press & hold &&1 to Clear Debris [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_100": {
+  "en": "Press & hold &&1 to Open Area [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_1000": {
+  "en": "Press & hold &&1 to Open Area [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_1250": {
+  "en": "Press & hold &&1 to Open Area [Cost: 1250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_1500": {
+  "en": "Press & hold &&1 to Open Area [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_1750": {
+  "en": "Press & hold &&1 to Open Area [Cost: 1750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_200": {
+  "en": "Press & hold &&1 to Open Area [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_2000": {
+  "en": "Press & hold &&1 to Open Area [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_250": {
+  "en": "Press & hold &&1 to Open Area [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_2500": {
+  "en": "Press & hold &&1 to Open Area [Cost: 2500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_500": {
+  "en": "Press & hold &&1 to Open Area [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_AREA_750": {
+  "en": "Press & hold &&1 to Open Area [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_100": {
+  "en": "Press & hold &&1 to Open Door [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000": {
+  "en": "Press & hold &&1 to Open Door [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250": {
+  "en": "Press & hold &&1 to Open Door [Cost: 1250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500": {
+  "en": "Press & hold &&1 to Open Door [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750": {
+  "en": "Press & hold &&1 to Open Door [Cost: 1750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_200": {
+  "en": "Press & hold &&1 to Open Door [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000": {
+  "en": "Press & hold &&1 to Open Door [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_250": {
+  "en": "Press & hold &&1 to Open Door [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500": {
+  "en": "Press & hold &&1 to Open Door [Cost: 2500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_500": {
+  "en": "Press & hold &&1 to Open Door [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_BUY_OPEN_DOOR_750": {
+  "en": "Press & hold &&1 to Open Door [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_NORTH_FLAMES": {
+  "en": "Press & hold &&1 to activate the electric barrier [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER": {
+  "en": "Press & hold &&1 to Rebuild Barrier",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER_10": {
+  "en": "Press & hold &&1 to Rebuild Barrier [Reward: 10]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER_20": {
+  "en": "Press & hold &&1 to Rebuild Barrier [Reward: 20]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER_30": {
+  "en": "Press & hold &&1 to Rebuild Barrier [Reward: 30]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER_40": {
+  "en": "Press & hold &&1 to Rebuild Barrier [Reward: 40]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_REWARD_BARRIER_50": {
+  "en": "Press & hold &&1 to Rebuild Barrier [Reward: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_BUTTON_SOUTH_FLAMES": {
+  "en": "Press & hold &&1 to activate the flame barrier [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_BUY_TESLA": {
+  "en": "Press & Hold &&1 to buy Tesla Gun [cost : 10]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_CABINET_OPEN_1000": {
+  "en": "Press & hold &&1 to Open Cabinet [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_CABINET_OPEN_1500": {
+  "en": "Press & hold &&1 to Open Cabinet [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_CABINET_OPEN_2000": {
+  "en": "Press & hold &&1 to Open Cabinet [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_CABINET_OPEN_500": {
+  "en": "Press & hold &&1 to Open Cabinet [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_CLEAR_DEBRIS": {
+  "en": "Gate must be opened first",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_COAST_ZIPLINE": {
+  "en": "Press & hold &&1 to use zipline [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_COAST_ZIPLINE_ACTIVATE": {
+  "en": "Press & hold &&1 to activate zipline",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_COAST_ZIPLINE_WAIT": {
+  "en": "The zipline must be activated first",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_ELECTRIC_SWITCH": {
+  "en": "Press & hold &&1 to turn on the electricity",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_FLAMES_UNAVAILABLE": {
+  "en": "The power must be activated first",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_GAME_OVER": {
+  "en": "GAME OVER",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_GET_UPGRADED": {
+  "en": "Press & Hold &&1 to take your upgraded weapon",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_INACTIVE_TPAD": {
+  "en": "Need to activate teleport pad",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN": {
+  "en": "Berlin, Germany",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER": {
+  "en": "Wittenau Sanatorium ",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER": {
+  "en": "September, 1945",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_INTRO_FACTORY_LEVEL_DATE": {
+  "en": "Date: Unknown",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_INTRO_FACTORY_LEVEL_PLACE": {
+  "en": "Near Breslau, Germany",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_INTRO_FACTORY_LEVEL_TIME": {
+  "en": "Time: Unknown",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_LINK_ACTIVE": {
+  "en": "Link activated",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_LINK_TPAD": {
+  "en": "Press & hold &&1 to link the teleport pad to the mainframe",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_PAY_TURRET": {
+  "en": "Press & hold [{+activate}] to Use Turret [Cost: &&1]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_PERK_DOUBLETAP": {
+  "en": "Press & hold &&1 to buy Double Tap Root Beer [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_PERK_FASTRELOAD": {
+  "en": "Press & hold &&1 to buy Speed Cola [Cost: 3000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_PERK_GENERIC": {
+  "en": "Press & hold &&1 to buy ",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_PERK_JUGGERNAUT": {
+  "en": "Press & hold &&1 to buy Jugger-Nog [Cost: 2500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_PERK_PACKAPUNCH": {
+  "en": "Press & hold &&1 to buy Pack A Punch Upgrade [Cost: 5000]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_PERK_QUICKREVIVE": {
+  "en": "Press & hold &&1 to buy Revive [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_PLAYERZOMBIE_DOWNED": {
+  "en": "Zombie down!",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_POWERUP_DOUBLE_POINTS": {
+  "en": "Double Points: ",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_POWERUP_INSTA_KILL": {
+  "en": "Insta-Kill: ",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_POWERUP_MAX_AMMO": {
+  "en": "Max Ammo!",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_POWERUP_NUKE": {
+  "en": "Zombie Nuke!",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_POWER_UP_TPAD": {
+  "en": "Press & hold &&1 to initiate link to the mainframe",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_PROJ_DOOR": {
+  "en": "Press & hold &&1 to Open Door",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_PROJ_LIFT": {
+  "en": "Press & hold &&1 to Activate Lift [Cost: 500]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_RANDOM_WEAPON_650": {
+  "en": "Press &&1 for a Random Weapon [Cost: 650]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_RANDOM_WEAPON_750": {
+  "en": "Press &&1 for a Random Weapon [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_RANDOM_WEAPON_850": {
+  "en": "Press &&1 for a Random Weapon [Cost: 850]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_RANDOM_WEAPON_950": {
+  "en": "Press &&1 for a Random Weapon [Cost: 950]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_ROUND": {
+  "en": "Round",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_ROUND_BEGIN": {
+  "en": "Let The Onslaught Begin",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_ROUND_END": {
+  "en": "Onslaught Survived",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_START_TPAD": {
+  "en": "Get back to the core",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_SURVIVED_ROUND": {
+  "en": "You Survived 1 Round",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_SURVIVED_ROUNDS": {
+  "en": "You Survived &&1 Rounds",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_TELEPORT_COOLDOWN": {
+  "en": "Teleporter is cooling down",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_TELEPORT_TO_CORE": {
+  "en": "Press & hold &&1 to teleport to the mainframe [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_TRADE_WEAPONS@localized_nazi_zombie_asylum": {
+  "en": "Press &&1 to trade weapons",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_TRADE_WEAPONS@localized_nazi_zombie_factory": {
+  "en": "Press & hold &&1 to trade Weapons",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_TRADE_WEAPONS@localized_nazi_zombie_sumpf": {
+  "en": "Press & hold &&1 to trade Weapons",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_TRADE_WEAPONS@nazi_zombie_prototype": {
+  "en": "Press &&1 to trade weapons",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_TRAP_DOOR": {
+  "en": "Press & hold &&1 to activate Trap Door [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_UNDEFINED": {
+  "en": "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_USE_AUTO_TURRET": {
+  "en": "Press & hold &&1 to activate the Fountain Turret [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_USE_TELEPORTER": {
+  "en": "Press & hold &&1 to use teleporter [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPONCOSTAMMO@localized_nazi_zombie_asylum": {
+  "en": "For Weapon [Cost: &&1], For Ammo [Cost: &&2]",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPONCOSTAMMO@localized_nazi_zombie_factory": {
+  "en": "For Weapon [Cost: &&1], Ammo [&&2], Upgraded Ammo [Cost: 4500]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPONCOSTAMMO@localized_nazi_zombie_sumpf": {
+  "en": "For Weapon [Cost: &&1], For Ammo [Cost: &&2]",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPONCOSTAMMO@nazi_zombie_prototype": {
+  "en": "For Weapon [Cost: &&1], For Ammo [Cost: &&2]",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_30CAL_3000": {
+  "en": "Press & hold &&1 to buy Browning M1919 [Cost: 3000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_30CAL_BIPOD_3500": {
+  "en": "Press & hold &&1 to buy Browning M1919 + Bipod [Cost: 3500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_BAR_1800": {
+  "en": "Press & hold &&1 to buy BAR [Cost: 1800]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_BAR_BIPOD_2500": {
+  "en": "Press & hold &&1 to buy BAR + Bipod [Cost: 2500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_BAZOOKA_2000": {
+  "en": "Press & hold &&1 to buy M9A1 Bazooka [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_BOWIE_BUY": {
+  "en": "Press & hold &&1 to buy Bowie Knife [Cost: 3000]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPON_COLT_50": {
+  "en": "Press & hold &&1 to buy Colt [Cost: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_COLT_DH_100": {
+  "en": "Press & hold &&1 to buy Colt Heavy Duty [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_DOUBLEBARREL_1200": {
+  "en": "Press & hold &&1 to buy Double-Barreled Shotgun [Cost: 1200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200": {
+  "en": "Press & hold &&1 to buy Sawed-Off Shotgun [Cost: 1200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_DP28_2250": {
+  "en": "Press & hold &&1 to buy DP-28 [Cost: 2250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_DP28_BIPOD_2500": {
+  "en": "Press & hold &&1 to buy DP-28 + Bipod [Cost: 2500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_FG42_1500": {
+  "en": "Press & hold &&1 to buy FG42 [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_FG42_BIPOD_2000": {
+  "en": "Press & hold &&1 to buy FG42 + Bipod [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_FG42_S_1500": {
+  "en": "Press & hold &&1 to buy FG42 + Scope [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_FRAGGRENADE_250": {
+  "en": "Press & hold &&1 to buy M2 Frag Grenade [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_GEWEHR43_600": {
+  "en": "Press & hold &&1 to buy Gewehr 43 [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_KAR98K_200": {
+  "en": "Press & hold &&1 to buy Kar98k [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_KAR98K_B_200": {
+  "en": "Press & hold &&1 to buy Kar98k + Bayonet [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_KAR98K_S_750": {
+  "en": "Press & hold &&1 to buy Kar98k + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_KAR98K_S_B_750": {
+  "en": "Press & hold &&1 to buy Kar98k + Scope + Bayonet [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M1CARBINE_600": {
+  "en": "Press & hold &&1 to buy M1 Carbine [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M1CARBINE_B_600": {
+  "en": "Press & hold &&1 to buy M1 Carbine + Bayonet [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M1GARAND_600": {
+  "en": "Press & hold &&1 to buy M1 Garand [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M1GARAND_B_600": {
+  "en": "Press & hold &&1 to buy M1 Garand + Bayonet [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M1GARAND_GL_1500": {
+  "en": "Press & hold &&1 to buy M1 Garand + Rifle Grenade [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_M2_FLAMETHROWER_3000": {
+  "en": "Press & hold &&1 to buy Flamethrower [Cost: 3000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MG42_3000": {
+  "en": "Press & hold &&1 to buy MG42 [Cost: 3000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MG42_BIPOD_3500": {
+  "en": "Press & hold &&1 to buy MG42 + Bipod [Cost: 3500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOLOTOV_200": {
+  "en": "Press & hold &&1 to buy Molotov [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MORTARROUND_2000": {
+  "en": "Press & hold &&1 to buy Mortar Rounds [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_200": {
+  "en": "Press & hold &&1 to buy Mosin-Nagant [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_B_200@localized_nazi_zombie_asylum": {
+  "en": "Press &&1 to trade weapons",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_B_200@localized_nazi_zombie_factory": {
+  "en": "Zipline must be activated before use",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_B_200@localized_nazi_zombie_sumpf": {
+  "en": "Zipline must be activated before use",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_B_200@nazi_zombie_prototype": {
+  "en": "Press &&1 to trade weapons",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_GL_1500": {
+  "en": "Press & hold &&1 to buy Mosin-Nagant + Rifle Grenade [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_S_750": {
+  "en": "Press & hold &&1 to buy Mosin-Nagant + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MOSIN_S_B_750": {
+  "en": "Press & hold &&1 to buy Mosin-Nagant + Scope + Bayonet [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_MP40_1000": {
+  "en": "Press & hold &&1 to buy MP40 [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_NAMBU_50": {
+  "en": "Press & hold &&1 to buy Nambu [Cost: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_PANZERSCHREK_2000": {
+  "en": "Press & hold &&1 to buy Panzerschrek [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_PPSH_2000": {
+  "en": "Press & hold &&1 to buy PPSh-41 [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_PTRS41_750": {
+  "en": "Press & hold &&1 to buy PTRS-41 [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_RAYGUN_10000": {
+  "en": "Press & hold &&1 to buy Ray Gun [Cost: 10000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SATCHEL_2000": {
+  "en": "Press & hold &&1 to buy Satchel Charge [Cost: 2000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SHOTGUN_1500": {
+  "en": "Press & hold &&1 to buy M1897 Trench Gun [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SPRINGFIELD_200": {
+  "en": "Press & hold &&1 to buy Springfield [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SPRINGFIELD_B_200": {
+  "en": "Press & hold &&1 to buy SpringField + Bayonet [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SPRINGFIELD_S_750": {
+  "en": "Press & hold &&1 to buy SpringField + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SPRINGFIELD_S_B_750": {
+  "en": "Press & hold &&1 to buy Springfield + Scope + Bayonet [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_STG44_1200": {
+  "en": "Press & hold &&1 to buy STG-44 [Cost: 1200]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_STICKGRENADE_250": {
+  "en": "Press & hold &&1 to buy RGD-33 Stick Grenade [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_STICKY": {
+  "en": "Press & Hold &&1 to buy Sticky Grenade [cost : 10]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_STIELHANDGRANATE_250": {
+  "en": "Press & hold &&1 to buy Stielhandgranate [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SVT40_600": {
+  "en": "Press & hold &&1 to buy SVT-40 [Cost: 600]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_SW357_100": {
+  "en": "Press & hold &&1 to buy .357 Magnum [Cost: 100]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_THOMPSON_1200": {
+  "en": "Press & hold &&1 to buy Thompson [Cost: 1200]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_THOMPSON_1500@localized_nazi_zombie_asylum": {
+  "en": "Press & hold &&1 to buy Thompson [Cost: 1200]",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPON_THOMPSON_1500@nazi_zombie_prototype": {
+  "en": "Press & hold &&1 to buy Thompson [Cost: 1500]",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TOKAREV_50": {
+  "en": "Press & hold &&1 to buy Tokarev TT-30 [Cost: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE100_1000": {
+  "en": "Press & hold &&1 to buy Type 100 [Cost: 1000]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE97FRAG_250": {
+  "en": "Press & hold &&1 to buy Type 97 Frag [Cost: 250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_200@localized_nazi_zombie_asylum": {
+  "en": "Press & hold &&1 to buy Type 99 [Cost: 400]",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_200@localized_nazi_zombie_factory": {
+  "en": "Press & hold &&1 to buy Arisaka [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_200@localized_nazi_zombie_sumpf": {
+  "en": "Press & hold &&1 to buy Arisaka [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_200@nazi_zombie_prototype": {
+  "en": "Press & hold &&1 to buy Type 99 [Cost: 400]",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_B_200@localized_nazi_zombie_asylum": {
+  "en": "Press & hold &&1 to buy Type 99 + Bayonet [Cost: 400]",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_B_200@localized_nazi_zombie_factory": {
+  "en": "Press & hold &&1 to buy Type 99 + Bayonet [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_B_200@localized_nazi_zombie_sumpf": {
+  "en": "Press & hold &&1 to buy Type 99 + Bayonet [Cost: 200]",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_B_200@nazi_zombie_prototype": {
+  "en": "Press & hold &&1 to buy Type 99 + Bayonet [Cost: 400]",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_LMG_1750": {
+  "en": "Press & hold &&1 to buy Type 99 LMG [Cost: 1750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250": {
+  "en": "Press & hold &&1 to buy Type 99 LMG + Bipod [Cost: 2250]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_S_750@localized_nazi_zombie_asylum": {
+  "en": "Press & hold &&1 to buy Type 99 + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_S_750@localized_nazi_zombie_factory": {
+  "en": "Press & hold &&1 to buy Arisaka + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_factory"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_S_750@localized_nazi_zombie_sumpf": {
+  "en": "Press & hold &&1 to buy Arisaka + Scope [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_S_750@nazi_zombie_prototype": {
+  "en": "Press & hold &&1 to buy Type 99 + Scope [Cost: 750]",
+  "zones": [
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_TYPE99_S_B_750": {
+  "en": "Press & hold &&1 to buy Type 99 + Scope + Bayonet [Cost: 750]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_WALTHER_50": {
+  "en": "Press & hold &&1 to buy Walther P38 [Cost: 50]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_WEAPON_ZOMBIECOLT_25": {
+  "en": "Press & hold &&1 to buy Zombie Colt [Cost: 25]",
+  "zones": [
+   "localized_nazi_zombie_asylum",
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf",
+   "nazi_zombie_prototype"
+  ]
+ },
+ "ZOMBIE_ZIPLINE_ACTIVATE": {
+  "en": "Press & hold &&1 to turn on the Zipline",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_ZIPLINE_DEACTIVATED": {
+  "en": "Zipline must be activated before use",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ },
+ "ZOMBIE_ZIPLINE_USE": {
+  "en": "Press & hold &&1 to activate the Zipline [Cost: 1500]",
+  "zones": [
+   "localized_nazi_zombie_factory",
+   "localized_nazi_zombie_sumpf"
+  ]
+ }
+}

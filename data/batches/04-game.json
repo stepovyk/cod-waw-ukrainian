@@ -1,0 +1,3764 @@
+{
+ "AUTOSAVE_AIRFIELD": {
+  "en": "Airfield",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_AIRFIELD1": {
+  "en": "Distraction",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_AUTOSAVE": {
+  "en": "autosave",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BERLIN": {
+  "en": "First Flak88 Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BERLIN1": {
+  "en": "Hold The Line",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BERLIN2": {
+  "en": "Storm The Reichstag",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BERLIN3": {
+  "en": "To The Roof",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT": {
+  "en": "Flank Right",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT1": {
+  "en": "In the Trenches",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT2": {
+  "en": "German Bunkers",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT3": {
+  "en": "Got the Explosives",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT4": {
+  "en": "German Retreat",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT5": {
+  "en": "3 Flaks Detroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT6": {
+  "en": "Approaching the Manor",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT7": {
+  "en": "Second Documents Captured",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BRECOURT8": {
+  "en": "The Last Gun",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE": {
+  "en": "In the House",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE1": {
+  "en": "Sweeping the MG42s",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE2": {
+  "en": "The Halftrack",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE3": {
+  "en": "Cutting through Houses",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE4": {
+  "en": "Church",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE5": {
+  "en": "Flak Attack",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_BURNVILLE6": {
+  "en": "The Final Run",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_CARRIDE": {
+  "en": "Past the Road Block",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_CARRIDE1": {
+  "en": "Entering the Town",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_CARRIDE2": {
+  "en": "Free Kubelwagen",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_CARRIDE3": {
+  "en": "Kubelwagen Escape to HQ",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_CHATEAU": {
+  "en": "Chateau",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM": {
+  "en": "On the Dam",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM10": {
+  "en": "Back to the Top of the Dam",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM2": {
+  "en": "Entering the Dam",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM3": {
+  "en": "The Control Room",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM4": {
+  "en": "Below the Turbines",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM5": {
+  "en": "At the Base of the Dam",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM6": {
+  "en": "Starting the Return",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM7": {
+  "en": "End of the Long Tunnel",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM8": {
+  "en": "Back up the Second Elevator",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAM9": {
+  "en": "Return to the Control Room",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE": {
+  "en": "Finding a Safe Haven",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE1": {
+  "en": "Following Foley",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE2": {
+  "en": "Acquiring Panzerfaust",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE3": {
+  "en": "Defending the Church",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE4": {
+  "en": "On to the Northern Approach",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE5": {
+  "en": "Defending the Northern Approach",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE6": {
+  "en": "Pushing them Back",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE7": {
+  "en": "On to the Mortar Teams",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_DAWNVILLE8": {
+  "en": "In the Trenches",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_FACTORY": {
+  "en": "Entering the Factory",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_FACTORY1": {
+  "en": "Above the Tanks",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_FACTORY2": {
+  "en": "Outside the Factory",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_GAME": {
+  "en": "Begin Game Autosave",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_HURTGEN": {
+  "en": "Regroup With Allies",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_HURTGEN1": {
+  "en": "Retrieving Documents",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_HURTGEN2": {
+  "en": "Documents Acquired",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_LEVELSTART": {
+  "en": "Start",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_NOGAME": {
+  "en": "No Name Specified",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PATHFINDER": {
+  "en": "Ready to Go",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PATHFINDER1": {
+  "en": "Calling in the Cavalry",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PATHFINDER2": {
+  "en": "Cutting Through the Opposition",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PAVLOV": {
+  "en": "Sniper Baiting",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PAVLOV1": {
+  "en": "At the Wall",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PAVLOV2": {
+  "en": "Storming Pavlov's House",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PAVLOV3": {
+  "en": "Final Defense",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PAVLOV4": {
+  "en": "Staying Alive",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PDAY": {
+  "en": "Defending the Bridge",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PDAY2": {
+  "en": "Bridge Skirmish",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PDAY3": {
+  "en": "Stopping the Tanks",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PDAY4": {
+  "en": "Tank Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PDAY5": {
+  "en": "Tank Eliminated",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PNIGHT": {
+  "en": "After the Landing",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PNIGHT1": {
+  "en": "Bunker Captured",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_PNIGHT2": {
+  "en": "New Orders",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP": {
+  "en": "Entering Camp",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP1": {
+  "en": "Approaching Tower",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP2": {
+  "en": "Entering Common Area",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP3": {
+  "en": "Entering Kitchen",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP4": {
+  "en": "Escorting Ingram",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP5": {
+  "en": "Exiting Kitchen",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP6": {
+  "en": "Returning to Tower",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWCAMP7": {
+  "en": "Returning to Truck",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_POWOUTSKIRTS": {
+  "en": "Heading Out",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_RAIL": {
+  "en": "Near the Trains",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_RAIL1": {
+  "en": "Radio Room",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_REDS": {
+  "en": "Suicide Run",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_REDS1": {
+  "en": "Room to Room",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_REDS2": {
+  "en": "Sniper Roost",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_REDS3": {
+  "en": "To the Train Station",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_REDS4": {
+  "en": "Ruins of Stalingrad",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_ROCKET": {
+  "en": "First AA Gun Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_ROCKET1": {
+  "en": "Second AA Gun Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_ROCKET2": {
+  "en": "Convoy Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_ROCKET3": {
+  "en": "V-2 Rockets Found",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_ROCKET4": {
+  "en": "V-2 Rockets Fueled",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER": {
+  "en": "Entering Hall",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER1": {
+  "en": "Past Snipers",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER2": {
+  "en": "Entering Lower Level",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER3": {
+  "en": "Approaching Hardpoint",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER4": {
+  "en": "After Bombed Section",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SEWER5": {
+  "en": "End Battle",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SHIP": {
+  "en": "Welcome Aboard",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SHIP1": {
+  "en": "The Armory",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SHIP2": {
+  "en": "Leaving Lower Decks",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_SHIP3": {
+  "en": "Escape",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_STALINGRAD": {
+  "en": "On the Boat",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_STALINGRAD1": {
+  "en": "Stalingrad Docks",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_STALINGRAD2": {
+  "en": "Into Battle",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_STALINGRAD3": {
+  "en": "The Sniper Leads",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TCOUNTRY": {
+  "en": "T34 Assault",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TCOUNTRY1": {
+  "en": "T34 Assault",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TCOUNTRY2": {
+  "en": "Tanks Destroyed",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAINING": {
+  "en": "Explosives Training",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAININGWEAP": {
+  "en": "Weapons Training",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAINSTATION": {
+  "en": "Approaching Catwalks",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAINSTATION1": {
+  "en": "Stairwell",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAINSTATION2": {
+  "en": "Entering Building",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRAINSTATION3": {
+  "en": "Exitting Trenches",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRUCKRIDE": {
+  "en": "Truck Ride",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRUCKRIDE1": {
+  "en": "Bridge",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TRUCKRIDE2": {
+  "en": "Motorcycles",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TTOWN": {
+  "en": "Entering the Town",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TTOWN1": {
+  "en": "Entering the Town",
+  "zones": [
+   "common"
+  ]
+ },
+ "AUTOSAVE_TTOWN2": {
+  "en": "At the Overpass",
+  "zones": [
+   "common"
+  ]
+ },
+ "BER1_CLEAR_ASYLUM": {
+  "en": "Clear the Asylum",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_CLEAR_CLOCKTOWER": {
+  "en": "Eliminate Panzershreks and MGs so Tanks can Advance",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_CLEAR_OFFICE": {
+  "en": "Advance through the Office Building",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_CLEAR_RUINS": {
+  "en": "Assault the German Defenses",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_ENTER_ASYLUM": {
+  "en": "Get inside the Asylum",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_INTROSCREEN_DATE": {
+  "en": "April 23, 1945",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_INTROSCREEN_INFO": {
+  "en": "3rd Shock Army",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_INTROSCREEN_NAME": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_INTROSCREEN_PLACE": {
+  "en": "Pankow, Germany",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_INTROSCREEN_TITLE": {
+  "en": "'Ring of Steel'",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_PUSH_GERMANS": {
+  "en": "Kill the Retreating German Forces",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER1_REGROUP_BERM": {
+  "en": "Regroup with your Squad",
+  "zones": [
+   "ber1"
+  ]
+ },
+ "BER2_INTROSCREEN_DATE": {
+  "en": "April 24, 1945",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_INTROSCREEN_INFO": {
+  "en": "3rd Shock Army",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_INTROSCREEN_NAME": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_INTROSCREEN_PLACE": {
+  "en": "Berlin, Germany",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_INTROSCREEN_TITLE": {
+  "en": "'Eviction'",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_CLEAR_BLDGS": {
+  "en": "Clear the buildings.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_DEFEND_SARGE": {
+  "en": "Defend Reznov while he opens the door.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_EXECUTE": {
+  "en": "Execute the wounded Germans.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_FIGHT_THRU_METRO": {
+  "en": "Fight through the Metro.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_GET_TO_METRO": {
+  "en": "Head into the Metro to escape the rockets!",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_MOVE_THRU_STREET": {
+  "en": "Move up the street with the tanks.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_REGROUP": {
+  "en": "Regroup with your squad.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER2_OBJ_STAY_WITH_TANK": {
+  "en": "Stay close to the tank.",
+  "zones": [
+   "ber2"
+  ]
+ },
+ "BER3B_DIARY_SKIP": {
+  "en": "(Press [{+activate}] to skip.)",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_FLAG_FAIL_DEADQUOTE": {
+  "en": "You left the flag behind!",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_FLAG_FAIL_WARNING": {
+  "en": "Comrade, do not leave our flag behind!",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_FLAG_PLANT_TRIGGER_HINT": {
+  "en": "Press [{+activate}] to plant the flag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_HINT_FLAG_DROP": {
+  "en": "Hold [{+activate}] to drop the flag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_HINT_FLAG_PICKUP": {
+  "en": "Hold [{+activate}] to pick up the flag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_INTROSCREEN_DATE": {
+  "en": "April 30, 1945",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_INTROSCREEN_INFO": {
+  "en": "150th Rifle Division",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_INTROSCREEN_NAME": {
+  "en": "Pvt. Dimitri Petrenko",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_INTROSCREEN_PLACE": {
+  "en": "The Reichstag - Berlin, Germany",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_INTROSCREEN_TITLE": {
+  "en": "'Downfall'",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_1": {
+  "en": "Storm the Reichstag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_2": {
+  "en": "Clear the ground floor of the Parliament.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_2A": {
+  "en": "Climb to the balcony to provide fire support.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_2B": {
+  "en": "Eliminate the Germans on the south balcony.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_3": {
+  "en": "Continue clearing the Reichstag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_4": {
+  "en": "Pick up the fallen Russian flag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_5": {
+  "en": "Raise the Russian flag atop the Reichstag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_FLAG_CARRY": {
+  "en": "Carry the Russian flag to the roof.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3B_OBJ_FLAG_RETRIEVE": {
+  "en": "Retrieve the Russian flag.",
+  "zones": [
+   "ber3b"
+  ]
+ },
+ "BER3_HINT_PLANT_CHARGE": {
+  "en": "Press &&1 to Plant the Charge",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_INTROSCREEN_DATE": {
+  "en": "April 30, 1945",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_INTROSCREEN_INFO": {
+  "en": "150th Rifle Division",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_INTROSCREEN_NAME": {
+  "en": "Pvt. Petrenko",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_INTROSCREEN_PLACE": {
+  "en": "The Reichstag, Berlin",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_INTROSCREEN_TITLE": {
+  "en": "'Heart of the Reich'",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ0": {
+  "en": "Regroup with your squad",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ1": {
+  "en": "Advance through the buildings",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ2": {
+  "en": "Storm the Plaza",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ3": {
+  "en": "Destroy the Flak 88s",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ3_1": {
+  "en": "Destroy the Flak 88s (1 Remaining)",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ3_2": {
+  "en": "Destroy the Flak 88s (2 Remaining)",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ3_3": {
+  "en": "Destroy the Flak 88s (3 Remaining)",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ3_4": {
+  "en": "Destroy the Flak 88s (4 Remaining)",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_OBJ4": {
+  "en": "Enter the Reichstag",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_WARP_INTRO": {
+  "en": "INTRO",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_WARP_PLAZA": {
+  "en": "CHARGE_PLAZA",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "BER3_WARP_REICH": {
+  "en": "REICHSTAG_STEPS",
+  "zones": [
+   "ber3"
+  ]
+ },
+ "DEADQUOTE_ALL_THAT_IS_NECESSARY": {
+  "en": "\"All that is necessary for evil to succeed is for good men to do nothing.\" - Edmund Burke",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_ALL_WARFARE_IS_BASED": {
+  "en": "\"All warfare is based on deception.\" - Sun Tzu",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_ALL_WARS_ARE_CIVIL_WARS": {
+  "en": "\"All wars are civil wars, because all men are brothers.\" - Francois Fenelon",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_ANYONE_WHO_TRULY_WANTS": {
+  "en": "\"Anyone, who truly wants to go to war, has never truly been there before!\" - Larry Reeves",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_ANY_SOLDIER_WORTH_HIS": {
+  "en": "\"Any soldier worth his salt should be anti-war. And yet there are things still worth fighting for.\" - General Norman Schwarzkopf",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_A_LEADER_LEADS_BY_EXAMPLE": {
+  "en": "\"A leader leads by example not by force.\" - Sun Tzu",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_A_SHIP_WITHOUT_MARINES": {
+  "en": "\"A ship without Marines is like a garment without buttons.\" - Admiral David D. Porter, USN",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_A_SOLDIER_WILL_FIGHT": {
+  "en": "\"A soldier will fight long and hard for a bit of colored ribbon.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_DEATH_IS_NOTHING_BUT": {
+  "en": "\"Death is nothing, but to live defeated and inglorious is to die daily.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_DEATH_SOLVES_ALL_PROBLEMS": {
+  "en": "\"Death solves all problems - no man, no problem.\" - Joseph Stalin",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_FIVE_SECOND_FUSES_ONLY": {
+  "en": "\"Five second fuses only last three seconds.\" - Infantry Journal",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_FREEDOM_IS_NOT_FREE_BUT": {
+  "en": "\"Freedom is not free, but the U.S. Marine Corps will pay most of your share.\" - Ned Dolan",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_FRIENDLY_FIRE_ISNT_UNKNOWN": {
+  "en": "\"Friendly fire - isn't.\" - Unknown",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_FROM_MY_ROTTING_BODY": {
+  "en": "\"From my rotting body, flowers shall grow and I am in them and that is eternity.\" - Edvard Munch",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_HE_WHO_DID_WELL_IN_WAR": {
+  "en": "\"He who did well in war just earns the right to begin doing well in peace.\" - Robert Browning",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_HE_WHO_FEARS_BEING_CONQUERED": {
+  "en": "\"He who fears being conquered is sure of defeat.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_A_MAN_DOES_HIS_BEST": {
+  "en": "\"If a man does his best, what else is there?\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_THE_ENEMY_IS_IN_RANGE": {
+  "en": "\"If the enemy is in range, so are you.\" - Infantry Journal",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_WE_CANT_PERSUADE_NATIONS": {
+  "en": "\"If we can't persuade nations with comparable values of the merits of our cause, we'd better reexamine our reasoning.\" - Robert McNamara",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_WE_DONT_END_WAR_WAR": {
+  "en": "\"If we don't end war, war will end us.\" - H. G. Wells",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_YOUR_ATTACK_IS_GOING": {
+  "en": "\"If your attack is going too well, you're walking into an ambush.\" - Infantry Journal",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_YOU_ARE_GOING_THROUGH": {
+  "en": "\"If you are going through hell...keep going.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IF_YOU_KNOW_THE_ENEMY": {
+  "en": "\"If you know the enemy and know yourself, you need not fear the result of a hundred battles.\" - Sun-Tzu",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_INCOMING_FIRE_HAS_THE": {
+  "en": "\"Incoming fire has the right of way.\" - Unknown",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_MODERN_WAR_YOU_WILL": {
+  "en": "\"In modern war... you will die like a dog for no good reason.\" - Ernest Hemingway",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_PEACE_AS_A_WISE_MAN": {
+  "en": "\"In peace, as a wise man, he should make suitable preparation for war.\" - Horace",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_PEACE_THE_SONS_BURY": {
+  "en": "\"In peace the sons bury their fathers, but in war the fathers bury their sons.\" - Croesus",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_THE_SOVIET_ARMY_IT": {
+  "en": "\"In the Soviet army it takes more courage to retreat than advance.\" - Joseph Stalin",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_WAR_THERE_ARE_NO_UNWOUNDED": {
+  "en": "\"In war, there are no unwounded soldiers.\" - Jose Narosky",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_WAR_THERE_IS_NO_PRIZE": {
+  "en": "\"In war there is no prize for the runner-up.\" - General Omar Bradley",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_WAR_TRUTH_IS_THE_FIRST": {
+  "en": "\"In war, truth is the first casualty.\" - Aeschylus",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IN_WAR_YOU_WIN_OR_LOSE": {
+  "en": "\"In war, you win or lose, live or die-and the difference is just an eyelash.\" - General Douglas MacArthur",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IT_IS_FATAL_TO_ENTER": {
+  "en": "\"It is fatal to enter any war without the will to win it.\" - General Douglas MacArthur",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IT_IS_FOOLISH_AND_WRONG": {
+  "en": "\"It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IT_IS_GENERALLY_INADVISABLE": {
+  "en": "\"It is generally inadvisable to eject directly over the area you just bombed.\" - U.S. Air Force Manual",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_IT_IS_WELL_THAT_WAR_IS": {
+  "en": "\"It is well that war is so terrible, or we should get too fond of it.\" - Robert E. Lee",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_I_DONT_KNOW_WHETHER_WAR": {
+  "en": "\"I don't know whether war is an interlude during peace, or peace is an interlude during war.\" - Georges Clemenceau",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_I_HAVE_NEVER_ADVOCATED": {
+  "en": "\"I have never advocated war except as a means of peace.\" - Ulysses S. Grant",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_I_KNOW_NOT_WITH_WHAT": {
+  "en": "\"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.\" - Albert Einstein",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_LET_YOUR_PLANS_BE_DARK": {
+  "en": "\"Let your plans be dark and as impenetratable as night, and when you move, fall like a thunderbolt.\" - Sun Tzu",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_MANKIND_MUST_PUT_AN_END": {
+  "en": "\"Mankind must put an end to war, or war will put an end to mankind.\" - John F. Kennedy",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_MAY_GOD_HAVE_MERCY_UPON": {
+  "en": "\"May God have mercy upon my enemies, because I won't.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_MORE_THAN_AN_END_TO_WAR": {
+  "en": "\"More than an end to war, we want an end to the beginnings of all wars.\" - Franklin D. Roosevelt",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_MY_FIRST_WISH_IS_TO_SEE": {
+  "en": "\"My first wish is to see this plague of mankind, war, banished from the earth.\" - George Washington",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_NEARLY_ALL_MEN_CAN_STAND": {
+  "en": "\"Nearly all men can stand adversity, but if you want to test a man's character, give him power.\" - Abraham Lincoln",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_NEVER_IN_THE_FIELD_OF": {
+  "en": "\"Never in the field of human conflict was so much owed by so many to so few.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_NEVER_THINK_THAT_WAR": {
+  "en": "\"Never think that war, no matter how necessary, nor how justified, is not a crime.\" - Ernest Hemingway",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_NEVER_YIELD_TO_FORCE": {
+  "en": "\"Never yield to force; never yield to the apparently overwhelming might of the enemy.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_NO_ONE_CAN_GUARANTEE": {
+  "en": "\"No one can guarantee success in war, but only deserve it.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_OLDER_MEN_DECLARE_WAR": {
+  "en": "\"Older men declare war. But it is the youth that must fight and die.\" - Herbert Hoover",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_ONLY_THE_DEAD_HAVE_SEEN": {
+  "en": "\"Only the dead have seen the end of the war.\" - Plato",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_PATRIOTS_ALWAYS_TALK": {
+  "en": "\"Patriots always talk of dying for their country and never of killing for their country.\" - Bertrand Russell",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_SOLDIERS_USUALLY_WIN": {
+  "en": "\"Soldiers usually win the battles and generals get the credit for them.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_SOME_PEOPLE_LIVE_AN_ENTIRE": {
+  "en": "\"Some people live an entire lifetime and wonder if they have ever made a difference in the world, but the Marines don't have that problem.\" - Ronald Reagan",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_SO_LONG_AS_THERE_ARE": {
+  "en": "\"So long as there are men there will be wars.\" - Albert Einstein",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_SUCCESS_IS_NOT_FINAL": {
+  "en": "\"Success is not final, failure is not fatal: it is the courage to continue that counts.\" - Winston Churchill",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_TEAMWORK_IS_ESSENTIAL": {
+  "en": "\"Teamwork is essential, it gives them other people to shoot at.\" - Unknown",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THEREFORE_WHOEVER_WISHES": {
+  "en": "\"Therefore, whoever wishes for peace, let him prepare for war.\" - Vegetius",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THERES_NO_HONORABLE_WAY": {
+  "en": "\"There is nothing good in war. Except its ending.\" - Abraham Lincoln",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THERE_ARE_ONLY_TWO_FORCES": {
+  "en": "\"There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THERE_IS_NOTHING_SO_LIKELY": {
+  "en": "\"There is nothing so likely to produce peace as to be well prepared to meet the enemy.\" - George Washington",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THERE_NEVER_WAS_A_GOOD_WAR": {
+  "en": "\"There never was a good war or a bad peace.\" - Benjamin Franklin",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_BURSTING_RADIUS_OF": {
+  "en": "\"The bursting radius of a hand-grenade is always one foot greater than your jumping range.\" - Unknown",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_DEADLIEST_WEAPON": {
+  "en": "\"The deadliest weapon in the world is a Marine and his rifle!\" - General John J. Pershing",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_DEATH_OF_ONE_MAN": {
+  "en": "\"The death of one man is a tragedy. The death of millions is a statistic.\" - Joseph Stalin",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_ESSENCE_OF_WAR_IS": {
+  "en": "\"The essence of war is violence. Moderation in war is imbecility.\" - John Arbuthnot Fisher",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_MILITARY_DONT_START": {
+  "en": "\"The military don't start wars. Politicians start wars.\" - Gen. William Westmoreland",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_OBJECT_OF_WAR_IS": {
+  "en": "\"The object of war is not to die for your country but to make the other bastard die for his.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_ONLY_WINNER_IN_THE": {
+  "en": "\"The only winner in the War of 1812 was Tchaikovsky.\" - Solomon Short",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_QUICKEST_WAY_OF_ENDING": {
+  "en": "\"The quickest way of ending a war is to lose it.\" - George Orwell",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_REAL_AND_LASTING": {
+  "en": "\"The real and lasting victories are those of peace, and not of war.\" - Ralph Waldo Emerson",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_REAL_WAR_WILL_NEVER": {
+  "en": "\"The real war will never get in the books.\" - Walt Whitman",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_THE_TRUTH_OF_THE_MATTER": {
+  "en": "\"The truth of the matter is that you always know the right thing to do. The hard part is doing it.\" - General Norman Schwarzkopf",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_TRACERS_WORK_BOTH_WAYS": {
+  "en": "\"Tracers work both ways.\" - U.S. Army Ordnance",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_TRY_TO_LOOK_UNIMPORTANT": {
+  "en": "\"Try to look unimportant; they may be low on ammo.\" - Infantry Journal",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_UNTUTORED_COURAGE_IS": {
+  "en": "\"Untutored courage is useless in the face of educated bullets.\" - General George S. Patton",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_DOES_NOT_DETERMINE": {
+  "en": "\"War does not determine who is right - only who is left.\" - Bertrand Russell",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_IS_AS_MUCH_A_PUNISHMENT": {
+  "en": "\"War is as much a punishment to the punisher as it is to the sufferer.\" - Thomas Jefferson",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_IS_CRUEL_AND_YOU": {
+  "en": "\"War is cruel and you cannot refine it.\" - William Tecumseh Sherman",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_IS_DELIGHTFUL_TO": {
+  "en": "\"War is delightful to those who have not experienced it.\" - Erasmus",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_IS_FEAR_CLOAKED_IN": {
+  "en": "\"War is fear cloaked in courage.\" - Gen. William C. Westmoreland",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WAR_WOULD_END_IF_THE": {
+  "en": "\"War would end if the dead could return.\" - Stanley Baldwin",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WE_MAKE_WAR_THAT_WE_MAY": {
+  "en": "\"We make war that we may live in peace.\" - Aristotle",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WE_SLEEP_SAFELY_IN_OUR": {
+  "en": "\"We sleep safely in our beds because rough men stand ready in the night to visit violence on those who would harm us.\" - George Orwell",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_WHEN_THE_PIN_IS_PULLED": {
+  "en": "\"When the pin is pulled, Mr. Grenade is not our friend.\" - U.S. Army Training Notice",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_YOU_CANT_SAY_CIV": {
+  "en": "\"You can't say civilization don't advance - for in every war, they kill you in a new way.\" - Will Rogers",
+  "zones": [
+   "common"
+  ]
+ },
+ "DEADQUOTE_YOU_MUST_NOT_FIGHT_TOO": {
+  "en": "\"You must not fight too often with one enemy, or you will teach him all your art of war.\" - Napoleon Bonaparte",
+  "zones": [
+   "common"
+  ]
+ },
+ "MAK_CONTINUED": {
+  "en": "To be continued...",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_INTROSCREEN_DATE": {
+  "en": "August 17th, 1942",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_INTROSCREEN_INFO": {
+  "en": "2nd Marine Raider Battalion (Carlson's Raiders)",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller (M.I.A.)",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_INTROSCREEN_PLACE": {
+  "en": "Makin Atoll, South Pacific",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_INTROSCREEN_TITLE": {
+  "en": "'Semper Fi'",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_EXTRACTION_POINT": {
+  "en": "Proceed to Extraction Point",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_PLANTCHARGE": {
+  "en": "Plant Charges in Ammo Bunker with Roebuck",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_PLANTCHARGE_COOP": {
+  "en": "Someone go support Roebuck to plant charges",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_REGROUP_2ND_SQUAD": {
+  "en": "Regroup with Second Squad",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_RESCUE_2ND_SQUAD": {
+  "en": "Rescue Second Squad",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_OBJ_SECURE_VILLAGE": {
+  "en": "Secure the Village",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_PLANTING": {
+  "en": "Planting...",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_TRUCK_HINT": {
+  "en": "You Activate objects by Pressing ^3[{+usereload}]^7",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MAK_TRUCK_TRIGGER": {
+  "en": "Press ^3&&1^7 to Activate Truck",
+  "zones": [
+   "mak"
+  ]
+ },
+ "MINEFIELDS_MINEDIED": {
+  "en": "You stepped into a Minefield and died.\nWatch out for the Red and White Minefield Signs!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "MINEFIELDS_MINEDIED_TANK": {
+  "en": "You drove into a Minefield and died.\nWatch out for the Red and White Minefield Signs!",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_CTF": {
+  "en": "Gain points by stealing the enemy flag and then touching your flag at your base.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_CTF_HINT": {
+  "en": "Capture the enemy flag.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_CTF_SCORE": {
+  "en": "Gain points by stealing the enemy flag and then touching your flag at your base. First team with &&1 captures wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DM": {
+  "en": "Gain points by eliminating other players.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DM_HINT": {
+  "en": "Eliminate other players.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DM_SCORE": {
+  "en": "Gain points by eliminating other players.  First player to &&1 points wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DOM": {
+  "en": "Capture and defend the flags.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DOM_HINT": {
+  "en": "Capture the flags and defend them.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_DOM_SCORE": {
+  "en": "Capture and defend the flags.  First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_KOTH": {
+  "en": "Gain points by holding the headquarters.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_KOTH_HINT": {
+  "en": "Hold the headquarters.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_KOTH_SCORE": {
+  "en": "Gain points by holding the headquarters.  First team to &&1 points wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SAB": {
+  "en": "Recover the explosives and plant them at the enemy target, while protecting your own.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SAB_HINT": {
+  "en": "Destroy the enemy target.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SAB_SCORE": {
+  "en": "Recover the explosives and plant them at the enemy target, while protecting your own. First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_ATTACKER": {
+  "en": "Destroy target A or B by planting explosives at it's location.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_ATTACKER_HINT": {
+  "en": "Destroy target A or B.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_ATTACKER_SCORE": {
+  "en": "Destroy target A or B by planting explosives at it's location.  Prevent the explosives from being defused once they have been planted.  First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_DEFENDER": {
+  "en": "Protect the targets from being destroyed.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_DEFENDER_HINT": {
+  "en": "Protect targets A and B.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SD_DEFENDER_SCORE": {
+  "en": "Protect the targets from being destroyed. If explosives are planted at either location, defuse them before they explode. First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SUR": {
+  "en": "Gain points by recovering vehicles and transporting them to the safe zone.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SUR_HINT": {
+  "en": "Transport the vehicle to the safe zone.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_SUR_SCORE": {
+  "en": "Gain points by transporting vehicles to the safe zone.  First team to &&1 points wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TDM": {
+  "en": "Gain points by eliminating enemy players.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TDM_HINT": {
+  "en": "Eliminate enemy players.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TDM_SCORE": {
+  "en": "Gain points by eliminating enemy players.  First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TWAR": {
+  "en": "Capture and defend the flags.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TWAR_HINT": {
+  "en": "Capture the flags and defend them.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OBJECTIVES_TWAR_SCORE": {
+  "en": "Capture and defend the flags.  First team to &&1 wins.",
+  "zones": [
+   "localized_common_mp"
+  ]
+ },
+ "OKI2_DESTROY_GUN": {
+  "en": "Hold [{+activate}] to plant charge.",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_INTROSCREEN_DATE": {
+  "en": "May 14, 1945",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_INTROSCREEN_PLACE": {
+  "en": "Wana Ridge, Okinawa",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_INTROSCREEN_TITLE": {
+  "en": "'Blowtorch & Corkscrew'",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_INTROSCREEN_WHAT": {
+  "en": "1st Marine Division",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_INTROSCREEN_WHO": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_1": {
+  "en": "Assault Wana Ridge",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_2": {
+  "en": "Eliminate the 200mm guns",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_2_1": {
+  "en": "Eliminate the 200mm guns (1 remaining)",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_2_2": {
+  "en": "Eliminate the 200mm guns (2 remaining)",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_2_3": {
+  "en": "Eliminate the 200mm guns (3 remaining)",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_2_4": {
+  "en": "Eliminate the 200mm guns (4 remaining)",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_3": {
+  "en": "Rendezvous with Sarge",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_4": {
+  "en": "Locate Bunker Entrance",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_OBJ_5": {
+  "en": "Secure the Bunker",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_SATCHEL_HINT1": {
+  "en": "Press [{+actionslot 3}] to select the satchel charge.",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI2_SATCHEL_HINT2": {
+  "en": "Press [{+toggleads_throw}] to throw the satchel.  Press [{+attack}] to detonate it.",
+  "zones": [
+   "oki2"
+  ]
+ },
+ "OKI3_AIRSTRIKE_HOWTO": {
+  "en": "Press [{+actionslot 4}] then [{+attack}] to radio in an air strike",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_HINT_PRONE": {
+  "en": "Press [{gocrouch}] To Crouch",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_INTROSCREEN_DATE": {
+  "en": "May 29, 1945",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_INTROSCREEN_INFO": {
+  "en": "1st Marine Division",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_INTROSCREEN_PLACE": {
+  "en": "Shuri Castle, Okinawa",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_INTROSCREEN_TITLE": {
+  "en": "'Breaking Point'",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_MORTAR_HINT": {
+  "en": "Press [{+attack}] to throw the mortar",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ1": {
+  "en": "Assault Shuri Castle",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ2": {
+  "en": "Eliminate the mortar crews",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ2_1": {
+  "en": "Eliminate the mortar crews ( 1 remaining )",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ2_2": {
+  "en": "Eliminate the mortar crews ( 2 remaining )",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ2_3": {
+  "en": "Eliminate the mortar crews ( 3 remaining )",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ2_4": {
+  "en": "Eliminate the mortar crews ( 4 remaining )",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ4": {
+  "en": "Get ammo from the supply drop",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ4_A": {
+  "en": "Enter and clear out the tunnel",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ5": {
+  "en": "Hold the area",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ6": {
+  "en": "Defend against the Banzai charge",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ6A": {
+  "en": "Eliminate all enemies in the area",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ7": {
+  "en": "Secure the supply drop in the courtyard",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ8": {
+  "en": "Radio in air support on the north buildings",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ8_A": {
+  "en": "Defend the area",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_OBJ9": {
+  "en": "Radio in air support on the east building",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_RADIO_INUSE": {
+  "en": "The radio is already being used",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_REGROUP": {
+  "en": "Regroup with the squad",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_REGROUP_BY_WALL": {
+  "en": "Rendezvous with your squad",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_STARTS_AMBUSH": {
+  "en": "Event 1 - Ambush",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_STARTS_COURTYARD": {
+  "en": "Event 4 - Courtyard",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_STARTS_MORTARPITS": {
+  "en": "Event 2 - Mortar Pits",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_STARTS_PLANTERS": {
+  "en": "Event 3 - planters",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_STARTS_PLANTERS_END": {
+  "en": "EVENT 4 - End of planters battle",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_TAKE_AMMO": {
+  "en": "Hold &&1 to get ammo",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_TAKE_COVER": {
+  "en": "Get to cover",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "OKI3_USE_MORTAR": {
+  "en": "Hold &&1 to pickup and prime",
+  "zones": [
+   "oki3"
+  ]
+ },
+ "PBY_FLY_ADS_HINT": {
+  "en": "Press and Hold [{+speed_throw}] to use Reflector and Iron Sights.",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_CANNON": {
+  "en": "Press [{+frag}] To Fire 20mm Cannon",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_INTROSCREEN_DATE": {
+  "en": "April 3, 1945",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_INTROSCREEN_INFO": {
+  "en": "Black Cat Squadron VPB-54",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_INTROSCREEN_NAME": {
+  "en": "Petty Officer Locke",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_INTROSCREEN_PLACE": {
+  "en": "South of Okinawa",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_INTROSCREEN_TITLE": {
+  "en": "'Black Cats'",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_MERCHANT": {
+  "en": "Merchant Ships:",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV1": {
+  "en": "Continue Routine Patrol",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV2": {
+  "en": "Destroy Japanese Merchant Ships. [&&1 remaining]",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV2_PTBOATS": {
+  "en": "Defend against Japanese PT Boats. [&&1 destroyed]",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV3": {
+  "en": "Return to Base",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV3B": {
+  "en": "Respond to Fleet Distress Call",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV3B_ZEROES": {
+  "en": "Defend against Japanese Zeroes. [&&1 destroyed]",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV4": {
+  "en": "Rescue All Possible Survivors [&&1 rescued]",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_OBJ_EV5": {
+  "en": "Clear the skies of Japanese Zeroes.",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_PBY_NAME_A": {
+  "en": "MANTA RAY",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_PBY_NAME_B": {
+  "en": "HAMMERHEAD",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_PBY_SQUAD": {
+  "en": "VPB 54 - BLACK CAT",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_PTBOAT": {
+  "en": "Patrol Boats:",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_RESCUE": {
+  "en": "Press [{+activate}] To Rescue Survivor",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_SURVIVOR": {
+  "en": "Survivors:",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_SWITCH_FRONT": {
+  "en": "Press [{+activate}] To Switch To The Bow Turret",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_SWITCH_LEFT": {
+  "en": "Press [{+activate}] To Switch To The Left Turret",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_SWITCH_REAR": {
+  "en": "Press [{+activate}] To Switch To The Ventral Turret",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_SWITCH_RIGHT": {
+  "en": "Press [{+activate}] To Switch To The Right Turret",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_TUT_INTRO": {
+  "en": "Welcome to the PBY Turret Tutorial.",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_TUT_SWITCH": {
+  "en": "Use the D-Pad to switch between turrets.",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_X": {
+  "en": "x",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PBY_FLY_ZEROES": {
+  "en": "Zeroes:",
+  "zones": [
+   "pby_fly"
+  ]
+ },
+ "PEL1A_INTROSCREEN_DATE": {
+  "en": "Sept. 15, 1944",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_INTROSCREEN_INFO": {
+  "en": "1st Marine Division",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_INTROSCREEN_PLACE": {
+  "en": "White Beach, Peleliu",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_INTROSCREEN_TITLE": {
+  "en": "'Burn 'em Out'",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_OBJECTIVE1": {
+  "en": "Get into the trenches.",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_OBJECTIVE2": {
+  "en": "Eliminate enemy mortar crews. [&&1 remaining]",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_OBJECTIVE3": {
+  "en": "Regroup in the final mortar pit",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1A_THROWSMOKE": {
+  "en": "Throw smoke [{+smoke}] to safely pass through enemy fire",
+  "zones": [
+   "pel1a"
+  ]
+ },
+ "PEL1B_INTROSCREEN_DATE": {
+  "en": "Sept. 16th, 1944",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_INTROSCREEN_INFO": {
+  "en": "1st Marine Division",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_INTROSCREEN_PLACE": {
+  "en": "The Point, Peleliu",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_INTROSCREEN_TITLE": {
+  "en": "'Relentless'",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_ARTILLERY": {
+  "en": "Clear out anti tank positions ( &&1 remaining )",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_ART_CLEAR": {
+  "en": "Clear the artillery room",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE": {
+  "en": "Assault the cave entrance",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_CAVE_CLEAR": {
+  "en": "Locate the artillery guns",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_FLANK": {
+  "en": "Follow your squad",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME": {
+  "en": "Follow the flame tank",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_EV2_HOLD_POS": {
+  "en": "Hold position during the bombing",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_FLAME_TANK": {
+  "en": "Protect the flame tank",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_FOLLOW_SQUAD": {
+  "en": "Regroup with your squad.",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_MOVE_UP": {
+  "en": "Move up with Squad",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_OBJECTIVE_WARNING": {
+  "en": "You must clear out anti tank position, before moving on.",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1B_PLAYER_DISMOUNT": {
+  "en": "Press [{+activate}] to get off the tank",
+  "zones": [
+   "pel1b"
+  ]
+ },
+ "PEL1_INTROSCREEN_DATE": {
+  "en": "Sept. 15, 1944",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_INTROSCREEN_INFO": {
+  "en": "1st Marine Division",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_INTROSCREEN_PLACE": {
+  "en": "White Beach, Peleliu",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_INTROSCREEN_TITLE": {
+  "en": "'Little Resistance'",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE1": {
+  "en": "Assault the beach.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE1A": {
+  "en": "Call in a rocket strike on the tree line.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2A": {
+  "en": "Push through the Japanese defenses.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2B": {
+  "en": "Gain entrance to the Japanese bunker.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2C": {
+  "en": "Clear the Japanese bunker.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2D": {
+  "en": "Regroup with your squad.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2E": {
+  "en": "Eliminate Japanese in and around the mortar pit.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2F": {
+  "en": "Call in rocket strike on Japanese tanks. [2 of 2]",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2G": {
+  "en": "Call in rocket strike on Japanese tanks. [1 of 2]",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_OBJECTIVE2H": {
+  "en": "Call in rocket strike on Japanese tanks.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_ROCKETS_ALWAYS_AVAIL": {
+  "en": "Rocket strikes can now be used on enemy positions at will.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_ROCKETS_AVAIL": {
+  "en": "Rocket strikes are now available.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL1_ROCKET_HOWTO": {
+  "en": "Press [{+actionslot 4}] then [{+attack}] to radio in a rocket strike on Japanese defenses.",
+  "zones": [
+   "pel1"
+  ]
+ },
+ "PEL2_AA_BUNKER": {
+  "en": "Assault the Anti-Aircraft Bunker",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_ADVANCE_TOWARDS_AIRFIELD": {
+  "en": "Advance Towards the Airfield",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_ASSAULT_AIRFIELD": {
+  "en": "Assault the Airfield",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_BAZOOKA": {
+  "en": "Destroy the Enemy Tanks with Bazookas",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_BAZOOKA_1": {
+  "en": "Destroy the Type97 tanks with Bazookas (1 of 3 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_BAZOOKA_2": {
+  "en": "Destroy the Type97 tanks with Bazookas (2 of 3 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_BAZOOKA_3": {
+  "en": "Destroy the Type97 tanks with Bazookas (3 of 3 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_BUNKER_REGROUP": {
+  "en": "Take Cover with Squad",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_CLEAR_BUNKERS": {
+  "en": "Assault the Bunkers",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_CLEAR_THE_BUILDING": {
+  "en": "Clear the Building",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_COUNTERATTACK": {
+  "en": "Defend Against the Counterattack",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_DESTROY_AA_GUNS": {
+  "en": "Take out the AA crews ",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_DESTROY_AA_GUNS_1": {
+  "en": "Take out the AA crews (1 of 4 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_DESTROY_AA_GUNS_2": {
+  "en": "Take out the AA crews (2 of 4 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_DESTROY_AA_GUNS_3": {
+  "en": "Take out the AA crews (3 of 4 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_DESTROY_AA_GUNS_4": {
+  "en": "Take out the AA crews (4 of 4 remaining)",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_FLAME_BUNKER": {
+  "en": "Flame the Bunker",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_FLAME_MG": {
+  "en": "Lay Suppressing Fire on the Bunker",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_GET_BAZOOKA": {
+  "en": "Get the Bazooka from the Trench.",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_INTROSCREEN_DATE": {
+  "en": "Sept. 15, 1944",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_INTROSCREEN_INFO": {
+  "en": "1st Marine Division",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_INTROSCREEN_NAME": {
+  "en": "Pvt. Miller",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_INTROSCREEN_PLACE": {
+  "en": "Airfield, Peleliu",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_INTROSCREEN_TITLE": {
+  "en": "'Hard Landing'",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_RETRIEVE_FLAME": {
+  "en": "Retrieve the Flamethrower",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_RIFLE_GRENADE_TEXT": {
+  "en": "Press [{+actionslot 3}] to Attach the Rifle Grenade.",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_SECURE_AABUNKER": {
+  "en": "Secure the AA Bunker",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "PEL2_SECURE_MANGROVE_AREA": {
+  "en": "Flank Japanese Artillery Positions",
+  "zones": [
+   "pel2"
+  ]
+ },
+ "SCRIPT_AM_BONUS_HARDEST_2_KILL": {
+  "en": "Hardest to Kill +&&1",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_BONUS_MOST_HEADSHOTS": {
+  "en": "Most Headshots +&&1",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_BONUS_MOST_REVIVES": {
+  "en": "Most Revives +&&1",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_DIFFICULTY_BONUS": {
+  "en": "Difficulty Bonus",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_DIFFICULTY_BONUS_X": {
+  "en": "x&&1",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_LOW_SCORE_WARNING": {
+  "en": "WARNING: You will be kicked for a low negative score",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_MISSION_SCORE": {
+  "en": "Mission Score",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_NEW_HIGH_SCORE": {
+  "en": "NEW HIGH SCORE!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_PLAYERNAME": {
+  "en": "&&1",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_PLAYER_KICKED": {
+  "en": "&&1 was kicked",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_ROUND_BONUS": {
+  "en": "Round Bonus",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_STREAK_BONUS_LOST": {
+  "en": "Bonus Expired",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_STREAK_COMPLETE": {
+  "en": "Bonus Completed",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_SUICIDE_COMMITED": {
+  "en": "You have been penalized for committing suicide",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_SUICIDE_KICKED": {
+  "en": "You were kicked for committing too many suicides",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_SUICIDE_ONE_LAST_GO": {
+  "en": "You are one suicide away from getting kicked",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_AM_X": {
+  "en": "x",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_ARMOR_DAMAGE": {
+  "en": "Armor can only be damaged\nby C4 and rockets.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_ARTILLERY_TOOFAR": {
+  "en": "You are too far from your radio man to use artillery.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_C4_USE": {
+  "en": "Press^3 [{+actionslot 2}] ^7to use C4.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_CLEARBUILDING": {
+  "en": "Clear the building with the Machine Guns in it.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_BERSERKER_UNLOCK": {
+  "en": "You have found the Three of Diamonds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_BODY_ARMOR_UNLOCK": {
+  "en": "You have found the Jack of Spades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_COLD_DEAD_HANDS_UNLOCK": {
+  "en": "You have found the Five of Diamonds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_DIRTY_HARRY_UNLOCK": {
+  "en": "You have found the King of Hearts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_FLAK_JACKET_UNLOCK": {
+  "en": "You have found the Nine of Diamonds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_HARDCORE_UNLOCK": {
+  "en": "You have found the Two of Spades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_HARD_HEADED_UNLOCK": {
+  "en": "You have found the Four of Clubs.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_MEDUSA_UNLOCK": {
+  "en": "You have found the Seven of Diamonds.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_MORPHINE_SHOT_UNLOCK": {
+  "en": "You have found the Ten of Clubs.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_OF_THIRTEEN": {
+  "en": "&&1/13 Death Cards collected.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_PAINTBALL_UNLOCK": {
+  "en": "You have found the Six of Clubs.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_PICKUP": {
+  "en": "Press and hold^3 &&1 ^7to collect Death Card.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_STICKS_AND_STONES_UNLOCK": {
+  "en": "You have found the Joker.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_THUNDER_UNLOCK": {
+  "en": "You have found the Eight of Hearts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_USAGE": {
+  "en": "Death Cards unlock cheats for co-op private matches.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_VAMPIRE_UNLOCK": {
+  "en": "You have found the Queen of Hearts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLLECTIBLE_ZOMBIE_UNLOCK": {
+  "en": "You have found the Ace of Spades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_COLON": {
+  "en": ":",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_DEBUG_LEVEL_END": {
+  "en": "End of current level.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_DOLLAR": {
+  "en": "$",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_ELIMINATE_THE_FLAK_88": {
+  "en": "Eliminate the Flak 88 crews.^3 &&1 remaining^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_ELIMINATE_THE_FLAK_88_DONE": {
+  "en": "Eliminate the Flak 88 crews.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_EXPLODING_BARREL_DEATH": {
+  "en": "You were killed by an exploding barrel.\nRed barrels will explode when shot.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_EXPLODING_VEHICLE_DEATH": {
+  "en": "You were killed by an exploding vehicle.\nVehicles on fire are likely to explode.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_EXPLOSIVESPLANTED": {
+  "en": "EXPLOSIVES PLANTED. STAND BACK!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_FIRE_TO_SKIP": {
+  "en": "Click FIRE to Skip.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_GLOWING_MARKER": {
+  "en": "Look for the glowing marker on the German anti-aircraft vehicle.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_GRENADE_DEATH": {
+  "en": "You were killed by a grenade.\nWatch out for the grenade danger indicator.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_GRENADE_SUICIDE_LINE1": {
+  "en": "You died holding a grenade for too long.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_GRENADE_SUICIDE_LINE2": {
+  "en": "Holding ^3[{+frag}]^7 allows you to cook off live grenades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINTSTR_GRENADESFULL": {
+  "en": "You can't carry anymore grenades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_CANT_OPEN_DOORS": {
+  "en": "This door cannot be opened. You never need to try to open closed doors.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_LEANINGSLOWMOVE": {
+  "en": "You move slower while leaning.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_OBJECTIVEONCOMPASS": {
+  "en": "The star on your compass marks your next objective",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_PICKUPAMMOKEY": {
+  "en": "To pickup ammo from another weapon, walk close to it or look at it and press USE^3 &&1^7.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_THROW_C4": {
+  "en": "Press ^3[{+throw}]^7 to throw C4.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_THROW_C4_SPEED": {
+  "en": "Press ^3[{+speed_throw}]^7 to throw C4.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_THROW_C4_SPEED_TRIGGER": {
+  "en": "Pull ^3[{+speed_throw}]^7 to throw C4.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HINT_THROW_C4_TOGGLE": {
+  "en": "Press ^3[{+toggleads_throw}]^7 to throw C4.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_HOLD_TO_USE": {
+  "en": "Press and hold^3 &&1 ^7to use",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_FOUND": {
+  "en": "You have found enemy intel.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_OF_FOURTYFIVE": {
+  "en": "&&1/45 pieces of enemy intel found.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_OF_SIXTY": {
+  "en": "&&1/60 pieces of enemy intel found.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_OF_THIRTY": {
+  "en": "&&1/30 pieces of enemy intel found.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_ONEREMAINING": {
+  "en": "&&1 piece of enemy intel remains.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_PICKUP": {
+  "en": "Press and hold^3 &&1 ^7to secure the enemy intelligence.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_PTS": {
+  "en": "You have found &&1 enemy intel pts.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_INTELLIGENCE_REMAINING": {
+  "en": "&&1 pieces of enemy intel remain.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1": {
+  "en": "Close Air Support standing by!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC": {
+  "en": "Close Air Support standing by! Press ^3[{+actionslot 4}].",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_CLAYMORES": {
+  "en": "Press ^3[{+actionslot 4}]^7 to use claymores.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_CLAYMORE_PLACEMENT": {
+  "en": "Pull^3 [{+attack}] ^7to plant claymores.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_GRENADE_LAUNCHER": {
+  "en": "Press^3 [{+actionslot 3}] ^7to use the M203 Grenade Launcher.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_LEARN_M14_SWITCH": {
+  "en": "Press ^3[{weapnext}]^7 to switch to your M21 Sniper Rifle",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MANTLE": {
+  "en": "Press ^3[{+gostand}]^7 to ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MINUS": {
+  "en": "-",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MINUS_AMOUNT": {
+  "en": "-%s",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MINUS_DOLLAR": {
+  "en": "-$",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN": {
+  "en": "Friendly fire will not be tolerated!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH": {
+  "en": "Friendly fire will not be tolerated!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN": {
+  "en": "You are a traitor to the motherland!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_NIGHTVISION_STOP_USE": {
+  "en": "Press^3 [{+actionslot 1}] ^7to disable Night Vision Goggles.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_NIGHTVISION_USE": {
+  "en": "Press^3 [{+actionslot 1}] ^7to use Night Vision Goggles.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_OBJ_DESTROYFLAKPANZERS": {
+  "en": "Destroy the 'Flakpanzer' Anti-Aircraft Tanks.^3 &&1 remaining^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_OBJ_FOLEYDEBRIEF": {
+  "en": "Debrief with Captain Foley at the crossroads.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PANZERSHREK_DEATH": {
+  "en": "You were killed by a Panzershrek!",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PICKUPSTIELHANDGRANATES": {
+  "en": "Picked up some Stielhandgranates.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_AC130_HINT_TOGGLE_THERMAL": {
+  "en": "Press ^3[{+activate}]^7 to toggle thermal vision\nbetween white hot and black hot.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_AC130_HINT_ZOOM_AND_FIRE": {
+  "en": "Press ^3[{+speed}]^7 to control zoom and press ^3[{+attack}]^7 to fire.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_AIRLIFT_HINT_GETPILOT": {
+  "en": "Approach the pilot and hold^3 [{+activate}] ^7to pull her out.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_AIRLIFT_HINT_PICKUP_PILOT": {
+  "en": "Hold^3 &&1 ^7to pickup the pilot.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_BANZAI_DEATH_DO_NOTHING": {
+  "en": "Stab the banzai attacker when he's about to stab you. ^3( [{+melee}] )^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_BANZAI_DEATH_TOO_LATE": {
+  "en": "Stab the banzai attacker before he stabs you. ^3( [{+melee}] )^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_BANZAI_DEATH_TOO_SOON": {
+  "en": "Stab the banzai attacker after he knocks you down. ^3( [{+melee}] )^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_BANZAI_HINT": {
+  "en": "Press ^3( [{+melee}] )^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_CHEAT_USETOSLOWMO": {
+  "en": "Use ^3[{+melee}]^7 to start or stop Slow-Mo.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_DOG_DEATH_DO_NOTHING": {
+  "en": "Melee the dog right when it bites to grab its throat. ^3( [{+melee}] )^7 ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_DOG_DEATH_TOO_LATE": {
+  "en": "Melee the dog before it bites to grab its throat. ^3( [{+melee}] )^7 ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_DOG_DEATH_TOO_SOON": {
+  "en": "Wait for the dog to bite to grab its throat. ^3( [{+melee}] )^7 ",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_DOG_HINT": {
+  "en": "Press ^3( [{+melee}] )^7",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_FIRE_TO_SKIP": {
+  "en": "Click FIRE to Skip.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_BINOCULAR": {
+  "en": "Look through your binoculars by pressing^3 &&1].",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_DOCUMENTS": {
+  "en": "Press^3 &&1 ^7to pick up the documents.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_PICKUPEXPLOSIVES": {
+  "en": "Press^3 &&1 ^7to pick up the explosives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_PICKUPGRENADES": {
+  "en": "Press^3 &&1 ^7to pick up the grenades.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_PICKUPPATROLLOGS": {
+  "en": "Press^3 &&1 ^7to pick up the patrol log.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES": {
+  "en": "Press^3 &&1 ^7to plant the explosives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_RAPPEL": {
+  "en": "Hold^3 &&1 ^7to rappel.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_TAKEEXPLOSIVES": {
+  "en": "Press^3 &&1 ^7to take the explosives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINTSTR_USEELEVATOR": {
+  "en": "Press^3 &&1 ^7to activate the elevator.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_ADSKEY": {
+  "en": "Press^3 &&1 ^7to aim down the sight",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_ADSSTOP": {
+  "en": "Press^3 &&1 ^7a second time to stop aiming down the sight.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_CHECKCURRENTOBJECTIVE": {
+  "en": "Press^3 &&1 ^7to check your current objective.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_CROUCHKEY": {
+  "en": "Press^3 &&1 ^7to crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_CROUCHTOGGLEFROM": {
+  "en": "Press^3 &&1 ^7a second time to stand up from crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_DOUBLETAPPRONEKEY": {
+  "en": "Double tap^3 &&1 ^7to go prone",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_DOUBLETAPSTANDKEY": {
+  "en": "Double tap^3 &&1 ^7to stand from prone",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_FIRSTOBJECTIVE": {
+  "en": "Look at your first objective and press USE^3 &&1 ^7to retrieve",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_FIRSTWEAPONKEY": {
+  "en": "Press^3 &&1 ^7to switch to your first weapon.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_GET_DETONATOR": {
+  "en": "Hold down^3 &&1 ^7to pick up the detonator.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_HOLDDOWNADSKEY": {
+  "en": "Hold down^3 &&1 ^7to aim down the sight",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_HOLDDOWNCROUCHKEY": {
+  "en": "Hold down^3 &&1 ^7to crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_HOLDDOWNPRONEKEY": {
+  "en": "Hold down^3 &&1 ^7to go prone",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_JUMPSTANDKEY": {
+  "en": "While standing, press^3 &&1 ^7to jump.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_LEANLEFTKEY": {
+  "en": "Hold down^3 &&1 ^7to lean to the left.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_LEANOUTWINDOW": {
+  "en": "Press USE^3 &&1 ^7to lean out of the window",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_LEANRIGHTKEY": {
+  "en": "Hold down^3 &&1 ^7to lean to the right.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_MELEEATTACK": {
+  "en": "Press^3 &&1 ^7to do a melee attack",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_MOVEBACKWARD": {
+  "en": "Press your Move Back key^3 &&1 ^7to move backwards.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_MOVEFORWARD": {
+  "en": "Press your Move Forward key^3 &&1 ^7to move forward.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_OBJECTIVEKEY": {
+  "en": "Press^3 &&1 ^7to see your objectives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_PICKUPWEAPONKEY": {
+  "en": "To pickup a weapon, look at it and press USE^3 &&1].",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_PICKUP_PANZERSCHRECK": {
+  "en": "Press^3 &&1 ^7to pickup the Panzerschreck.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_PLANTBEACON": {
+  "en": "Press^3 &&1 ^7to plant the IR beacon.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES": {
+  "en": "Look at the explosives spot and press^3 &&1 ^7to plant the explosives.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_PRONEKEY": {
+  "en": "Press^3 &&1 ^7to go prone",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_RAISEFROMCROUCHTOSTAND": {
+  "en": "Single tap^3 &&1 ^7to stand from crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_RAISEFROMPRONETOCROUCH": {
+  "en": "Press^3 &&1 ^7to switch from crouch from prone.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_RELOAD": {
+  "en": "Press^3 &&1 ^7to reload at any time.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SECONDWEAPONKEY": {
+  "en": "Press^3 &&1 ^7to switch to your second weapon.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SIGHTARTILLERY": {
+  "en": "Press^3 [{+binoculars}] ^7to look through your binoculars and direct artillery.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SIGHTARTILLERY_BREATH": {
+  "en": "Press^3 [{+breath_binoculars}] ^7to look through your binoculars and direct artillery.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDFROMCROUCHKEY": {
+  "en": "Double tap^3 &&1 ^7to stand up from crouch.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDFROMPRONEKEY": {
+  "en": "Press^3 &&1 ^7to stand up from prone",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDKEY": {
+  "en": "Press^3 &&1 ^7to stand up.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDLETGOCROUCHKEY": {
+  "en": "Let go of^3 &&1 ^7to stop crouching.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDLETGOPRONEKEY": {
+  "en": "Let go of^3 &&1 ^7to come out of prone.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STANDLETGOSECONDKEY": {
+  "en": "If this makes you go prone, double tap^3 &&1].",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STRAFELEFT": {
+  "en": "Press your Move Left key^3 &&1 ^7to move left.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_STRAFERIGHT": {
+  "en": "Press your Move Right key^3 &&1 ^7to move right.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SWAPWEAPONSKEY": {
+  "en": "HOLD USE^3 &&1 ^7to swap your current weapon for another that you are looking at.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SWITCHTOGRENADE": {
+  "en": "Press^3 &&1 ^7to switch to grenades",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_SWITCHTOSECONDWEAPON": {
+  "en": "You now have two weapons. Press^3 &&1 ^7to switch to your second weapon.",
+  "zones": [
+   "common"
+  ]
+ },
+ "SCRIPT_PLATFORM_HINT_TRAINING_SWITCHTOGRENADE": {
+  "en": "Press^3 &&1 ^7to switch to your grenades.",
+  "zones": [
+   "common"
+  ]
+ }
+}
