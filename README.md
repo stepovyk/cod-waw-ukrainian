@@ -8,6 +8,8 @@
 
 **[Завантажити інсталятор](../../releases/latest)**
 
+Усі мої переклади: [stepovyk.github.io](https://stepovyk.github.io) · новини: [Telegram](https://t.me/stepovyk_ua)
+
 [English below](#english)
 
 ## Що перекладено
@@ -65,5 +67,7 @@ python tools/make_release.py   # зібрати інсталятор для гр
 A complete Ukrainian localization of Call of Duty: World at War (PC, v1.7): menus, campaign subtitles and objectives, Nazi Zombies, co-op, multiplayer, credits and Windows dialogs, with redrawn game fonts that include full Cyrillic. Voice-over stays English with Ukrainian subtitles.
 
 **Install:** download `WaW-Ukrainian-1.0.2.zip` from [Releases](../../releases/latest), unpack it, close the game, run `WaW-Ukrainian-Setup.cmd`, pick the game folder and press «Встановити» (Install). Press «Видалити» (Remove) to restore English. The installer is a plain, readable PowerShell script that ships no game files: it patches your own copy in place, verifies the game version first and can revert every change.
+
+More Ukrainian translations: [stepovyk.github.io](https://stepovyk.github.io) · [Telegram](https://t.me/stepovyk_ua)
 
 Unofficial fan project, not affiliated with Activision or Treyarch. Code and translation – MIT, see [LICENSE](LICENSE).
