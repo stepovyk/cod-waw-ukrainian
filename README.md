@@ -6,7 +6,7 @@
 
 **Версія:** 1.0 · **Гра:** 1.7 · **Автор:** Stepovyk
 
-**[⬇ Завантажити інсталятор](../../releases/latest)**
+**[Завантажити інсталятор](../../releases/latest)**
 
 [English below](#english)
 
@@ -26,7 +26,7 @@
 <img src="docs/images/screen-04.jpg" width="49%" alt="Вибір місії">
 <img src="docs/images/screen-05.jpg" width="49%" alt="Налаштування">
 <img src="docs/images/screen-07.jpg" width="49%" alt="Мультиплеєр">
-<img src="docs/images/screen-08.jpg" width="49%" alt="Вибір класу">
+<img src="docs/images/screen-06.jpg" width="49%" alt="Зомбі">
 </p>
 
 ## Встановлення
