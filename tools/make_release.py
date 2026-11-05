@@ -17,7 +17,7 @@ WaW-Ukrainian.dat:
 Латки зберігають і старі байти: інсталятор перевіряє, що латає саме ту версію гри, а видалення
 повертає старі байти назад без резервних копій великих файлів.
 
-python tools/make_release.py   (після tools/build.py і tools/make_art.py)"""
+python tools/make_release.py   (після tools/build.py)"""
 import sys, struct, zlib, pathlib, zipfile
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from paths import ROOT, REPLACED, ADDED, original, built
